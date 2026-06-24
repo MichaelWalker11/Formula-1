@@ -1,0 +1,24 @@
+,5
+RoundNumber,6
+Country,Monaco
+Location,Monte Carlo
+OfficialEventName,FORMULA 1 GRAND PRIX DE MONACO 2018
+EventDate,2018-05-27 00:00:00
+EventName,Monaco Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2018-05-24 11:00:00+02:00
+Session1DateUtc,2018-05-24 09:00:00
+Session2,Practice 2
+Session2Date,2018-05-24 15:00:00+02:00
+Session2DateUtc,2018-05-24 13:00:00
+Session3,Practice 3
+Session3Date,2018-05-26 12:00:00+02:00
+Session3DateUtc,2018-05-26 10:00:00
+Session4,Qualifying
+Session4Date,2018-05-26 15:00:00+02:00
+Session4DateUtc,2018-05-26 13:00:00
+Session5,Race
+Session5Date,2018-05-27 15:10:00+02:00
+Session5DateUtc,2018-05-27 13:10:00
+F1ApiSupport,True

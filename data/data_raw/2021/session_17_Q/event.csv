@@ -1,0 +1,24 @@
+,17
+RoundNumber,17
+Country,United States
+Location,Austin
+OfficialEventName,FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2021
+EventDate,2021-10-24 00:00:00
+EventName,United States Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2021-10-22 11:30:00-05:00
+Session1DateUtc,2021-10-22 16:30:00
+Session2,Practice 2
+Session2Date,2021-10-22 15:00:00-05:00
+Session2DateUtc,2021-10-22 20:00:00
+Session3,Practice 3
+Session3Date,2021-10-23 13:00:00-05:00
+Session3DateUtc,2021-10-23 18:00:00
+Session4,Qualifying
+Session4Date,2021-10-23 16:00:00-05:00
+Session4DateUtc,2021-10-23 21:00:00
+Session5,Race
+Session5Date,2021-10-24 14:00:00-05:00
+Session5DateUtc,2021-10-24 19:00:00
+F1ApiSupport,True

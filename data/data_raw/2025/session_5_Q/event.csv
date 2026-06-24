@@ -1,0 +1,24 @@
+,5
+RoundNumber,5
+Country,Saudi Arabia
+Location,Jeddah
+OfficialEventName,FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025
+EventDate,2025-04-20 00:00:00
+EventName,Saudi Arabian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2025-04-18 16:30:00+03:00
+Session1DateUtc,2025-04-18 13:30:00
+Session2,Practice 2
+Session2Date,2025-04-18 20:00:00+03:00
+Session2DateUtc,2025-04-18 17:00:00
+Session3,Practice 3
+Session3Date,2025-04-19 16:30:00+03:00
+Session3DateUtc,2025-04-19 13:30:00
+Session4,Qualifying
+Session4Date,2025-04-19 20:00:00+03:00
+Session4DateUtc,2025-04-19 17:00:00
+Session5,Race
+Session5Date,2025-04-20 20:00:00+03:00
+Session5DateUtc,2025-04-20 17:00:00
+F1ApiSupport,True

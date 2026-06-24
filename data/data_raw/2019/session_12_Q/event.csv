@@ -1,0 +1,24 @@
+,11
+RoundNumber,12
+Country,Hungary
+Location,Budapest
+OfficialEventName,FORMULA 1 ROLEX MAGYAR NAGYDÍJ 2019
+EventDate,2019-08-04 00:00:00
+EventName,Hungarian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2019-08-02 11:00:00+02:00
+Session1DateUtc,2019-08-02 09:00:00
+Session2,Practice 2
+Session2Date,2019-08-02 15:00:00+02:00
+Session2DateUtc,2019-08-02 13:00:00
+Session3,Practice 3
+Session3Date,2019-08-03 12:00:00+02:00
+Session3DateUtc,2019-08-03 10:00:00
+Session4,Qualifying
+Session4Date,2019-08-03 15:00:00+02:00
+Session4DateUtc,2019-08-03 13:00:00
+Session5,Race
+Session5Date,2019-08-04 15:10:00+02:00
+Session5DateUtc,2019-08-04 13:10:00
+F1ApiSupport,True

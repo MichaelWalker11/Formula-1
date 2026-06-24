@@ -1,0 +1,24 @@
+,22
+RoundNumber,22
+Country,United States
+Location,Las Vegas
+OfficialEventName,FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2025
+EventDate,2025-11-22 00:00:00
+EventName,Las Vegas Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2025-11-20 16:30:00-08:00
+Session1DateUtc,2025-11-21 00:30:00
+Session2,Practice 2
+Session2Date,2025-11-20 20:00:00-08:00
+Session2DateUtc,2025-11-21 04:00:00
+Session3,Practice 3
+Session3Date,2025-11-21 16:30:00-08:00
+Session3DateUtc,2025-11-22 00:30:00
+Session4,Qualifying
+Session4Date,2025-11-21 20:00:00-08:00
+Session4DateUtc,2025-11-22 04:00:00
+Session5,Race
+Session5Date,2025-11-22 20:00:00-08:00
+Session5DateUtc,2025-11-23 04:00:00
+F1ApiSupport,True

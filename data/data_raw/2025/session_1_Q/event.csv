@@ -1,0 +1,24 @@
+,1
+RoundNumber,1
+Country,Australia
+Location,Melbourne
+OfficialEventName,FORMULA 1 LOUIS VUITTON AUSTRALIAN GRAND PRIX 2025
+EventDate,2025-03-16 00:00:00
+EventName,Australian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2025-03-14 12:30:00+11:00
+Session1DateUtc,2025-03-14 01:30:00
+Session2,Practice 2
+Session2Date,2025-03-14 16:00:00+11:00
+Session2DateUtc,2025-03-14 05:00:00
+Session3,Practice 3
+Session3Date,2025-03-15 12:30:00+11:00
+Session3DateUtc,2025-03-15 01:30:00
+Session4,Qualifying
+Session4Date,2025-03-15 16:00:00+11:00
+Session4DateUtc,2025-03-15 05:00:00
+Session5,Race
+Session5Date,2025-03-16 15:00:00+11:00
+Session5DateUtc,2025-03-16 04:00:00
+F1ApiSupport,True

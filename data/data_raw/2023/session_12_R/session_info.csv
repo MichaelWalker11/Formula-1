@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1216,,9141,Race,Race,2023-07-30 15:00:00,2023-07-30 17:00:00,0 days 02:00:00,2023/2023-07-30_Belgian_Grand_Prix/2023-07-30_Race/
+Name,Belgian Grand Prix,,9141,Race,Race,2023-07-30 15:00:00,2023-07-30 17:00:00,0 days 02:00:00,2023/2023-07-30_Belgian_Grand_Prix/2023-07-30_Race/
+OfficialName,FORMULA 1 MSC CRUISES BELGIAN GRAND PRIX 2023,,9141,Race,Race,2023-07-30 15:00:00,2023-07-30 17:00:00,0 days 02:00:00,2023/2023-07-30_Belgian_Grand_Prix/2023-07-30_Race/
+Location,Spa-Francorchamps,,9141,Race,Race,2023-07-30 15:00:00,2023-07-30 17:00:00,0 days 02:00:00,2023/2023-07-30_Belgian_Grand_Prix/2023-07-30_Race/
+Country,"{'Key': 16, 'Code': 'BEL', 'Name': 'Belgium'}",,9141,Race,Race,2023-07-30 15:00:00,2023-07-30 17:00:00,0 days 02:00:00,2023/2023-07-30_Belgian_Grand_Prix/2023-07-30_Race/
+Circuit,"{'Key': 7, 'ShortName': 'Spa-Francorchamps'}",,9141,Race,Race,2023-07-30 15:00:00,2023-07-30 17:00:00,0 days 02:00:00,2023/2023-07-30_Belgian_Grand_Prix/2023-07-30_Race/
+Status,,Generating,9141,Race,Race,2023-07-30 15:00:00,2023-07-30 17:00:00,0 days 02:00:00,2023/2023-07-30_Belgian_Grand_Prix/2023-07-30_Race/

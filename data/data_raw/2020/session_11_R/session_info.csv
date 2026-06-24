@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1055,,5888,Race,Race,2020-10-11 15:10:00,2020-10-11 17:10:00,0 days 02:00:00,2020/2020-10-11_Eifel_Grand_Prix/2020-10-11_Race/
+Name,Eifel Grand Prix,,5888,Race,Race,2020-10-11 15:10:00,2020-10-11 17:10:00,0 days 02:00:00,2020/2020-10-11_Eifel_Grand_Prix/2020-10-11_Race/
+Location,Nürburgring,,5888,Race,Race,2020-10-11 15:10:00,2020-10-11 17:10:00,0 days 02:00:00,2020/2020-10-11_Eifel_Grand_Prix/2020-10-11_Race/
+Country,"{'Key': 3, 'Code': 'GER', 'Name': 'Germany'}",,5888,Race,Race,2020-10-11 15:10:00,2020-10-11 17:10:00,0 days 02:00:00,2020/2020-10-11_Eifel_Grand_Prix/2020-10-11_Race/
+Circuit,"{'Key': 72, 'ShortName': 'Nürburgring'}",,5888,Race,Race,2020-10-11 15:10:00,2020-10-11 17:10:00,0 days 02:00:00,2020/2020-10-11_Eifel_Grand_Prix/2020-10-11_Race/
+Status,,Generating,5888,Race,Race,2020-10-11 15:10:00,2020-10-11 17:10:00,0 days 02:00:00,2020/2020-10-11_Eifel_Grand_Prix/2020-10-11_Race/

@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1104,,6669,Qualifying,Qualifying,2021-11-12 16:00:00,2021-11-12 17:00:00,-1 days +21:00:00,2021/2021-11-14_São_Paulo_Grand_Prix/2021-11-12_Qualifying/
+Name,São Paulo Grand Prix,,6669,Qualifying,Qualifying,2021-11-12 16:00:00,2021-11-12 17:00:00,-1 days +21:00:00,2021/2021-11-14_São_Paulo_Grand_Prix/2021-11-12_Qualifying/
+Location,São Paulo,,6669,Qualifying,Qualifying,2021-11-12 16:00:00,2021-11-12 17:00:00,-1 days +21:00:00,2021/2021-11-14_São_Paulo_Grand_Prix/2021-11-12_Qualifying/
+Country,"{'Key': 10, 'Code': 'BRA', 'Name': 'Brazil'}",,6669,Qualifying,Qualifying,2021-11-12 16:00:00,2021-11-12 17:00:00,-1 days +21:00:00,2021/2021-11-14_São_Paulo_Grand_Prix/2021-11-12_Qualifying/
+Circuit,"{'Key': 14, 'ShortName': 'Interlagos'}",,6669,Qualifying,Qualifying,2021-11-12 16:00:00,2021-11-12 17:00:00,-1 days +21:00:00,2021/2021-11-14_São_Paulo_Grand_Prix/2021-11-12_Qualifying/
+Status,,Generating,6669,Qualifying,Qualifying,2021-11-12 16:00:00,2021-11-12 17:00:00,-1 days +21:00:00,2021/2021-11-14_São_Paulo_Grand_Prix/2021-11-12_Qualifying/

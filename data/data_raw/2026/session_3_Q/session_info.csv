@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1281,Inactive,,11249,Qualifying,Qualifying,2026-03-28 15:00:00,2026-03-28 16:00:00,0 days 09:00:00,2026/2026-03-29_Japanese_Grand_Prix/2026-03-28_Qualifying/
+Name,Japanese Grand Prix,Inactive,,11249,Qualifying,Qualifying,2026-03-28 15:00:00,2026-03-28 16:00:00,0 days 09:00:00,2026/2026-03-29_Japanese_Grand_Prix/2026-03-28_Qualifying/
+OfficialName,FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026,Inactive,,11249,Qualifying,Qualifying,2026-03-28 15:00:00,2026-03-28 16:00:00,0 days 09:00:00,2026/2026-03-29_Japanese_Grand_Prix/2026-03-28_Qualifying/
+Location,Suzuka,Inactive,,11249,Qualifying,Qualifying,2026-03-28 15:00:00,2026-03-28 16:00:00,0 days 09:00:00,2026/2026-03-29_Japanese_Grand_Prix/2026-03-28_Qualifying/
+Number,3,Inactive,,11249,Qualifying,Qualifying,2026-03-28 15:00:00,2026-03-28 16:00:00,0 days 09:00:00,2026/2026-03-29_Japanese_Grand_Prix/2026-03-28_Qualifying/
+Country,"{'Key': 4, 'Code': 'JPN', 'Name': 'Japan'}",Inactive,,11249,Qualifying,Qualifying,2026-03-28 15:00:00,2026-03-28 16:00:00,0 days 09:00:00,2026/2026-03-29_Japanese_Grand_Prix/2026-03-28_Qualifying/
+Circuit,"{'Key': 46, 'ShortName': 'Suzuka'}",Inactive,,11249,Qualifying,Qualifying,2026-03-28 15:00:00,2026-03-28 16:00:00,0 days 09:00:00,2026/2026-03-29_Japanese_Grand_Prix/2026-03-28_Qualifying/
+Status,,Inactive,Generating,11249,Qualifying,Qualifying,2026-03-28 15:00:00,2026-03-28 16:00:00,0 days 09:00:00,2026/2026-03-29_Japanese_Grand_Prix/2026-03-28_Qualifying/

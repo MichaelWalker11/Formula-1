@@ -1,0 +1,24 @@
+,1
+RoundNumber,2
+Country,Bahrain
+Location,Sakhir
+OfficialEventName,FORMULA 1 2018 GULF AIR BAHRAIN GRAND PRIX
+EventDate,2018-04-08 00:00:00
+EventName,Bahrain Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2018-04-06 14:00:00+03:00
+Session1DateUtc,2018-04-06 11:00:00
+Session2,Practice 2
+Session2Date,2018-04-06 18:00:00+03:00
+Session2DateUtc,2018-04-06 15:00:00
+Session3,Practice 3
+Session3Date,2018-04-07 15:00:00+03:00
+Session3DateUtc,2018-04-07 12:00:00
+Session4,Qualifying
+Session4Date,2018-04-07 18:00:00+03:00
+Session4DateUtc,2018-04-07 15:00:00
+Session5,Race
+Session5Date,2018-04-08 18:10:00+03:00
+Session5DateUtc,2018-04-08 15:10:00
+F1ApiSupport,True

@@ -1,0 +1,24 @@
+,14
+RoundNumber,13
+Country,Hungary
+Location,Budapest
+OfficialEventName,FORMULA 1 ARAMCO MAGYAR NAGYDÍJ 2022
+EventDate,2022-07-31 00:00:00
+EventName,Hungarian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2022-07-29 14:00:00+02:00
+Session1DateUtc,2022-07-29 12:00:00
+Session2,Practice 2
+Session2Date,2022-07-29 17:00:00+02:00
+Session2DateUtc,2022-07-29 15:00:00
+Session3,Practice 3
+Session3Date,2022-07-30 13:00:00+02:00
+Session3DateUtc,2022-07-30 11:00:00
+Session4,Qualifying
+Session4Date,2022-07-30 16:00:00+02:00
+Session4DateUtc,2022-07-30 14:00:00
+Session5,Race
+Session5Date,2022-07-31 15:00:00+02:00
+Session5DateUtc,2022-07-31 13:00:00
+F1ApiSupport,True

@@ -1,0 +1,24 @@
+,16
+RoundNumber,17
+Country,Japan
+Location,Suzuka
+OfficialEventName,FORMULA 1 JAPANESE GRAND PRIX 2019
+EventDate,2019-10-13 00:00:00
+EventName,Japanese Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2019-10-11 10:00:00+09:00
+Session1DateUtc,2019-10-11 01:00:00
+Session2,Practice 2
+Session2Date,2019-10-11 14:00:00+09:00
+Session2DateUtc,2019-10-11 05:00:00
+Session3,Practice 3
+Session3Date,2019-10-12 12:00:00+09:00
+Session3DateUtc,2019-10-12 03:00:00
+Session4,Qualifying
+Session4Date,2019-10-13 10:00:00+09:00
+Session4DateUtc,2019-10-13 01:00:00
+Session5,Race
+Session5Date,2019-10-13 14:10:00+09:00
+Session5DateUtc,2019-10-13 05:10:00
+F1ApiSupport,True

@@ -1,0 +1,9 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1256,,10006,Race,Race,2025-04-06 14:00:00,2025-04-06 16:00:00,0 days 09:00:00,2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/
+Name,Japanese Grand Prix,,10006,Race,Race,2025-04-06 14:00:00,2025-04-06 16:00:00,0 days 09:00:00,2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/
+OfficialName,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2025 ,,10006,Race,Race,2025-04-06 14:00:00,2025-04-06 16:00:00,0 days 09:00:00,2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/
+Location,Suzuka,,10006,Race,Race,2025-04-06 14:00:00,2025-04-06 16:00:00,0 days 09:00:00,2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/
+Number,3,,10006,Race,Race,2025-04-06 14:00:00,2025-04-06 16:00:00,0 days 09:00:00,2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/
+Country,"{'Key': 4, 'Code': 'JPN', 'Name': 'Japan'}",,10006,Race,Race,2025-04-06 14:00:00,2025-04-06 16:00:00,0 days 09:00:00,2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/
+Circuit,"{'Key': 46, 'ShortName': 'Suzuka'}",,10006,Race,Race,2025-04-06 14:00:00,2025-04-06 16:00:00,0 days 09:00:00,2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/
+Status,,Generating,10006,Race,Race,2025-04-06 14:00:00,2025-04-06 16:00:00,0 days 09:00:00,2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/

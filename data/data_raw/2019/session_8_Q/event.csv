@@ -1,0 +1,24 @@
+,7
+RoundNumber,8
+Country,France
+Location,Le Castellet
+OfficialEventName,FORMULA 1 PIRELLI GRAND PRIX DE FRANCE 2019
+EventDate,2019-06-23 00:00:00
+EventName,French Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2019-06-21 11:00:00+02:00
+Session1DateUtc,2019-06-21 09:00:00
+Session2,Practice 2
+Session2Date,2019-06-21 15:00:00+02:00
+Session2DateUtc,2019-06-21 13:00:00
+Session3,Practice 3
+Session3Date,2019-06-22 12:00:00+02:00
+Session3DateUtc,2019-06-22 10:00:00
+Session4,Qualifying
+Session4Date,2019-06-22 15:00:00+02:00
+Session4DateUtc,2019-06-22 13:00:00
+Session5,Race
+Session5Date,2019-06-23 15:10:00+02:00
+Session5DateUtc,2019-06-23 13:10:00
+F1ApiSupport,True

@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1056,,5896,Race,Race,2020-10-25 13:10:00,2020-10-25 15:10:00,0 days,2020/2020-10-25_Portuguese_Grand_Prix/2020-10-25_Race/
+Name,Portuguese Grand Prix,,5896,Race,Race,2020-10-25 13:10:00,2020-10-25 15:10:00,0 days,2020/2020-10-25_Portuguese_Grand_Prix/2020-10-25_Race/
+Location,Portimão,,5896,Race,Race,2020-10-25 13:10:00,2020-10-25 15:10:00,0 days,2020/2020-10-25_Portuguese_Grand_Prix/2020-10-25_Race/
+Country,"{'Key': 146, 'Code': 'POR', 'Name': 'Portugal'}",,5896,Race,Race,2020-10-25 13:10:00,2020-10-25 15:10:00,0 days,2020/2020-10-25_Portuguese_Grand_Prix/2020-10-25_Race/
+Circuit,"{'Key': 147, 'ShortName': 'Algarve International Circuit'}",,5896,Race,Race,2020-10-25 13:10:00,2020-10-25 15:10:00,0 days,2020/2020-10-25_Portuguese_Grand_Prix/2020-10-25_Race/
+Status,,Generating,5896,Race,Race,2020-10-25 13:10:00,2020-10-25 15:10:00,0 days,2020/2020-10-25_Portuguese_Grand_Prix/2020-10-25_Race/

@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1048,,5772,Qualifying,Qualifying,2020-08-01 14:00:00,2020-08-01 15:00:00,0 days 01:00:00,2020/2020-08-02_British_Grand_Prix/2020-08-01_Qualifying/
+Name,British Grand Prix,,5772,Qualifying,Qualifying,2020-08-01 14:00:00,2020-08-01 15:00:00,0 days 01:00:00,2020/2020-08-02_British_Grand_Prix/2020-08-01_Qualifying/
+Location,Silverstone,,5772,Qualifying,Qualifying,2020-08-01 14:00:00,2020-08-01 15:00:00,0 days 01:00:00,2020/2020-08-02_British_Grand_Prix/2020-08-01_Qualifying/
+Country,"{'Key': 2, 'Code': 'GBR', 'Name': 'Great Britain'}",,5772,Qualifying,Qualifying,2020-08-01 14:00:00,2020-08-01 15:00:00,0 days 01:00:00,2020/2020-08-02_British_Grand_Prix/2020-08-01_Qualifying/
+Circuit,"{'Key': 2, 'ShortName': 'Silverstone'}",,5772,Qualifying,Qualifying,2020-08-01 14:00:00,2020-08-01 15:00:00,0 days 01:00:00,2020/2020-08-02_British_Grand_Prix/2020-08-01_Qualifying/
+Status,,Generating,5772,Qualifying,Qualifying,2020-08-01 14:00:00,2020-08-01 15:00:00,0 days 01:00:00,2020/2020-08-02_British_Grand_Prix/2020-08-01_Qualifying/

@@ -1,0 +1,24 @@
+,6
+RoundNumber,6
+Country,United States
+Location,Miami
+OfficialEventName,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2024
+EventDate,2024-05-05 00:00:00
+EventName,Miami Grand Prix
+EventFormat,sprint_qualifying
+Session1,Practice 1
+Session1Date,2024-05-03 12:30:00-04:00
+Session1DateUtc,2024-05-03 16:30:00
+Session2,Sprint Qualifying
+Session2Date,2024-05-03 16:30:00-04:00
+Session2DateUtc,2024-05-03 20:30:00
+Session3,Sprint
+Session3Date,2024-05-04 12:00:00-04:00
+Session3DateUtc,2024-05-04 16:00:00
+Session4,Qualifying
+Session4Date,2024-05-04 16:00:00-04:00
+Session4DateUtc,2024-05-04 20:00:00
+Session5,Race
+Session5Date,2024-05-05 16:00:00-04:00
+Session5DateUtc,2024-05-05 20:00:00
+F1ApiSupport,True

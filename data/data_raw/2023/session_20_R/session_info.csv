@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1224,,9205,Race,Race,2023-11-05 14:00:00,2023-11-05 16:00:00,-1 days +21:00:00,2023/2023-11-05_São_Paulo_Grand_Prix/2023-11-05_Race/
+Name,São Paulo Grand Prix,,9205,Race,Race,2023-11-05 14:00:00,2023-11-05 16:00:00,-1 days +21:00:00,2023/2023-11-05_São_Paulo_Grand_Prix/2023-11-05_Race/
+OfficialName,FORMULA 1 ROLEX GRANDE PRÊMIO DE SÃO PAULO 2023,,9205,Race,Race,2023-11-05 14:00:00,2023-11-05 16:00:00,-1 days +21:00:00,2023/2023-11-05_São_Paulo_Grand_Prix/2023-11-05_Race/
+Location,São Paulo,,9205,Race,Race,2023-11-05 14:00:00,2023-11-05 16:00:00,-1 days +21:00:00,2023/2023-11-05_São_Paulo_Grand_Prix/2023-11-05_Race/
+Country,"{'Key': 10, 'Code': 'BRA', 'Name': 'Brazil'}",,9205,Race,Race,2023-11-05 14:00:00,2023-11-05 16:00:00,-1 days +21:00:00,2023/2023-11-05_São_Paulo_Grand_Prix/2023-11-05_Race/
+Circuit,"{'Key': 14, 'ShortName': 'Interlagos'}",,9205,Race,Race,2023-11-05 14:00:00,2023-11-05 16:00:00,-1 days +21:00:00,2023/2023-11-05_São_Paulo_Grand_Prix/2023-11-05_Race/
+Status,,Generating,9205,Race,Race,2023-11-05 14:00:00,2023-11-05 16:00:00,-1 days +21:00:00,2023/2023-11-05_São_Paulo_Grand_Prix/2023-11-05_Race/

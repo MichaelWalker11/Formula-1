@@ -1,0 +1,24 @@
+,13
+RoundNumber,12
+Country,France
+Location,Le Castellet
+OfficialEventName,FORMULA 1 LENOVO GRAND PRIX DE FRANCE 2022
+EventDate,2022-07-24 00:00:00
+EventName,French Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2022-07-22 14:00:00+02:00
+Session1DateUtc,2022-07-22 12:00:00
+Session2,Practice 2
+Session2Date,2022-07-22 17:00:00+02:00
+Session2DateUtc,2022-07-22 15:00:00
+Session3,Practice 3
+Session3Date,2022-07-23 13:00:00+02:00
+Session3DateUtc,2022-07-23 11:00:00
+Session4,Qualifying
+Session4Date,2022-07-23 16:00:00+02:00
+Session4DateUtc,2022-07-23 14:00:00
+Session5,Race
+Session5Date,2022-07-24 15:00:00+02:00
+Session5DateUtc,2022-07-24 13:00:00
+F1ApiSupport,True

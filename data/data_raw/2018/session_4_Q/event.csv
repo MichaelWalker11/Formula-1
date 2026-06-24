@@ -1,0 +1,24 @@
+,3
+RoundNumber,4
+Country,Azerbaijan
+Location,Baku
+OfficialEventName,FORMULA 1 2018 AZERBAIJAN GRAND PRIX
+EventDate,2018-04-29 00:00:00
+EventName,Azerbaijan Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2018-04-27 13:00:00+04:00
+Session1DateUtc,2018-04-27 09:00:00
+Session2,Practice 2
+Session2Date,2018-04-27 17:00:00+04:00
+Session2DateUtc,2018-04-27 13:00:00
+Session3,Practice 3
+Session3Date,2018-04-28 14:00:00+04:00
+Session3DateUtc,2018-04-28 10:00:00
+Session4,Qualifying
+Session4Date,2018-04-28 17:00:00+04:00
+Session4DateUtc,2018-04-28 13:00:00
+Session5,Race
+Session5Date,2018-04-29 16:10:00+04:00
+Session5DateUtc,2018-04-29 12:10:00
+F1ApiSupport,True

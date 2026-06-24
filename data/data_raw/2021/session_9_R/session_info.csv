@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1071,,6249,Race,Race,2021-07-04 15:00:00,2021-07-04 17:00:00,0 days 02:00:00,2021/2021-07-04_Austrian_Grand_Prix/2021-07-04_Race/
+Name,Austrian Grand Prix,,6249,Race,Race,2021-07-04 15:00:00,2021-07-04 17:00:00,0 days 02:00:00,2021/2021-07-04_Austrian_Grand_Prix/2021-07-04_Race/
+Location,Spielberg,,6249,Race,Race,2021-07-04 15:00:00,2021-07-04 17:00:00,0 days 02:00:00,2021/2021-07-04_Austrian_Grand_Prix/2021-07-04_Race/
+Country,"{'Key': 17, 'Code': 'AUT', 'Name': 'Austria'}",,6249,Race,Race,2021-07-04 15:00:00,2021-07-04 17:00:00,0 days 02:00:00,2021/2021-07-04_Austrian_Grand_Prix/2021-07-04_Race/
+Circuit,"{'Key': 19, 'ShortName': 'Spielberg'}",,6249,Race,Race,2021-07-04 15:00:00,2021-07-04 17:00:00,0 days 02:00:00,2021/2021-07-04_Austrian_Grand_Prix/2021-07-04_Race/
+Status,,Generating,6249,Race,Race,2021-07-04 15:00:00,2021-07-04 17:00:00,0 days 02:00:00,2021/2021-07-04_Austrian_Grand_Prix/2021-07-04_Race/

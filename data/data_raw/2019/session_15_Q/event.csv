@@ -1,0 +1,24 @@
+,14
+RoundNumber,15
+Country,Singapore
+Location,Singapore
+OfficialEventName,FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2019
+EventDate,2019-09-22 00:00:00
+EventName,Singapore Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2019-09-20 16:30:00+08:00
+Session1DateUtc,2019-09-20 08:30:00
+Session2,Practice 2
+Session2Date,2019-09-20 20:30:00+08:00
+Session2DateUtc,2019-09-20 12:30:00
+Session3,Practice 3
+Session3Date,2019-09-21 18:00:00+08:00
+Session3DateUtc,2019-09-21 10:00:00
+Session4,Qualifying
+Session4Date,2019-09-21 21:00:00+08:00
+Session4DateUtc,2019-09-21 13:00:00
+Session5,Race
+Session5Date,2019-09-22 20:10:00+08:00
+Session5DateUtc,2019-09-22 12:10:00
+F1ApiSupport,True

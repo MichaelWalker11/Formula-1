@@ -1,0 +1,24 @@
+,21
+RoundNumber,21
+Country,Brazil
+Location,São Paulo
+OfficialEventName,FORMULA 1 LENOVO GRANDE PRÊMIO DE SÃO PAULO 2024
+EventDate,2024-11-03 00:00:00
+EventName,São Paulo Grand Prix
+EventFormat,sprint_qualifying
+Session1,Practice 1
+Session1Date,2024-11-01 11:30:00-03:00
+Session1DateUtc,2024-11-01 14:30:00
+Session2,Sprint Qualifying
+Session2Date,2024-11-01 15:30:00-03:00
+Session2DateUtc,2024-11-01 18:30:00
+Session3,Sprint
+Session3Date,2024-11-02 11:00:00-03:00
+Session3DateUtc,2024-11-02 14:00:00
+Session4,Qualifying
+Session4Date,2024-11-03 07:30:00-03:00
+Session4DateUtc,2024-11-03 10:30:00
+Session5,Race
+Session5Date,2024-11-03 12:30:00-03:00
+Session5DateUtc,2024-11-03 15:30:00
+F1ApiSupport,True

@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1078,,6659,Race,Race,2021-10-10 15:00:00,2021-10-10 17:00:00,0 days 03:00:00,2021/2021-10-10_Turkish_Grand_Prix/2021-10-10_Race/
+Name,Turkish Grand Prix,,6659,Race,Race,2021-10-10 15:00:00,2021-10-10 17:00:00,0 days 03:00:00,2021/2021-10-10_Turkish_Grand_Prix/2021-10-10_Race/
+Location,Istanbul,,6659,Race,Race,2021-10-10 15:00:00,2021-10-10 17:00:00,0 days 03:00:00,2021/2021-10-10_Turkish_Grand_Prix/2021-10-10_Race/
+Country,"{'Key': 175, 'Code': 'TUR', 'Name': 'Turkey'}",,6659,Race,Race,2021-10-10 15:00:00,2021-10-10 17:00:00,0 days 03:00:00,2021/2021-10-10_Turkish_Grand_Prix/2021-10-10_Race/
+Circuit,"{'Key': 59, 'ShortName': 'Istanbul'}",,6659,Race,Race,2021-10-10 15:00:00,2021-10-10 17:00:00,0 days 03:00:00,2021/2021-10-10_Turkish_Grand_Prix/2021-10-10_Race/
+Status,,Generating,6659,Race,Race,2021-10-10 15:00:00,2021-10-10 17:00:00,0 days 03:00:00,2021/2021-10-10_Turkish_Grand_Prix/2021-10-10_Race/

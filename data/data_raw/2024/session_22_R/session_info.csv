@@ -1,0 +1,9 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1250,,9644,Race,Race,2024-11-23 22:00:00,2024-11-24,-1 days +16:00:00,2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/
+Name,Las Vegas Grand Prix,,9644,Race,Race,2024-11-23 22:00:00,2024-11-24,-1 days +16:00:00,2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/
+OfficialName,FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024,,9644,Race,Race,2024-11-23 22:00:00,2024-11-24,-1 days +16:00:00,2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/
+Location,Las Vegas,,9644,Race,Race,2024-11-23 22:00:00,2024-11-24,-1 days +16:00:00,2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/
+Number,22,,9644,Race,Race,2024-11-23 22:00:00,2024-11-24,-1 days +16:00:00,2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/
+Country,"{'Key': 19, 'Code': 'USA', 'Name': 'United States'}",,9644,Race,Race,2024-11-23 22:00:00,2024-11-24,-1 days +16:00:00,2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/
+Circuit,"{'Key': 152, 'ShortName': 'Las Vegas'}",,9644,Race,Race,2024-11-23 22:00:00,2024-11-24,-1 days +16:00:00,2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/
+Status,,Generating,9644,Race,Race,2024-11-23 22:00:00,2024-11-24,-1 days +16:00:00,2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/

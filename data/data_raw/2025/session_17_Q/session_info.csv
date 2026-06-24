@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1269,Inactive,,9900,Qualifying,Qualifying,2025-09-20 16:00:00,2025-09-20 17:00:00,0 days 04:00:00,2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/
+Name,Azerbaijan Grand Prix,Inactive,,9900,Qualifying,Qualifying,2025-09-20 16:00:00,2025-09-20 17:00:00,0 days 04:00:00,2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/
+OfficialName,FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025,Inactive,,9900,Qualifying,Qualifying,2025-09-20 16:00:00,2025-09-20 17:00:00,0 days 04:00:00,2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/
+Location,Baku,Inactive,,9900,Qualifying,Qualifying,2025-09-20 16:00:00,2025-09-20 17:00:00,0 days 04:00:00,2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/
+Number,17,Inactive,,9900,Qualifying,Qualifying,2025-09-20 16:00:00,2025-09-20 17:00:00,0 days 04:00:00,2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/
+Country,"{'Key': 30, 'Code': 'AZE', 'Name': 'Azerbaijan'}",Inactive,,9900,Qualifying,Qualifying,2025-09-20 16:00:00,2025-09-20 17:00:00,0 days 04:00:00,2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/
+Circuit,"{'Key': 144, 'ShortName': 'Baku'}",Inactive,,9900,Qualifying,Qualifying,2025-09-20 16:00:00,2025-09-20 17:00:00,0 days 04:00:00,2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/
+Status,,Inactive,Generating,9900,Qualifying,Qualifying,2025-09-20 16:00:00,2025-09-20 17:00:00,0 days 04:00:00,2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/

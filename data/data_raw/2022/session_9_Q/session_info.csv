@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1113,,7091,Qualifying,Qualifying,2022-06-18 16:00:00,2022-06-18 17:00:00,-1 days +20:00:00,2022/2022-06-19_Canadian_Grand_Prix/2022-06-18_Qualifying/
+Name,Canadian Grand Prix,,7091,Qualifying,Qualifying,2022-06-18 16:00:00,2022-06-18 17:00:00,-1 days +20:00:00,2022/2022-06-19_Canadian_Grand_Prix/2022-06-18_Qualifying/
+OfficialName,FORMULA 1 AWS GRAND PRIX DU CANADA 2022,,7091,Qualifying,Qualifying,2022-06-18 16:00:00,2022-06-18 17:00:00,-1 days +20:00:00,2022/2022-06-19_Canadian_Grand_Prix/2022-06-18_Qualifying/
+Location,Montréal,,7091,Qualifying,Qualifying,2022-06-18 16:00:00,2022-06-18 17:00:00,-1 days +20:00:00,2022/2022-06-19_Canadian_Grand_Prix/2022-06-18_Qualifying/
+Country,"{'Key': 46, 'Code': 'CAN', 'Name': 'Canada'}",,7091,Qualifying,Qualifying,2022-06-18 16:00:00,2022-06-18 17:00:00,-1 days +20:00:00,2022/2022-06-19_Canadian_Grand_Prix/2022-06-18_Qualifying/
+Circuit,"{'Key': 23, 'ShortName': 'Montreal'}",,7091,Qualifying,Qualifying,2022-06-18 16:00:00,2022-06-18 17:00:00,-1 days +20:00:00,2022/2022-06-19_Canadian_Grand_Prix/2022-06-18_Qualifying/
+Status,,Generating,7091,Qualifying,Qualifying,2022-06-18 16:00:00,2022-06-18 17:00:00,-1 days +20:00:00,2022/2022-06-19_Canadian_Grand_Prix/2022-06-18_Qualifying/

@@ -1,0 +1,24 @@
+,11
+RoundNumber,10
+Country,Great Britain
+Location,Silverstone
+OfficialEventName,FORMULA 1 LENOVO BRITISH GRAND PRIX 2022
+EventDate,2022-07-03 00:00:00
+EventName,British Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2022-07-01 13:00:00+01:00
+Session1DateUtc,2022-07-01 12:00:00
+Session2,Practice 2
+Session2Date,2022-07-01 16:00:00+01:00
+Session2DateUtc,2022-07-01 15:00:00
+Session3,Practice 3
+Session3Date,2022-07-02 12:00:00+01:00
+Session3DateUtc,2022-07-02 11:00:00
+Session4,Qualifying
+Session4Date,2022-07-02 15:00:00+01:00
+Session4DateUtc,2022-07-02 14:00:00
+Session5,Race
+Session5Date,2022-07-03 15:00:00+01:00
+Session5DateUtc,2022-07-03 14:00:00
+F1ApiSupport,True

@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1262,Inactive,,9971,Race,Race,2025-06-01 15:00:00,2025-06-01 17:00:00,0 days 02:00:00,2025/2025-06-01_Spanish_Grand_Prix/2025-06-01_Race/
+Name,Spanish Grand Prix,Inactive,,9971,Race,Race,2025-06-01 15:00:00,2025-06-01 17:00:00,0 days 02:00:00,2025/2025-06-01_Spanish_Grand_Prix/2025-06-01_Race/
+OfficialName,FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2025,Inactive,,9971,Race,Race,2025-06-01 15:00:00,2025-06-01 17:00:00,0 days 02:00:00,2025/2025-06-01_Spanish_Grand_Prix/2025-06-01_Race/
+Location,Barcelona,Inactive,,9971,Race,Race,2025-06-01 15:00:00,2025-06-01 17:00:00,0 days 02:00:00,2025/2025-06-01_Spanish_Grand_Prix/2025-06-01_Race/
+Number,9,Inactive,,9971,Race,Race,2025-06-01 15:00:00,2025-06-01 17:00:00,0 days 02:00:00,2025/2025-06-01_Spanish_Grand_Prix/2025-06-01_Race/
+Country,"{'Key': 1, 'Code': 'ESP', 'Name': 'Spain'}",Inactive,,9971,Race,Race,2025-06-01 15:00:00,2025-06-01 17:00:00,0 days 02:00:00,2025/2025-06-01_Spanish_Grand_Prix/2025-06-01_Race/
+Circuit,"{'Key': 15, 'ShortName': 'Catalunya'}",Inactive,,9971,Race,Race,2025-06-01 15:00:00,2025-06-01 17:00:00,0 days 02:00:00,2025/2025-06-01_Spanish_Grand_Prix/2025-06-01_Race/
+Status,,Inactive,Generating,9971,Race,Race,2025-06-01 15:00:00,2025-06-01 17:00:00,0 days 02:00:00,2025/2025-06-01_Spanish_Grand_Prix/2025-06-01_Race/

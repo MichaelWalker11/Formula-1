@@ -1,0 +1,24 @@
+,10
+RoundNumber,10
+Country,Canada
+Location,Montréal
+OfficialEventName,FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2025
+EventDate,2025-06-15 00:00:00
+EventName,Canadian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2025-06-13 13:30:00-04:00
+Session1DateUtc,2025-06-13 17:30:00
+Session2,Practice 2
+Session2Date,2025-06-13 17:00:00-04:00
+Session2DateUtc,2025-06-13 21:00:00
+Session3,Practice 3
+Session3Date,2025-06-14 12:30:00-04:00
+Session3DateUtc,2025-06-14 16:30:00
+Session4,Qualifying
+Session4Date,2025-06-14 16:00:00-04:00
+Session4DateUtc,2025-06-14 20:00:00
+Session5,Race
+Session5Date,2025-06-15 14:00:00-04:00
+Session5DateUtc,2025-06-15 18:00:00
+F1ApiSupport,True

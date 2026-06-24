@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1272,Inactive,,9877,Race,Race,2025-10-26 14:00:00,2025-10-26 16:00:00,-1 days +18:00:00,2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-26_Race/
+Name,Mexico City Grand Prix,Inactive,,9877,Race,Race,2025-10-26 14:00:00,2025-10-26 16:00:00,-1 days +18:00:00,2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-26_Race/
+OfficialName,FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2025,Inactive,,9877,Race,Race,2025-10-26 14:00:00,2025-10-26 16:00:00,-1 days +18:00:00,2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-26_Race/
+Location,Mexico City,Inactive,,9877,Race,Race,2025-10-26 14:00:00,2025-10-26 16:00:00,-1 days +18:00:00,2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-26_Race/
+Number,20,Inactive,,9877,Race,Race,2025-10-26 14:00:00,2025-10-26 16:00:00,-1 days +18:00:00,2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-26_Race/
+Country,"{'Key': 8, 'Code': 'MEX', 'Name': 'Mexico'}",Inactive,,9877,Race,Race,2025-10-26 14:00:00,2025-10-26 16:00:00,-1 days +18:00:00,2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-26_Race/
+Circuit,"{'Key': 65, 'ShortName': 'Mexico City'}",Inactive,,9877,Race,Race,2025-10-26 14:00:00,2025-10-26 16:00:00,-1 days +18:00:00,2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-26_Race/
+Status,,Inactive,Generating,9877,Race,Race,2025-10-26 14:00:00,2025-10-26 16:00:00,-1 days +18:00:00,2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-26_Race/

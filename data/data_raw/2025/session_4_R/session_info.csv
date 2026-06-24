@@ -1,0 +1,9 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1257,,10014,Race,Race,2025-04-13 18:00:00,2025-04-13 20:00:00,0 days 03:00:00,2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/
+Name,Bahrain Grand Prix,,10014,Race,Race,2025-04-13 18:00:00,2025-04-13 20:00:00,0 days 03:00:00,2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/
+OfficialName,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2025,,10014,Race,Race,2025-04-13 18:00:00,2025-04-13 20:00:00,0 days 03:00:00,2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/
+Location,Sakhir,,10014,Race,Race,2025-04-13 18:00:00,2025-04-13 20:00:00,0 days 03:00:00,2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/
+Number,4,,10014,Race,Race,2025-04-13 18:00:00,2025-04-13 20:00:00,0 days 03:00:00,2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/
+Country,"{'Key': 36, 'Code': 'BRN', 'Name': 'Bahrain'}",,10014,Race,Race,2025-04-13 18:00:00,2025-04-13 20:00:00,0 days 03:00:00,2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/
+Circuit,"{'Key': 63, 'ShortName': 'Sakhir'}",,10014,Race,Race,2025-04-13 18:00:00,2025-04-13 20:00:00,0 days 03:00:00,2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/
+Status,,Generating,10014,Race,Race,2025-04-13 18:00:00,2025-04-13 20:00:00,0 days 03:00:00,2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/

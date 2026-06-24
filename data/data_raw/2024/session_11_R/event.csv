@@ -1,0 +1,24 @@
+,11
+RoundNumber,11
+Country,Austria
+Location,Spielberg
+OfficialEventName,FORMULA 1 QATAR AIRWAYS AUSTRIAN GRAND PRIX 2024
+EventDate,2024-06-30 00:00:00
+EventName,Austrian Grand Prix
+EventFormat,sprint_qualifying
+Session1,Practice 1
+Session1Date,2024-06-28 12:30:00+02:00
+Session1DateUtc,2024-06-28 10:30:00
+Session2,Sprint Qualifying
+Session2Date,2024-06-28 16:30:00+02:00
+Session2DateUtc,2024-06-28 14:30:00
+Session3,Sprint
+Session3Date,2024-06-29 12:00:00+02:00
+Session3DateUtc,2024-06-29 10:00:00
+Session4,Qualifying
+Session4Date,2024-06-29 16:00:00+02:00
+Session4DateUtc,2024-06-29 14:00:00
+Session5,Race
+Session5Date,2024-06-30 15:00:00+02:00
+Session5DateUtc,2024-06-30 13:00:00
+F1ApiSupport,True

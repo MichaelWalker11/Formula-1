@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1007,,5454,Qualifying,Qualifying,2019-06-22 15:00:00,2019-06-22 16:00:00,0 days 02:00:00,2019/2019-06-23_French_Grand_Prix/2019-06-22_Qualifying/
+Name,French Grand Prix,,5454,Qualifying,Qualifying,2019-06-22 15:00:00,2019-06-22 16:00:00,0 days 02:00:00,2019/2019-06-23_French_Grand_Prix/2019-06-22_Qualifying/
+Location,Le Castellet,,5454,Qualifying,Qualifying,2019-06-22 15:00:00,2019-06-22 16:00:00,0 days 02:00:00,2019/2019-06-23_French_Grand_Prix/2019-06-22_Qualifying/
+Country,"{'Key': 7, 'Code': 'FRA', 'Name': 'France'}",,5454,Qualifying,Qualifying,2019-06-22 15:00:00,2019-06-22 16:00:00,0 days 02:00:00,2019/2019-06-23_French_Grand_Prix/2019-06-22_Qualifying/
+Circuit,"{'Key': 28, 'ShortName': 'Paul Ricard'}",,5454,Qualifying,Qualifying,2019-06-22 15:00:00,2019-06-22 16:00:00,0 days 02:00:00,2019/2019-06-23_French_Grand_Prix/2019-06-22_Qualifying/
+Status,,Generating,5454,Qualifying,Qualifying,2019-06-22 15:00:00,2019-06-22 16:00:00,0 days 02:00:00,2019/2019-06-23_French_Grand_Prix/2019-06-22_Qualifying/

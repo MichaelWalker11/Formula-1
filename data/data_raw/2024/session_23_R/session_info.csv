@@ -1,0 +1,9 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1251,,9655,Race,Race,2024-12-01 19:00:00,2024-12-01 21:00:00,0 days 03:00:00,2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/
+Name,Qatar Grand Prix,,9655,Race,Race,2024-12-01 19:00:00,2024-12-01 21:00:00,0 days 03:00:00,2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/
+OfficialName,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,,9655,Race,Race,2024-12-01 19:00:00,2024-12-01 21:00:00,0 days 03:00:00,2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/
+Location,Lusail,,9655,Race,Race,2024-12-01 19:00:00,2024-12-01 21:00:00,0 days 03:00:00,2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/
+Number,23,,9655,Race,Race,2024-12-01 19:00:00,2024-12-01 21:00:00,0 days 03:00:00,2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/
+Country,"{'Key': 149, 'Code': 'QAT', 'Name': 'Qatar'}",,9655,Race,Race,2024-12-01 19:00:00,2024-12-01 21:00:00,0 days 03:00:00,2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/
+Circuit,"{'Key': 150, 'ShortName': 'Lusail'}",,9655,Race,Race,2024-12-01 19:00:00,2024-12-01 21:00:00,0 days 03:00:00,2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/
+Status,,Generating,9655,Race,Race,2024-12-01 19:00:00,2024-12-01 21:00:00,0 days 03:00:00,2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/

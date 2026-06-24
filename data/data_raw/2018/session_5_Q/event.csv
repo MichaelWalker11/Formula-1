@@ -1,0 +1,24 @@
+,4
+RoundNumber,5
+Country,Spain
+Location,Barcelona
+OfficialEventName,FORMULA 1 GRAN PREMIO DE ESPAÑA EMIRATES 2018
+EventDate,2018-05-13 00:00:00
+EventName,Spanish Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2018-05-11 11:00:00+02:00
+Session1DateUtc,2018-05-11 09:00:00
+Session2,Practice 2
+Session2Date,2018-05-11 15:00:00+02:00
+Session2DateUtc,2018-05-11 13:00:00
+Session3,Practice 3
+Session3Date,2018-05-12 12:00:00+02:00
+Session3DateUtc,2018-05-12 10:00:00
+Session4,Qualifying
+Session4Date,2018-05-12 15:00:00+02:00
+Session4DateUtc,2018-05-12 13:00:00
+Session5,Race
+Session5Date,2018-05-13 15:10:00+02:00
+Session5DateUtc,2018-05-13 13:10:00
+F1ApiSupport,True

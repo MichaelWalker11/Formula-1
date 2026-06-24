@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1102,,6561,Race,Race,2021-10-24 14:00:00,2021-10-24 16:00:00,-1 days +19:00:00,2021/2021-10-24_United_States_Grand_Prix/2021-10-24_Race/
+Name,United States Grand Prix,,6561,Race,Race,2021-10-24 14:00:00,2021-10-24 16:00:00,-1 days +19:00:00,2021/2021-10-24_United_States_Grand_Prix/2021-10-24_Race/
+Location,Austin,,6561,Race,Race,2021-10-24 14:00:00,2021-10-24 16:00:00,-1 days +19:00:00,2021/2021-10-24_United_States_Grand_Prix/2021-10-24_Race/
+Country,"{'Key': 19, 'Code': 'USA', 'Name': 'United States'}",,6561,Race,Race,2021-10-24 14:00:00,2021-10-24 16:00:00,-1 days +19:00:00,2021/2021-10-24_United_States_Grand_Prix/2021-10-24_Race/
+Circuit,"{'Key': 9, 'ShortName': 'Austin'}",,6561,Race,Race,2021-10-24 14:00:00,2021-10-24 16:00:00,-1 days +19:00:00,2021/2021-10-24_United_States_Grand_Prix/2021-10-24_Race/
+Status,,Generating,6561,Race,Race,2021-10-24 14:00:00,2021-10-24 16:00:00,-1 days +19:00:00,2021/2021-10-24_United_States_Grand_Prix/2021-10-24_Race/

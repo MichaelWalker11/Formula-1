@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1046,,5752,Race,Race,2020-07-12 15:10:00,2020-07-12 17:10:00,0 days 02:00:00,2020/2020-07-12_Styrian_Grand_Prix/2020-07-12_Race/
+Name,Styrian Grand Prix,,5752,Race,Race,2020-07-12 15:10:00,2020-07-12 17:10:00,0 days 02:00:00,2020/2020-07-12_Styrian_Grand_Prix/2020-07-12_Race/
+Location,Spielberg,,5752,Race,Race,2020-07-12 15:10:00,2020-07-12 17:10:00,0 days 02:00:00,2020/2020-07-12_Styrian_Grand_Prix/2020-07-12_Race/
+Country,"{'Key': 17, 'Code': 'AUT', 'Name': 'Austria'}",,5752,Race,Race,2020-07-12 15:10:00,2020-07-12 17:10:00,0 days 02:00:00,2020/2020-07-12_Styrian_Grand_Prix/2020-07-12_Race/
+Circuit,"{'Key': 19, 'ShortName': 'Spielberg'}",,5752,Race,Race,2020-07-12 15:10:00,2020-07-12 17:10:00,0 days 02:00:00,2020/2020-07-12_Styrian_Grand_Prix/2020-07-12_Race/
+Status,,Generating,5752,Race,Race,2020-07-12 15:10:00,2020-07-12 17:10:00,0 days 02:00:00,2020/2020-07-12_Styrian_Grand_Prix/2020-07-12_Race/

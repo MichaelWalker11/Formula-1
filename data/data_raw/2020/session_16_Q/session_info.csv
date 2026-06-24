@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1060,,5930,Qualifying,Qualifying,2020-12-05 20:00:00,2020-12-05 21:00:00,0 days 03:00:00,2020/2020-12-06_Sakhir_Grand_Prix/2020-12-05_Qualifying/
+Name,Sakhir Grand Prix,,5930,Qualifying,Qualifying,2020-12-05 20:00:00,2020-12-05 21:00:00,0 days 03:00:00,2020/2020-12-06_Sakhir_Grand_Prix/2020-12-05_Qualifying/
+Location,Sakhir,,5930,Qualifying,Qualifying,2020-12-05 20:00:00,2020-12-05 21:00:00,0 days 03:00:00,2020/2020-12-06_Sakhir_Grand_Prix/2020-12-05_Qualifying/
+Country,"{'Key': 36, 'Code': 'BRN', 'Name': 'Bahrain'}",,5930,Qualifying,Qualifying,2020-12-05 20:00:00,2020-12-05 21:00:00,0 days 03:00:00,2020/2020-12-06_Sakhir_Grand_Prix/2020-12-05_Qualifying/
+Circuit,"{'Key': 148, 'ShortName': 'Sakhir Outer Track'}",,5930,Qualifying,Qualifying,2020-12-05 20:00:00,2020-12-05 21:00:00,0 days 03:00:00,2020/2020-12-06_Sakhir_Grand_Prix/2020-12-05_Qualifying/
+Status,,Generating,5930,Qualifying,Qualifying,2020-12-05 20:00:00,2020-12-05 21:00:00,0 days 03:00:00,2020/2020-12-06_Sakhir_Grand_Prix/2020-12-05_Qualifying/

@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1004,,5430,Qualifying,Qualifying,2019-05-11 15:00:00,2019-05-11 16:00:00,0 days 02:00:00,2019/2019-05-12_Spanish_Grand_Prix/2019-05-11_Qualifying/
+Name,Spanish Grand Prix,,5430,Qualifying,Qualifying,2019-05-11 15:00:00,2019-05-11 16:00:00,0 days 02:00:00,2019/2019-05-12_Spanish_Grand_Prix/2019-05-11_Qualifying/
+Location,Barcelona,,5430,Qualifying,Qualifying,2019-05-11 15:00:00,2019-05-11 16:00:00,0 days 02:00:00,2019/2019-05-12_Spanish_Grand_Prix/2019-05-11_Qualifying/
+Country,"{'Key': 1, 'Code': 'ESP', 'Name': 'Spain'}",,5430,Qualifying,Qualifying,2019-05-11 15:00:00,2019-05-11 16:00:00,0 days 02:00:00,2019/2019-05-12_Spanish_Grand_Prix/2019-05-11_Qualifying/
+Circuit,"{'Key': 15, 'ShortName': 'Catalunya'}",,5430,Qualifying,Qualifying,2019-05-11 15:00:00,2019-05-11 16:00:00,0 days 02:00:00,2019/2019-05-12_Spanish_Grand_Prix/2019-05-11_Qualifying/
+Status,,Generating,5430,Qualifying,Qualifying,2019-05-11 15:00:00,2019-05-11 16:00:00,0 days 02:00:00,2019/2019-05-12_Spanish_Grand_Prix/2019-05-11_Qualifying/

@@ -1,0 +1,24 @@
+,19
+RoundNumber,20
+Country,Brazil
+Location,São Paulo
+OfficialEventName,FORMULA 1 GRANDE PRÊMIO HEINEKEN DO BRASIL 2018
+EventDate,2018-11-11 00:00:00
+EventName,Brazilian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2018-11-09 11:00:00-02:00
+Session1DateUtc,2018-11-09 13:00:00
+Session2,Practice 2
+Session2Date,2018-11-09 15:00:00-02:00
+Session2DateUtc,2018-11-09 17:00:00
+Session3,Practice 3
+Session3Date,2018-11-10 12:00:00-02:00
+Session3DateUtc,2018-11-10 14:00:00
+Session4,Qualifying
+Session4Date,2018-11-10 15:00:00-02:00
+Session4DateUtc,2018-11-10 17:00:00
+Session5,Race
+Session5Date,2018-11-11 15:10:00-02:00
+Session5DateUtc,2018-11-11 17:10:00
+F1ApiSupport,True

@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1120,,7128,Race,Race,2022-09-11 15:00:00,2022-09-11 17:00:00,0 days 02:00:00,2022/2022-09-11_Italian_Grand_Prix/2022-09-11_Race/
+Name,Italian Grand Prix,,7128,Race,Race,2022-09-11 15:00:00,2022-09-11 17:00:00,0 days 02:00:00,2022/2022-09-11_Italian_Grand_Prix/2022-09-11_Race/
+OfficialName,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,,7128,Race,Race,2022-09-11 15:00:00,2022-09-11 17:00:00,0 days 02:00:00,2022/2022-09-11_Italian_Grand_Prix/2022-09-11_Race/
+Location,Monza,,7128,Race,Race,2022-09-11 15:00:00,2022-09-11 17:00:00,0 days 02:00:00,2022/2022-09-11_Italian_Grand_Prix/2022-09-11_Race/
+Country,"{'Key': 13, 'Code': 'ITA', 'Name': 'Italy'}",,7128,Race,Race,2022-09-11 15:00:00,2022-09-11 17:00:00,0 days 02:00:00,2022/2022-09-11_Italian_Grand_Prix/2022-09-11_Race/
+Circuit,"{'Key': 39, 'ShortName': 'Monza'}",,7128,Race,Race,2022-09-11 15:00:00,2022-09-11 17:00:00,0 days 02:00:00,2022/2022-09-11_Italian_Grand_Prix/2022-09-11_Race/
+Status,,Generating,7128,Race,Race,2022-09-11 15:00:00,2022-09-11 17:00:00,0 days 02:00:00,2022/2022-09-11_Italian_Grand_Prix/2022-09-11_Race/

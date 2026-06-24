@@ -1,0 +1,24 @@
+,23
+RoundNumber,22
+Country,Abu Dhabi
+Location,Yas Island
+OfficialEventName,FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2022
+EventDate,2022-11-20 00:00:00
+EventName,Abu Dhabi Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2022-11-18 14:00:00+04:00
+Session1DateUtc,2022-11-18 10:00:00
+Session2,Practice 2
+Session2Date,2022-11-18 17:00:00+04:00
+Session2DateUtc,2022-11-18 13:00:00
+Session3,Practice 3
+Session3Date,2022-11-19 14:30:00+04:00
+Session3DateUtc,2022-11-19 10:30:00
+Session4,Qualifying
+Session4Date,2022-11-19 18:00:00+04:00
+Session4DateUtc,2022-11-19 14:00:00
+Session5,Race
+Session5Date,2022-11-20 17:00:00+04:00
+Session5DateUtc,2022-11-20 13:00:00
+F1ApiSupport,True

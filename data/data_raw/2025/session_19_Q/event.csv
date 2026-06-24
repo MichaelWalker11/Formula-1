@@ -1,0 +1,24 @@
+,19
+RoundNumber,19
+Country,United States
+Location,Austin
+OfficialEventName,FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2025
+EventDate,2025-10-19 00:00:00
+EventName,United States Grand Prix
+EventFormat,sprint_qualifying
+Session1,Practice 1
+Session1Date,2025-10-17 12:30:00-05:00
+Session1DateUtc,2025-10-17 17:30:00
+Session2,Sprint Qualifying
+Session2Date,2025-10-17 16:30:00-05:00
+Session2DateUtc,2025-10-17 21:30:00
+Session3,Sprint
+Session3Date,2025-10-18 12:00:00-05:00
+Session3DateUtc,2025-10-18 17:00:00
+Session4,Qualifying
+Session4Date,2025-10-18 16:00:00-05:00
+Session4DateUtc,2025-10-18 21:00:00
+Session5,Race
+Session5Date,2025-10-19 14:00:00-05:00
+Session5DateUtc,2025-10-19 19:00:00
+F1ApiSupport,True

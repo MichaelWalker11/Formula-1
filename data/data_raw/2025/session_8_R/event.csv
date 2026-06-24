@@ -1,0 +1,24 @@
+,8
+RoundNumber,8
+Country,Monaco
+Location,Monaco
+OfficialEventName,FORMULA 1 TAG HEUER GRAND PRIX DE MONACO 2025
+EventDate,2025-05-25 00:00:00
+EventName,Monaco Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2025-05-23 13:30:00+02:00
+Session1DateUtc,2025-05-23 11:30:00
+Session2,Practice 2
+Session2Date,2025-05-23 17:00:00+02:00
+Session2DateUtc,2025-05-23 15:00:00
+Session3,Practice 3
+Session3Date,2025-05-24 12:30:00+02:00
+Session3DateUtc,2025-05-24 10:30:00
+Session4,Qualifying
+Session4Date,2025-05-24 16:00:00+02:00
+Session4DateUtc,2025-05-24 14:00:00
+Session5,Race
+Session5Date,2025-05-25 15:00:00+02:00
+Session5DateUtc,2025-05-25 13:00:00
+F1ApiSupport,True

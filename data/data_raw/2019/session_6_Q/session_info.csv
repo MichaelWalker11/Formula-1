@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1005,,5438,Qualifying,Qualifying,2019-05-25 15:00:00,2019-05-25 16:00:00,0 days 02:00:00,2019/2019-05-26_Monaco_Grand_Prix/2019-05-25_Qualifying/
+Name,Monaco Grand Prix,,5438,Qualifying,Qualifying,2019-05-25 15:00:00,2019-05-25 16:00:00,0 days 02:00:00,2019/2019-05-26_Monaco_Grand_Prix/2019-05-25_Qualifying/
+Location,Monte Carlo,,5438,Qualifying,Qualifying,2019-05-25 15:00:00,2019-05-25 16:00:00,0 days 02:00:00,2019/2019-05-26_Monaco_Grand_Prix/2019-05-25_Qualifying/
+Country,"{'Key': 114, 'Code': 'MON', 'Name': 'Monaco'}",,5438,Qualifying,Qualifying,2019-05-25 15:00:00,2019-05-25 16:00:00,0 days 02:00:00,2019/2019-05-26_Monaco_Grand_Prix/2019-05-25_Qualifying/
+Circuit,"{'Key': 22, 'ShortName': 'Monte Carlo'}",,5438,Qualifying,Qualifying,2019-05-25 15:00:00,2019-05-25 16:00:00,0 days 02:00:00,2019/2019-05-26_Monaco_Grand_Prix/2019-05-25_Qualifying/
+Status,,Generating,5438,Qualifying,Qualifying,2019-05-25 15:00:00,2019-05-25 16:00:00,0 days 02:00:00,2019/2019-05-26_Monaco_Grand_Prix/2019-05-25_Qualifying/

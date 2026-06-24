@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1112,,7052,Qualifying,Qualifying,2022-05-28 16:00:00,2022-05-28 17:00:00,0 days 02:00:00,2022/2022-05-29_Monaco_Grand_Prix/2022-05-28_Qualifying/
+Name,Monaco Grand Prix,,7052,Qualifying,Qualifying,2022-05-28 16:00:00,2022-05-28 17:00:00,0 days 02:00:00,2022/2022-05-29_Monaco_Grand_Prix/2022-05-28_Qualifying/
+OfficialName,FORMULA 1 GRAND PRIX DE MONACO 2022,,7052,Qualifying,Qualifying,2022-05-28 16:00:00,2022-05-28 17:00:00,0 days 02:00:00,2022/2022-05-29_Monaco_Grand_Prix/2022-05-28_Qualifying/
+Location,Monaco,,7052,Qualifying,Qualifying,2022-05-28 16:00:00,2022-05-28 17:00:00,0 days 02:00:00,2022/2022-05-29_Monaco_Grand_Prix/2022-05-28_Qualifying/
+Country,"{'Key': 114, 'Code': 'MON', 'Name': 'Monaco'}",,7052,Qualifying,Qualifying,2022-05-28 16:00:00,2022-05-28 17:00:00,0 days 02:00:00,2022/2022-05-29_Monaco_Grand_Prix/2022-05-28_Qualifying/
+Circuit,"{'Key': 22, 'ShortName': 'Monte Carlo'}",,7052,Qualifying,Qualifying,2022-05-28 16:00:00,2022-05-28 17:00:00,0 days 02:00:00,2022/2022-05-29_Monaco_Grand_Prix/2022-05-28_Qualifying/
+Status,,Generating,7052,Qualifying,Qualifying,2022-05-28 16:00:00,2022-05-28 17:00:00,0 days 02:00:00,2022/2022-05-29_Monaco_Grand_Prix/2022-05-28_Qualifying/

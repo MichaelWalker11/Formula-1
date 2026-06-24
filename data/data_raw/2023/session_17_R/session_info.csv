@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1221,,9221,Race,Race,2023-10-08 20:00:00,2023-10-08 22:00:00,0 days 03:00:00,2023/2023-10-08_Qatar_Grand_Prix/2023-10-08_Race/
+Name,Qatar Grand Prix,,9221,Race,Race,2023-10-08 20:00:00,2023-10-08 22:00:00,0 days 03:00:00,2023/2023-10-08_Qatar_Grand_Prix/2023-10-08_Race/
+OfficialName,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,,9221,Race,Race,2023-10-08 20:00:00,2023-10-08 22:00:00,0 days 03:00:00,2023/2023-10-08_Qatar_Grand_Prix/2023-10-08_Race/
+Location,Lusail,,9221,Race,Race,2023-10-08 20:00:00,2023-10-08 22:00:00,0 days 03:00:00,2023/2023-10-08_Qatar_Grand_Prix/2023-10-08_Race/
+Country,"{'Key': 149, 'Code': 'QAT', 'Name': 'Qatar'}",,9221,Race,Race,2023-10-08 20:00:00,2023-10-08 22:00:00,0 days 03:00:00,2023/2023-10-08_Qatar_Grand_Prix/2023-10-08_Race/
+Circuit,"{'Key': 150, 'ShortName': 'Lusail'}",,9221,Race,Race,2023-10-08 20:00:00,2023-10-08 22:00:00,0 days 03:00:00,2023/2023-10-08_Qatar_Grand_Prix/2023-10-08_Race/
+Status,,Generating,9221,Race,Race,2023-10-08 20:00:00,2023-10-08 22:00:00,0 days 03:00:00,2023/2023-10-08_Qatar_Grand_Prix/2023-10-08_Race/

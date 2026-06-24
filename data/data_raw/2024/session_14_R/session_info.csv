@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1242,,9574,Race,Race,2024-07-28 15:00:00,2024-07-28 17:00:00,0 days 02:00:00,2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/
+Name,Belgian Grand Prix,,9574,Race,Race,2024-07-28 15:00:00,2024-07-28 17:00:00,0 days 02:00:00,2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/
+OfficialName,FORMULA 1 ROLEX BELGIAN GRAND PRIX 2024,,9574,Race,Race,2024-07-28 15:00:00,2024-07-28 17:00:00,0 days 02:00:00,2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/
+Location,Spa-Francorchamps,,9574,Race,Race,2024-07-28 15:00:00,2024-07-28 17:00:00,0 days 02:00:00,2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/
+Country,"{'Key': 16, 'Code': 'BEL', 'Name': 'Belgium'}",,9574,Race,Race,2024-07-28 15:00:00,2024-07-28 17:00:00,0 days 02:00:00,2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/
+Circuit,"{'Key': 7, 'ShortName': 'Spa-Francorchamps'}",,9574,Race,Race,2024-07-28 15:00:00,2024-07-28 17:00:00,0 days 02:00:00,2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/
+Status,,Generating,9574,Race,Race,2024-07-28 15:00:00,2024-07-28 17:00:00,0 days 02:00:00,2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/

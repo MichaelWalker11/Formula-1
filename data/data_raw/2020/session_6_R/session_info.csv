@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1050,,5784,Race,Race,2020-08-16 15:10:00,2020-08-16 17:10:00,0 days 02:00:00,2020/2020-08-16_Spanish_Grand_Prix/2020-08-16_Race/
+Name,Spanish Grand Prix,,5784,Race,Race,2020-08-16 15:10:00,2020-08-16 17:10:00,0 days 02:00:00,2020/2020-08-16_Spanish_Grand_Prix/2020-08-16_Race/
+Location,Barcelona,,5784,Race,Race,2020-08-16 15:10:00,2020-08-16 17:10:00,0 days 02:00:00,2020/2020-08-16_Spanish_Grand_Prix/2020-08-16_Race/
+Country,"{'Key': 1, 'Code': 'ESP', 'Name': 'Spain'}",,5784,Race,Race,2020-08-16 15:10:00,2020-08-16 17:10:00,0 days 02:00:00,2020/2020-08-16_Spanish_Grand_Prix/2020-08-16_Race/
+Circuit,"{'Key': 15, 'ShortName': 'Catalunya'}",,5784,Race,Race,2020-08-16 15:10:00,2020-08-16 17:10:00,0 days 02:00:00,2020/2020-08-16_Spanish_Grand_Prix/2020-08-16_Race/
+Status,,Generating,5784,Race,Race,2020-08-16 15:10:00,2020-08-16 17:10:00,0 days 02:00:00,2020/2020-08-16_Spanish_Grand_Prix/2020-08-16_Race/

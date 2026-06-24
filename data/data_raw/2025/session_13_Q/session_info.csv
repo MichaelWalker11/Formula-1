@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1265,Inactive,,9935,Qualifying,Qualifying,2025-07-26 16:00:00,2025-07-26 17:00:00,0 days 02:00:00,2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Qualifying/
+Name,Belgian Grand Prix,Inactive,,9935,Qualifying,Qualifying,2025-07-26 16:00:00,2025-07-26 17:00:00,0 days 02:00:00,2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Qualifying/
+OfficialName,FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2025,Inactive,,9935,Qualifying,Qualifying,2025-07-26 16:00:00,2025-07-26 17:00:00,0 days 02:00:00,2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Qualifying/
+Location,Spa-Francorchamps,Inactive,,9935,Qualifying,Qualifying,2025-07-26 16:00:00,2025-07-26 17:00:00,0 days 02:00:00,2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Qualifying/
+Number,13,Inactive,,9935,Qualifying,Qualifying,2025-07-26 16:00:00,2025-07-26 17:00:00,0 days 02:00:00,2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Qualifying/
+Country,"{'Key': 16, 'Code': 'BEL', 'Name': 'Belgium'}",Inactive,,9935,Qualifying,Qualifying,2025-07-26 16:00:00,2025-07-26 17:00:00,0 days 02:00:00,2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Qualifying/
+Circuit,"{'Key': 7, 'ShortName': 'Spa-Francorchamps'}",Inactive,,9935,Qualifying,Qualifying,2025-07-26 16:00:00,2025-07-26 17:00:00,0 days 02:00:00,2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Qualifying/
+Status,,Inactive,Generating,9935,Qualifying,Qualifying,2025-07-26 16:00:00,2025-07-26 17:00:00,0 days 02:00:00,2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Qualifying/

@@ -1,0 +1,24 @@
+,21
+RoundNumber,20
+Country,Mexico
+Location,Mexico City
+OfficialEventName,FORMULA 1 HEINEKEN GRAN PREMIO DE LA CIUDAD DE MÉXICO 2022
+EventDate,2022-10-30 00:00:00
+EventName,Mexico City Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2022-10-28 13:00:00-06:00
+Session1DateUtc,2022-10-28 19:00:00
+Session2,Practice 2
+Session2Date,2022-10-28 16:00:00-06:00
+Session2DateUtc,2022-10-28 22:00:00
+Session3,Practice 3
+Session3Date,2022-10-29 12:00:00-06:00
+Session3DateUtc,2022-10-29 18:00:00
+Session4,Qualifying
+Session4Date,2022-10-29 15:00:00-06:00
+Session4DateUtc,2022-10-29 21:00:00
+Session5,Race
+Session5Date,2022-10-30 14:00:00-06:00
+Session5DateUtc,2022-10-30 20:00:00
+F1ApiSupport,True

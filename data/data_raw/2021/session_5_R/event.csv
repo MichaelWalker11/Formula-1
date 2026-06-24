@@ -1,0 +1,24 @@
+,5
+RoundNumber,5
+Country,Monaco
+Location,Monte Carlo
+OfficialEventName,FORMULA 1 GRAND PRIX DE MONACO 2021
+EventDate,2021-05-23 00:00:00
+EventName,Monaco Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2021-05-20 11:30:00+02:00
+Session1DateUtc,2021-05-20 09:30:00
+Session2,Practice 2
+Session2Date,2021-05-20 15:00:00+02:00
+Session2DateUtc,2021-05-20 13:00:00
+Session3,Practice 3
+Session3Date,2021-05-22 12:00:00+02:00
+Session3DateUtc,2021-05-22 10:00:00
+Session4,Qualifying
+Session4Date,2021-05-22 15:00:00+02:00
+Session4DateUtc,2021-05-22 13:00:00
+Session5,Race
+Session5Date,2021-05-23 15:00:00+02:00
+Session5DateUtc,2021-05-23 13:00:00
+F1ApiSupport,True

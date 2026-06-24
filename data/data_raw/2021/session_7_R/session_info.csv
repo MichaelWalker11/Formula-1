@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1070,,6244,Race,Race,2021-06-20 15:00:00,2021-06-20 17:00:00,0 days 02:00:00,2021/2021-06-20_French_Grand_Prix/2021-06-20_Race/
+Name,French Grand Prix,,6244,Race,Race,2021-06-20 15:00:00,2021-06-20 17:00:00,0 days 02:00:00,2021/2021-06-20_French_Grand_Prix/2021-06-20_Race/
+Location,Le Castellet,,6244,Race,Race,2021-06-20 15:00:00,2021-06-20 17:00:00,0 days 02:00:00,2021/2021-06-20_French_Grand_Prix/2021-06-20_Race/
+Country,"{'Key': 7, 'Code': 'FRA', 'Name': 'France'}",,6244,Race,Race,2021-06-20 15:00:00,2021-06-20 17:00:00,0 days 02:00:00,2021/2021-06-20_French_Grand_Prix/2021-06-20_Race/
+Circuit,"{'Key': 28, 'ShortName': 'Paul Ricard'}",,6244,Race,Race,2021-06-20 15:00:00,2021-06-20 17:00:00,0 days 02:00:00,2021/2021-06-20_French_Grand_Prix/2021-06-20_Race/
+Status,,Generating,6244,Race,Race,2021-06-20 15:00:00,2021-06-20 17:00:00,0 days 02:00:00,2021/2021-06-20_French_Grand_Prix/2021-06-20_Race/

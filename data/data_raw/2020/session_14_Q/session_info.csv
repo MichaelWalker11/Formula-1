@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1058,,5914,Qualifying,Qualifying,2020-11-14 15:00:00,2020-11-14 16:00:00,0 days 03:00:00,2020/2020-11-15_Turkish_Grand_Prix/2020-11-14_Qualifying/
+Name,Turkish Grand Prix,,5914,Qualifying,Qualifying,2020-11-14 15:00:00,2020-11-14 16:00:00,0 days 03:00:00,2020/2020-11-15_Turkish_Grand_Prix/2020-11-14_Qualifying/
+Location,Istanbul,,5914,Qualifying,Qualifying,2020-11-14 15:00:00,2020-11-14 16:00:00,0 days 03:00:00,2020/2020-11-15_Turkish_Grand_Prix/2020-11-14_Qualifying/
+Country,"{'Key': 175, 'Code': 'TUR', 'Name': 'Turkey'}",,5914,Qualifying,Qualifying,2020-11-14 15:00:00,2020-11-14 16:00:00,0 days 03:00:00,2020/2020-11-15_Turkish_Grand_Prix/2020-11-14_Qualifying/
+Circuit,"{'Key': 59, 'ShortName': 'Istanbul'}",,5914,Qualifying,Qualifying,2020-11-14 15:00:00,2020-11-14 16:00:00,0 days 03:00:00,2020/2020-11-15_Turkish_Grand_Prix/2020-11-14_Qualifying/
+Status,,Generating,5914,Qualifying,Qualifying,2020-11-14 15:00:00,2020-11-14 16:00:00,0 days 03:00:00,2020/2020-11-15_Turkish_Grand_Prix/2020-11-14_Qualifying/

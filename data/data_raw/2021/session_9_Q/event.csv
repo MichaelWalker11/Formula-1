@@ -1,0 +1,24 @@
+,9
+RoundNumber,9
+Country,Austria
+Location,Spielberg
+OfficialEventName,FORMULA 1 BWT GROSSER PREIS VON ÖSTERREICH 2021
+EventDate,2021-07-04 00:00:00
+EventName,Austrian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2021-07-02 11:30:00+02:00
+Session1DateUtc,2021-07-02 09:30:00
+Session2,Practice 2
+Session2Date,2021-07-02 15:00:00+02:00
+Session2DateUtc,2021-07-02 13:00:00
+Session3,Practice 3
+Session3Date,2021-07-03 12:00:00+02:00
+Session3DateUtc,2021-07-03 10:00:00
+Session4,Qualifying
+Session4Date,2021-07-03 15:00:00+02:00
+Session4DateUtc,2021-07-03 13:00:00
+Session5,Race
+Session5Date,2021-07-04 15:00:00+02:00
+Session5DateUtc,2021-07-04 13:00:00
+F1ApiSupport,True

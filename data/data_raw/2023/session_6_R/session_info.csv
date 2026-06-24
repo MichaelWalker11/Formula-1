@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1210,,9094,Race,Race,2023-05-28 15:00:00,2023-05-28 17:00:00,0 days 02:00:00,2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/
+Name,Monaco Grand Prix,,9094,Race,Race,2023-05-28 15:00:00,2023-05-28 17:00:00,0 days 02:00:00,2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/
+OfficialName,FORMULA 1 GRAND PRIX DE MONACO 2023,,9094,Race,Race,2023-05-28 15:00:00,2023-05-28 17:00:00,0 days 02:00:00,2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/
+Location,Monaco,,9094,Race,Race,2023-05-28 15:00:00,2023-05-28 17:00:00,0 days 02:00:00,2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/
+Country,"{'Key': 114, 'Code': 'MON', 'Name': 'Monaco'}",,9094,Race,Race,2023-05-28 15:00:00,2023-05-28 17:00:00,0 days 02:00:00,2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/
+Circuit,"{'Key': 22, 'ShortName': 'Monte Carlo'}",,9094,Race,Race,2023-05-28 15:00:00,2023-05-28 17:00:00,0 days 02:00:00,2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/
+Status,,Generating,9094,Race,Race,2023-05-28 15:00:00,2023-05-28 17:00:00,0 days 02:00:00,2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/

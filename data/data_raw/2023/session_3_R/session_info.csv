@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1143,,7787,Race,Race,2023-04-02 15:00:00,2023-04-02 17:00:00,0 days 10:00:00,2023/2023-04-02_Australian_Grand_Prix/2023-04-02_Race/
+Name,Australian Grand Prix,,7787,Race,Race,2023-04-02 15:00:00,2023-04-02 17:00:00,0 days 10:00:00,2023/2023-04-02_Australian_Grand_Prix/2023-04-02_Race/
+OfficialName,FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2023,,7787,Race,Race,2023-04-02 15:00:00,2023-04-02 17:00:00,0 days 10:00:00,2023/2023-04-02_Australian_Grand_Prix/2023-04-02_Race/
+Location,Melbourne,,7787,Race,Race,2023-04-02 15:00:00,2023-04-02 17:00:00,0 days 10:00:00,2023/2023-04-02_Australian_Grand_Prix/2023-04-02_Race/
+Country,"{'Key': 5, 'Code': 'AUS', 'Name': 'Australia'}",,7787,Race,Race,2023-04-02 15:00:00,2023-04-02 17:00:00,0 days 10:00:00,2023/2023-04-02_Australian_Grand_Prix/2023-04-02_Race/
+Circuit,"{'Key': 10, 'ShortName': 'Melbourne'}",,7787,Race,Race,2023-04-02 15:00:00,2023-04-02 17:00:00,0 days 10:00:00,2023/2023-04-02_Australian_Grand_Prix/2023-04-02_Race/
+Status,,Generating,7787,Race,Race,2023-04-02 15:00:00,2023-04-02 17:00:00,0 days 10:00:00,2023/2023-04-02_Australian_Grand_Prix/2023-04-02_Race/

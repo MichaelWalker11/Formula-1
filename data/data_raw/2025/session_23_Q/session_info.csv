@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1275,Inactive,,9846,Qualifying,Qualifying,2025-11-29 21:00:00,2025-11-29 22:00:00,0 days 03:00:00,2025/2025-11-30_Qatar_Grand_Prix/2025-11-29_Qualifying/
+Name,Qatar Grand Prix,Inactive,,9846,Qualifying,Qualifying,2025-11-29 21:00:00,2025-11-29 22:00:00,0 days 03:00:00,2025/2025-11-30_Qatar_Grand_Prix/2025-11-29_Qualifying/
+OfficialName,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2025,Inactive,,9846,Qualifying,Qualifying,2025-11-29 21:00:00,2025-11-29 22:00:00,0 days 03:00:00,2025/2025-11-30_Qatar_Grand_Prix/2025-11-29_Qualifying/
+Location,Lusail,Inactive,,9846,Qualifying,Qualifying,2025-11-29 21:00:00,2025-11-29 22:00:00,0 days 03:00:00,2025/2025-11-30_Qatar_Grand_Prix/2025-11-29_Qualifying/
+Number,23,Inactive,,9846,Qualifying,Qualifying,2025-11-29 21:00:00,2025-11-29 22:00:00,0 days 03:00:00,2025/2025-11-30_Qatar_Grand_Prix/2025-11-29_Qualifying/
+Country,"{'Key': 149, 'Code': 'QAT', 'Name': 'Qatar'}",Inactive,,9846,Qualifying,Qualifying,2025-11-29 21:00:00,2025-11-29 22:00:00,0 days 03:00:00,2025/2025-11-30_Qatar_Grand_Prix/2025-11-29_Qualifying/
+Circuit,"{'Key': 150, 'ShortName': 'Lusail'}",Inactive,,9846,Qualifying,Qualifying,2025-11-29 21:00:00,2025-11-29 22:00:00,0 days 03:00:00,2025/2025-11-30_Qatar_Grand_Prix/2025-11-29_Qualifying/
+Status,,Inactive,Generating,9846,Qualifying,Qualifying,2025-11-29 21:00:00,2025-11-29 22:00:00,0 days 03:00:00,2025/2025-11-30_Qatar_Grand_Prix/2025-11-29_Qualifying/

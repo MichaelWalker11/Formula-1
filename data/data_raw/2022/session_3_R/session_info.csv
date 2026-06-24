@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1108,,7018,Race,Race,2022-04-10 15:00:00,2022-04-10 17:00:00,0 days 10:00:00,2022/2022-04-10_Australian_Grand_Prix/2022-04-10_Race/
+Name,Australian Grand Prix,,7018,Race,Race,2022-04-10 15:00:00,2022-04-10 17:00:00,0 days 10:00:00,2022/2022-04-10_Australian_Grand_Prix/2022-04-10_Race/
+OfficialName,FORMULA 1 HEINEKEN AUSTRALIAN GRAND PRIX 2022,,7018,Race,Race,2022-04-10 15:00:00,2022-04-10 17:00:00,0 days 10:00:00,2022/2022-04-10_Australian_Grand_Prix/2022-04-10_Race/
+Location,Melbourne,,7018,Race,Race,2022-04-10 15:00:00,2022-04-10 17:00:00,0 days 10:00:00,2022/2022-04-10_Australian_Grand_Prix/2022-04-10_Race/
+Country,"{'Key': 5, 'Code': 'AUS', 'Name': 'Australia'}",,7018,Race,Race,2022-04-10 15:00:00,2022-04-10 17:00:00,0 days 10:00:00,2022/2022-04-10_Australian_Grand_Prix/2022-04-10_Race/
+Circuit,"{'Key': 10, 'ShortName': 'Melbourne'}",,7018,Race,Race,2022-04-10 15:00:00,2022-04-10 17:00:00,0 days 10:00:00,2022/2022-04-10_Australian_Grand_Prix/2022-04-10_Race/
+Status,,Generating,7018,Race,Race,2022-04-10 15:00:00,2022-04-10 17:00:00,0 days 10:00:00,2022/2022-04-10_Australian_Grand_Prix/2022-04-10_Race/

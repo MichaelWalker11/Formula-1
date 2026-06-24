@@ -1,0 +1,24 @@
+,23
+RoundNumber,23
+Country,Qatar
+Location,Lusail
+OfficialEventName,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024
+EventDate,2024-12-01 00:00:00
+EventName,Qatar Grand Prix
+EventFormat,sprint_qualifying
+Session1,Practice 1
+Session1Date,2024-11-29 16:30:00+03:00
+Session1DateUtc,2024-11-29 13:30:00
+Session2,Sprint Qualifying
+Session2Date,2024-11-29 20:30:00+03:00
+Session2DateUtc,2024-11-29 17:30:00
+Session3,Sprint
+Session3Date,2024-11-30 17:00:00+03:00
+Session3DateUtc,2024-11-30 14:00:00
+Session4,Qualifying
+Session4Date,2024-11-30 21:00:00+03:00
+Session4DateUtc,2024-11-30 18:00:00
+Session5,Race
+Session5Date,2024-12-01 19:00:00+03:00
+Session5DateUtc,2024-12-01 16:00:00
+F1ApiSupport,True

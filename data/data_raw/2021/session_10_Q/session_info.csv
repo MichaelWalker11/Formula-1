@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1072,,6253,Qualifying,Qualifying,2021-07-16 18:00:00,2021-07-16 19:00:00,0 days 01:00:00,2021/2021-07-18_British_Grand_Prix/2021-07-16_Qualifying/
+Name,British Grand Prix,,6253,Qualifying,Qualifying,2021-07-16 18:00:00,2021-07-16 19:00:00,0 days 01:00:00,2021/2021-07-18_British_Grand_Prix/2021-07-16_Qualifying/
+Location,Silverstone,,6253,Qualifying,Qualifying,2021-07-16 18:00:00,2021-07-16 19:00:00,0 days 01:00:00,2021/2021-07-18_British_Grand_Prix/2021-07-16_Qualifying/
+Country,"{'Key': 2, 'Code': 'GBR', 'Name': 'Great Britain'}",,6253,Qualifying,Qualifying,2021-07-16 18:00:00,2021-07-16 19:00:00,0 days 01:00:00,2021/2021-07-18_British_Grand_Prix/2021-07-16_Qualifying/
+Circuit,"{'Key': 2, 'ShortName': 'Silverstone'}",,6253,Qualifying,Qualifying,2021-07-16 18:00:00,2021-07-16 19:00:00,0 days 01:00:00,2021/2021-07-18_British_Grand_Prix/2021-07-16_Qualifying/
+Status,,Generating,6253,Qualifying,Qualifying,2021-07-16 18:00:00,2021-07-16 19:00:00,0 days 01:00:00,2021/2021-07-18_British_Grand_Prix/2021-07-16_Qualifying/

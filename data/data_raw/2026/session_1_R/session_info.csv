@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1279,Inactive,,11234,Race,Race,2026-03-08 15:00:00,2026-03-08 17:00:00,0 days 11:00:00,2026/2026-03-08_Australian_Grand_Prix/2026-03-08_Race/
+Name,Australian Grand Prix,Inactive,,11234,Race,Race,2026-03-08 15:00:00,2026-03-08 17:00:00,0 days 11:00:00,2026/2026-03-08_Australian_Grand_Prix/2026-03-08_Race/
+OfficialName,FORMULA 1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026,Inactive,,11234,Race,Race,2026-03-08 15:00:00,2026-03-08 17:00:00,0 days 11:00:00,2026/2026-03-08_Australian_Grand_Prix/2026-03-08_Race/
+Location,Melbourne,Inactive,,11234,Race,Race,2026-03-08 15:00:00,2026-03-08 17:00:00,0 days 11:00:00,2026/2026-03-08_Australian_Grand_Prix/2026-03-08_Race/
+Number,1,Inactive,,11234,Race,Race,2026-03-08 15:00:00,2026-03-08 17:00:00,0 days 11:00:00,2026/2026-03-08_Australian_Grand_Prix/2026-03-08_Race/
+Country,"{'Key': 5, 'Code': 'AUS', 'Name': 'Australia'}",Inactive,,11234,Race,Race,2026-03-08 15:00:00,2026-03-08 17:00:00,0 days 11:00:00,2026/2026-03-08_Australian_Grand_Prix/2026-03-08_Race/
+Circuit,"{'Key': 10, 'ShortName': 'Melbourne'}",Inactive,,11234,Race,Race,2026-03-08 15:00:00,2026-03-08 17:00:00,0 days 11:00:00,2026/2026-03-08_Australian_Grand_Prix/2026-03-08_Race/
+Status,,Inactive,Generating,11234,Race,Race,2026-03-08 15:00:00,2026-03-08 17:00:00,0 days 11:00:00,2026/2026-03-08_Australian_Grand_Prix/2026-03-08_Race/

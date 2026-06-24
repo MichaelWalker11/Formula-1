@@ -1,0 +1,24 @@
+,8
+RoundNumber,7
+Country,Spain
+Location,Barcelona
+OfficialEventName,FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026
+EventDate,2026-06-14 00:00:00
+EventName,Barcelona Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2026-06-12 13:30:00+02:00
+Session1DateUtc,2026-06-12 11:30:00
+Session2,Practice 2
+Session2Date,2026-06-12 17:00:00+02:00
+Session2DateUtc,2026-06-12 15:00:00
+Session3,Practice 3
+Session3Date,2026-06-13 12:30:00+02:00
+Session3DateUtc,2026-06-13 10:30:00
+Session4,Qualifying
+Session4Date,2026-06-13 16:00:00+02:00
+Session4DateUtc,2026-06-13 14:00:00
+Session5,Race
+Session5Date,2026-06-14 15:00:00+02:00
+Session5DateUtc,2026-06-14 13:00:00
+F1ApiSupport,True

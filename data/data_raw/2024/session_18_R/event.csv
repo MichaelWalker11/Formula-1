@@ -1,0 +1,24 @@
+,18
+RoundNumber,18
+Country,Singapore
+Location,Marina Bay
+OfficialEventName,FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024
+EventDate,2024-09-22 00:00:00
+EventName,Singapore Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2024-09-20 17:30:00+08:00
+Session1DateUtc,2024-09-20 09:30:00
+Session2,Practice 2
+Session2Date,2024-09-20 21:00:00+08:00
+Session2DateUtc,2024-09-20 13:00:00
+Session3,Practice 3
+Session3Date,2024-09-21 17:30:00+08:00
+Session3DateUtc,2024-09-21 09:30:00
+Session4,Qualifying
+Session4Date,2024-09-21 21:00:00+08:00
+Session4DateUtc,2024-09-21 13:00:00
+Session5,Race
+Session5Date,2024-09-22 20:00:00+08:00
+Session5DateUtc,2024-09-22 12:00:00
+F1ApiSupport,True

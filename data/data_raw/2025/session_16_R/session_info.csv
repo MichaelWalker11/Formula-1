@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1268,Inactive,,9912,Race,Race,2025-09-07 15:00:00,2025-09-07 17:00:00,0 days 02:00:00,2025/2025-09-07_Italian_Grand_Prix/2025-09-07_Race/
+Name,Italian Grand Prix,Inactive,,9912,Race,Race,2025-09-07 15:00:00,2025-09-07 17:00:00,0 days 02:00:00,2025/2025-09-07_Italian_Grand_Prix/2025-09-07_Race/
+OfficialName,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Inactive,,9912,Race,Race,2025-09-07 15:00:00,2025-09-07 17:00:00,0 days 02:00:00,2025/2025-09-07_Italian_Grand_Prix/2025-09-07_Race/
+Location,Monza,Inactive,,9912,Race,Race,2025-09-07 15:00:00,2025-09-07 17:00:00,0 days 02:00:00,2025/2025-09-07_Italian_Grand_Prix/2025-09-07_Race/
+Number,16,Inactive,,9912,Race,Race,2025-09-07 15:00:00,2025-09-07 17:00:00,0 days 02:00:00,2025/2025-09-07_Italian_Grand_Prix/2025-09-07_Race/
+Country,"{'Key': 13, 'Code': 'ITA', 'Name': 'Italy'}",Inactive,,9912,Race,Race,2025-09-07 15:00:00,2025-09-07 17:00:00,0 days 02:00:00,2025/2025-09-07_Italian_Grand_Prix/2025-09-07_Race/
+Circuit,"{'Key': 39, 'ShortName': 'Monza'}",Inactive,,9912,Race,Race,2025-09-07 15:00:00,2025-09-07 17:00:00,0 days 02:00:00,2025/2025-09-07_Italian_Grand_Prix/2025-09-07_Race/
+Status,,Inactive,Generating,9912,Race,Race,2025-09-07 15:00:00,2025-09-07 17:00:00,0 days 02:00:00,2025/2025-09-07_Italian_Grand_Prix/2025-09-07_Race/

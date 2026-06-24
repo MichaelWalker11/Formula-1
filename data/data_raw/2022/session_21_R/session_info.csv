@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1137,,7268,Race,Race,2022-11-13 15:00:00,2022-11-13 17:00:00,-1 days +21:00:00,2022/2022-11-13_São_Paulo_Grand_Prix/2022-11-13_Race/
+Name,São Paulo Grand Prix,,7268,Race,Race,2022-11-13 15:00:00,2022-11-13 17:00:00,-1 days +21:00:00,2022/2022-11-13_São_Paulo_Grand_Prix/2022-11-13_Race/
+OfficialName,FORMULA 1 HEINEKEN GRANDE PRÊMIO DE SÃO PAULO 2022,,7268,Race,Race,2022-11-13 15:00:00,2022-11-13 17:00:00,-1 days +21:00:00,2022/2022-11-13_São_Paulo_Grand_Prix/2022-11-13_Race/
+Location,São Paulo,,7268,Race,Race,2022-11-13 15:00:00,2022-11-13 17:00:00,-1 days +21:00:00,2022/2022-11-13_São_Paulo_Grand_Prix/2022-11-13_Race/
+Country,"{'Key': 10, 'Code': 'BRA', 'Name': 'Brazil'}",,7268,Race,Race,2022-11-13 15:00:00,2022-11-13 17:00:00,-1 days +21:00:00,2022/2022-11-13_São_Paulo_Grand_Prix/2022-11-13_Race/
+Circuit,"{'Key': 14, 'ShortName': 'Interlagos'}",,7268,Race,Race,2022-11-13 15:00:00,2022-11-13 17:00:00,-1 days +21:00:00,2022/2022-11-13_São_Paulo_Grand_Prix/2022-11-13_Race/
+Status,,Generating,7268,Race,Race,2022-11-13 15:00:00,2022-11-13 17:00:00,-1 days +21:00:00,2022/2022-11-13_São_Paulo_Grand_Prix/2022-11-13_Race/

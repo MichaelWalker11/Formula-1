@@ -1,0 +1,24 @@
+,9
+RoundNumber,8
+Country,Italy
+Location,Monza
+OfficialEventName,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020
+EventDate,2020-09-06 00:00:00
+EventName,Italian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2020-09-04 11:00:00+02:00
+Session1DateUtc,2020-09-04 09:00:00
+Session2,Practice 2
+Session2Date,2020-09-04 15:00:00+02:00
+Session2DateUtc,2020-09-04 13:00:00
+Session3,Practice 3
+Session3Date,2020-09-05 12:00:00+02:00
+Session3DateUtc,2020-09-05 10:00:00
+Session4,Qualifying
+Session4Date,2020-09-05 15:00:00+02:00
+Session4DateUtc,2020-09-05 13:00:00
+Session5,Race
+Session5Date,2020-09-06 15:10:00+02:00
+Session5DateUtc,2020-09-06 13:10:00
+F1ApiSupport,True

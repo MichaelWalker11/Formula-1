@@ -1,0 +1,24 @@
+,8
+RoundNumber,9
+Country,Austria
+Location,Spielberg
+OfficialEventName,FORMULA 1 MYWORLD GROSSER PREIS VON ÖSTERREICH 2019
+EventDate,2019-06-30 00:00:00
+EventName,Austrian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2019-06-28 11:00:00+02:00
+Session1DateUtc,2019-06-28 09:00:00
+Session2,Practice 2
+Session2Date,2019-06-28 15:00:00+02:00
+Session2DateUtc,2019-06-28 13:00:00
+Session3,Practice 3
+Session3Date,2019-06-29 12:00:00+02:00
+Session3DateUtc,2019-06-29 10:00:00
+Session4,Qualifying
+Session4Date,2019-06-29 15:00:00+02:00
+Session4DateUtc,2019-06-29 13:00:00
+Session5,Race
+Session5Date,2019-06-30 15:10:00+02:00
+Session5DateUtc,2019-06-30 13:10:00
+F1ApiSupport,True

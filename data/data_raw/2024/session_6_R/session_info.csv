@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1234,,9507,Race,Race,2024-05-05 16:00:00,2024-05-05 18:00:00,-1 days +20:00:00,2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/
+Name,Miami Grand Prix,,9507,Race,Race,2024-05-05 16:00:00,2024-05-05 18:00:00,-1 days +20:00:00,2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/
+OfficialName,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2024,,9507,Race,Race,2024-05-05 16:00:00,2024-05-05 18:00:00,-1 days +20:00:00,2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/
+Location,Miami,,9507,Race,Race,2024-05-05 16:00:00,2024-05-05 18:00:00,-1 days +20:00:00,2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/
+Country,"{'Key': 19, 'Code': 'USA', 'Name': 'United States'}",,9507,Race,Race,2024-05-05 16:00:00,2024-05-05 18:00:00,-1 days +20:00:00,2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/
+Circuit,"{'Key': 151, 'ShortName': 'Miami'}",,9507,Race,Race,2024-05-05 16:00:00,2024-05-05 18:00:00,-1 days +20:00:00,2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/
+Status,,Generating,9507,Race,Race,2024-05-05 16:00:00,2024-05-05 18:00:00,-1 days +20:00:00,2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/

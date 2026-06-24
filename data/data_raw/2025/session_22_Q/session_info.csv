@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1274,Inactive,,9854,Qualifying,Qualifying,2025-11-21 20:00:00,2025-11-21 21:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-21_Qualifying/
+Name,Las Vegas Grand Prix,Inactive,,9854,Qualifying,Qualifying,2025-11-21 20:00:00,2025-11-21 21:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-21_Qualifying/
+OfficialName,FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2025,Inactive,,9854,Qualifying,Qualifying,2025-11-21 20:00:00,2025-11-21 21:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-21_Qualifying/
+Location,Las Vegas,Inactive,,9854,Qualifying,Qualifying,2025-11-21 20:00:00,2025-11-21 21:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-21_Qualifying/
+Number,22,Inactive,,9854,Qualifying,Qualifying,2025-11-21 20:00:00,2025-11-21 21:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-21_Qualifying/
+Country,"{'Key': 19, 'Code': 'USA', 'Name': 'United States'}",Inactive,,9854,Qualifying,Qualifying,2025-11-21 20:00:00,2025-11-21 21:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-21_Qualifying/
+Circuit,"{'Key': 152, 'ShortName': 'Las Vegas'}",Inactive,,9854,Qualifying,Qualifying,2025-11-21 20:00:00,2025-11-21 21:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-21_Qualifying/
+Status,,Inactive,Generating,9854,Qualifying,Qualifying,2025-11-21 20:00:00,2025-11-21 21:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-21_Qualifying/

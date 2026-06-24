@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1287,Inactive,,11307,Race,Race,2026-06-14 15:00:00,2026-06-14 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/
+Name,Barcelona Grand Prix,Inactive,,11307,Race,Race,2026-06-14 15:00:00,2026-06-14 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/
+OfficialName,FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026,Inactive,,11307,Race,Race,2026-06-14 15:00:00,2026-06-14 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/
+Location,Barcelona,Inactive,,11307,Race,Race,2026-06-14 15:00:00,2026-06-14 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/
+Number,7,Inactive,,11307,Race,Race,2026-06-14 15:00:00,2026-06-14 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/
+Country,"{'Key': 1, 'Code': 'ESP', 'Name': 'Spain'}",Inactive,,11307,Race,Race,2026-06-14 15:00:00,2026-06-14 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/
+Circuit,"{'Key': 15, 'ShortName': 'Catalunya'}",Inactive,,11307,Race,Race,2026-06-14 15:00:00,2026-06-14 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/
+Status,,Inactive,Generating,11307,Race,Race,2026-06-14 15:00:00,2026-06-14 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/

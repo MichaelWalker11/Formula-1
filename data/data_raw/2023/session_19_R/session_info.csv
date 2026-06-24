@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1223,,9181,Race,Race,2023-10-29 14:00:00,2023-10-29 16:00:00,-1 days +18:00:00,2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-29_Race/
+Name,Mexico City Grand Prix,,9181,Race,Race,2023-10-29 14:00:00,2023-10-29 16:00:00,-1 days +18:00:00,2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-29_Race/
+OfficialName,FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2023,,9181,Race,Race,2023-10-29 14:00:00,2023-10-29 16:00:00,-1 days +18:00:00,2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-29_Race/
+Location,Mexico City,,9181,Race,Race,2023-10-29 14:00:00,2023-10-29 16:00:00,-1 days +18:00:00,2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-29_Race/
+Country,"{'Key': 8, 'Code': 'MEX', 'Name': 'Mexico'}",,9181,Race,Race,2023-10-29 14:00:00,2023-10-29 16:00:00,-1 days +18:00:00,2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-29_Race/
+Circuit,"{'Key': 65, 'ShortName': 'Mexico City'}",,9181,Race,Race,2023-10-29 14:00:00,2023-10-29 16:00:00,-1 days +18:00:00,2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-29_Race/
+Status,,Generating,9181,Race,Race,2023-10-29 14:00:00,2023-10-29 16:00:00,-1 days +18:00:00,2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-29_Race/

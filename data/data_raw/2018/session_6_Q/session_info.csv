@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,984,,5110,Qualifying,Qualifying,2018-05-26 15:00:00,2018-05-26 16:00:00,0 days 02:00:00,2018/2018-05-27_Monaco_Grand_Prix/2018-05-26_Qualifying/
+Name,Monaco Grand Prix,,5110,Qualifying,Qualifying,2018-05-26 15:00:00,2018-05-26 16:00:00,0 days 02:00:00,2018/2018-05-27_Monaco_Grand_Prix/2018-05-26_Qualifying/
+Location,Monte Carlo,,5110,Qualifying,Qualifying,2018-05-26 15:00:00,2018-05-26 16:00:00,0 days 02:00:00,2018/2018-05-27_Monaco_Grand_Prix/2018-05-26_Qualifying/
+Country,"{'Key': 114, 'Code': 'MON', 'Name': 'Monaco'}",,5110,Qualifying,Qualifying,2018-05-26 15:00:00,2018-05-26 16:00:00,0 days 02:00:00,2018/2018-05-27_Monaco_Grand_Prix/2018-05-26_Qualifying/
+Circuit,"{'Key': 22, 'ShortName': 'Monte Carlo'}",,5110,Qualifying,Qualifying,2018-05-26 15:00:00,2018-05-26 16:00:00,0 days 02:00:00,2018/2018-05-27_Monaco_Grand_Prix/2018-05-26_Qualifying/
+Status,,Generating,5110,Qualifying,Qualifying,2018-05-26 15:00:00,2018-05-26 16:00:00,0 days 02:00:00,2018/2018-05-27_Monaco_Grand_Prix/2018-05-26_Qualifying/

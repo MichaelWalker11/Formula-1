@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1074,,6263,Qualifying,Qualifying,2021-08-28 15:00:00,2021-08-28 16:00:00,0 days 02:00:00,2021/2021-08-29_Belgian_Grand_Prix/2021-08-28_Qualifying/
+Name,Belgian Grand Prix,,6263,Qualifying,Qualifying,2021-08-28 15:00:00,2021-08-28 16:00:00,0 days 02:00:00,2021/2021-08-29_Belgian_Grand_Prix/2021-08-28_Qualifying/
+Location,Spa-Francorchamps,,6263,Qualifying,Qualifying,2021-08-28 15:00:00,2021-08-28 16:00:00,0 days 02:00:00,2021/2021-08-29_Belgian_Grand_Prix/2021-08-28_Qualifying/
+Country,"{'Key': 16, 'Code': 'BEL', 'Name': 'Belgium'}",,6263,Qualifying,Qualifying,2021-08-28 15:00:00,2021-08-28 16:00:00,0 days 02:00:00,2021/2021-08-29_Belgian_Grand_Prix/2021-08-28_Qualifying/
+Circuit,"{'Key': 7, 'ShortName': 'Spa-Francorchamps'}",,6263,Qualifying,Qualifying,2021-08-28 15:00:00,2021-08-28 16:00:00,0 days 02:00:00,2021/2021-08-29_Belgian_Grand_Prix/2021-08-28_Qualifying/
+Status,,Generating,6263,Qualifying,Qualifying,2021-08-28 15:00:00,2021-08-28 16:00:00,0 days 02:00:00,2021/2021-08-29_Belgian_Grand_Prix/2021-08-28_Qualifying/

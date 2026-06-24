@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1008,,5462,Qualifying,Qualifying,2019-06-29 15:00:00,2019-06-29 16:00:00,0 days 02:00:00,2019/2019-06-30_Austrian_Grand_Prix/2019-06-29_Qualifying/
+Name,Austrian Grand Prix,,5462,Qualifying,Qualifying,2019-06-29 15:00:00,2019-06-29 16:00:00,0 days 02:00:00,2019/2019-06-30_Austrian_Grand_Prix/2019-06-29_Qualifying/
+Location,Spielberg,,5462,Qualifying,Qualifying,2019-06-29 15:00:00,2019-06-29 16:00:00,0 days 02:00:00,2019/2019-06-30_Austrian_Grand_Prix/2019-06-29_Qualifying/
+Country,"{'Key': 17, 'Code': 'AUT', 'Name': 'Austria'}",,5462,Qualifying,Qualifying,2019-06-29 15:00:00,2019-06-29 16:00:00,0 days 02:00:00,2019/2019-06-30_Austrian_Grand_Prix/2019-06-29_Qualifying/
+Circuit,"{'Key': 19, 'ShortName': 'Spielberg'}",,5462,Qualifying,Qualifying,2019-06-29 15:00:00,2019-06-29 16:00:00,0 days 02:00:00,2019/2019-06-30_Austrian_Grand_Prix/2019-06-29_Qualifying/
+Status,,Generating,5462,Qualifying,Qualifying,2019-06-29 15:00:00,2019-06-29 16:00:00,0 days 02:00:00,2019/2019-06-30_Austrian_Grand_Prix/2019-06-29_Qualifying/

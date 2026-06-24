@@ -1,0 +1,24 @@
+,3
+RoundNumber,2
+Country,China
+Location,Shanghai
+OfficialEventName,FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026
+EventDate,2026-03-15 00:00:00
+EventName,Chinese Grand Prix
+EventFormat,sprint_qualifying
+Session1,Practice 1
+Session1Date,2026-03-13 11:30:00+08:00
+Session1DateUtc,2026-03-13 03:30:00
+Session2,Sprint Qualifying
+Session2Date,2026-03-13 15:30:00+08:00
+Session2DateUtc,2026-03-13 07:30:00
+Session3,Sprint
+Session3Date,2026-03-14 11:00:00+08:00
+Session3DateUtc,2026-03-14 03:00:00
+Session4,Qualifying
+Session4Date,2026-03-14 15:00:00+08:00
+Session4DateUtc,2026-03-14 07:00:00
+Session5,Race
+Session5Date,2026-03-15 15:00:00+08:00
+Session5DateUtc,2026-03-15 07:00:00
+F1ApiSupport,True

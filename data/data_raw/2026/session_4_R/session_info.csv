@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1284,Inactive,,11280,Race,Race,2026-05-03 13:00:00,2026-05-03 15:00:00,-1 days +20:00:00,2026/2026-05-03_Miami_Grand_Prix/2026-05-03_Race/
+Name,Miami Grand Prix,Inactive,,11280,Race,Race,2026-05-03 13:00:00,2026-05-03 15:00:00,-1 days +20:00:00,2026/2026-05-03_Miami_Grand_Prix/2026-05-03_Race/
+OfficialName,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026,Inactive,,11280,Race,Race,2026-05-03 13:00:00,2026-05-03 15:00:00,-1 days +20:00:00,2026/2026-05-03_Miami_Grand_Prix/2026-05-03_Race/
+Location,Miami Gardens,Inactive,,11280,Race,Race,2026-05-03 13:00:00,2026-05-03 15:00:00,-1 days +20:00:00,2026/2026-05-03_Miami_Grand_Prix/2026-05-03_Race/
+Number,4,Inactive,,11280,Race,Race,2026-05-03 13:00:00,2026-05-03 15:00:00,-1 days +20:00:00,2026/2026-05-03_Miami_Grand_Prix/2026-05-03_Race/
+Country,"{'Key': 19, 'Code': 'USA', 'Name': 'United States'}",Inactive,,11280,Race,Race,2026-05-03 13:00:00,2026-05-03 15:00:00,-1 days +20:00:00,2026/2026-05-03_Miami_Grand_Prix/2026-05-03_Race/
+Circuit,"{'Key': 151, 'ShortName': 'Miami'}",Inactive,,11280,Race,Race,2026-05-03 13:00:00,2026-05-03 15:00:00,-1 days +20:00:00,2026/2026-05-03_Miami_Grand_Prix/2026-05-03_Race/
+Status,,Inactive,Generating,11280,Race,Race,2026-05-03 13:00:00,2026-05-03 15:00:00,-1 days +20:00:00,2026/2026-05-03_Miami_Grand_Prix/2026-05-03_Race/

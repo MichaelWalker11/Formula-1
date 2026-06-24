@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1280,Inactive,,11245,Race,Race,2026-03-15 15:00:00,2026-03-15 17:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-15_Race/
+Name,Chinese Grand Prix,Inactive,,11245,Race,Race,2026-03-15 15:00:00,2026-03-15 17:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-15_Race/
+OfficialName,FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026,Inactive,,11245,Race,Race,2026-03-15 15:00:00,2026-03-15 17:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-15_Race/
+Location,Shanghai,Inactive,,11245,Race,Race,2026-03-15 15:00:00,2026-03-15 17:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-15_Race/
+Number,2,Inactive,,11245,Race,Race,2026-03-15 15:00:00,2026-03-15 17:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-15_Race/
+Country,"{'Key': 53, 'Code': 'CHN', 'Name': 'China'}",Inactive,,11245,Race,Race,2026-03-15 15:00:00,2026-03-15 17:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-15_Race/
+Circuit,"{'Key': 49, 'ShortName': 'Shanghai'}",Inactive,,11245,Race,Race,2026-03-15 15:00:00,2026-03-15 17:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-15_Race/
+Status,,Inactive,Generating,11245,Race,Race,2026-03-15 15:00:00,2026-03-15 17:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-15_Race/

@@ -1,0 +1,24 @@
+,1
+RoundNumber,2
+Country,Bahrain
+Location,Sakhir
+OfficialEventName,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2019
+EventDate,2019-03-31 00:00:00
+EventName,Bahrain Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2019-03-29 14:00:00+03:00
+Session1DateUtc,2019-03-29 11:00:00
+Session2,Practice 2
+Session2Date,2019-03-29 18:00:00+03:00
+Session2DateUtc,2019-03-29 15:00:00
+Session3,Practice 3
+Session3Date,2019-03-30 15:00:00+03:00
+Session3DateUtc,2019-03-30 12:00:00
+Session4,Qualifying
+Session4Date,2019-03-30 18:00:00+03:00
+Session4DateUtc,2019-03-30 15:00:00
+Session5,Race
+Session5Date,2019-03-31 18:10:00+03:00
+Session5DateUtc,2019-03-31 15:10:00
+F1ApiSupport,True

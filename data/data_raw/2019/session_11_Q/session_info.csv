@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1010,,5478,Qualifying,Qualifying,2019-07-27 15:00:00,2019-07-27 16:00:00,0 days 02:00:00,2019/2019-07-28_German_Grand_Prix/2019-07-27_Qualifying/
+Name,German Grand Prix,,5478,Qualifying,Qualifying,2019-07-27 15:00:00,2019-07-27 16:00:00,0 days 02:00:00,2019/2019-07-28_German_Grand_Prix/2019-07-27_Qualifying/
+Location,Hockenheim,,5478,Qualifying,Qualifying,2019-07-27 15:00:00,2019-07-27 16:00:00,0 days 02:00:00,2019/2019-07-28_German_Grand_Prix/2019-07-27_Qualifying/
+Country,"{'Key': 3, 'Code': 'GER', 'Name': 'Germany'}",,5478,Qualifying,Qualifying,2019-07-27 15:00:00,2019-07-27 16:00:00,0 days 02:00:00,2019/2019-07-28_German_Grand_Prix/2019-07-27_Qualifying/
+Circuit,"{'Key': 34, 'ShortName': 'Hockenheim'}",,5478,Qualifying,Qualifying,2019-07-27 15:00:00,2019-07-27 16:00:00,0 days 02:00:00,2019/2019-07-28_German_Grand_Prix/2019-07-27_Qualifying/
+Status,,Generating,5478,Qualifying,Qualifying,2019-07-27 15:00:00,2019-07-27 16:00:00,0 days 02:00:00,2019/2019-07-28_German_Grand_Prix/2019-07-27_Qualifying/

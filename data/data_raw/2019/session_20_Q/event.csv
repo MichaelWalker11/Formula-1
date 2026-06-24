@@ -1,0 +1,24 @@
+,19
+RoundNumber,20
+Country,Brazil
+Location,São Paulo
+OfficialEventName,FORMULA 1 HEINEKEN GRANDE PRÊMIO DO BRASIL 2019
+EventDate,2019-11-17 00:00:00
+EventName,Brazilian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2019-11-15 11:00:00-03:00
+Session1DateUtc,2019-11-15 14:00:00
+Session2,Practice 2
+Session2Date,2019-11-15 15:00:00-03:00
+Session2DateUtc,2019-11-15 18:00:00
+Session3,Practice 3
+Session3Date,2019-11-16 12:00:00-03:00
+Session3DateUtc,2019-11-16 15:00:00
+Session4,Qualifying
+Session4Date,2019-11-16 15:00:00-03:00
+Session4DateUtc,2019-11-16 18:00:00
+Session5,Race
+Session5Date,2019-11-17 14:10:00-03:00
+Session5DateUtc,2019-11-17 17:10:00
+F1ApiSupport,True

@@ -1,0 +1,24 @@
+,7
+RoundNumber,6
+Country,Spain
+Location,Barcelona
+OfficialEventName,FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2020
+EventDate,2020-08-16 00:00:00
+EventName,Spanish Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2020-08-14 11:00:00+02:00
+Session1DateUtc,2020-08-14 09:00:00
+Session2,Practice 2
+Session2Date,2020-08-14 15:00:00+02:00
+Session2DateUtc,2020-08-14 13:00:00
+Session3,Practice 3
+Session3Date,2020-08-15 12:00:00+02:00
+Session3DateUtc,2020-08-15 10:00:00
+Session4,Qualifying
+Session4Date,2020-08-15 15:00:00+02:00
+Session4DateUtc,2020-08-15 13:00:00
+Session5,Race
+Session5Date,2020-08-16 15:10:00+02:00
+Session5DateUtc,2020-08-16 13:10:00
+F1ApiSupport,True

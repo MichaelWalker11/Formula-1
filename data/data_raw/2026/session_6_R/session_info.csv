@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1286,Inactive,,11299,Race,Race,2026-06-07 15:00:00,2026-06-07 17:00:00,0 days 02:00:00,2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/
+Name,Monaco Grand Prix,Inactive,,11299,Race,Race,2026-06-07 15:00:00,2026-06-07 17:00:00,0 days 02:00:00,2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/
+OfficialName,FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026,Inactive,,11299,Race,Race,2026-06-07 15:00:00,2026-06-07 17:00:00,0 days 02:00:00,2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/
+Location,Monte Carlo,Inactive,,11299,Race,Race,2026-06-07 15:00:00,2026-06-07 17:00:00,0 days 02:00:00,2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/
+Number,6,Inactive,,11299,Race,Race,2026-06-07 15:00:00,2026-06-07 17:00:00,0 days 02:00:00,2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/
+Country,"{'Key': 114, 'Code': 'MON', 'Name': 'Monaco'}",Inactive,,11299,Race,Race,2026-06-07 15:00:00,2026-06-07 17:00:00,0 days 02:00:00,2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/
+Circuit,"{'Key': 22, 'ShortName': 'Monte Carlo'}",Inactive,,11299,Race,Race,2026-06-07 15:00:00,2026-06-07 17:00:00,0 days 02:00:00,2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/
+Status,,Inactive,Generating,11299,Race,Race,2026-06-07 15:00:00,2026-06-07 17:00:00,0 days 02:00:00,2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/

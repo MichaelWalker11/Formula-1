@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1285,Inactive,,11291,Race,Race,2026-05-24 16:00:00,2026-05-24 18:00:00,-1 days +20:00:00,2026/2026-05-24_Canadian_Grand_Prix/2026-05-24_Race/
+Name,Canadian Grand Prix,Inactive,,11291,Race,Race,2026-05-24 16:00:00,2026-05-24 18:00:00,-1 days +20:00:00,2026/2026-05-24_Canadian_Grand_Prix/2026-05-24_Race/
+OfficialName,FORMULA 1 LENOVO GRAND PRIX DU CANADA 2026,Inactive,,11291,Race,Race,2026-05-24 16:00:00,2026-05-24 18:00:00,-1 days +20:00:00,2026/2026-05-24_Canadian_Grand_Prix/2026-05-24_Race/
+Location,Montréal,Inactive,,11291,Race,Race,2026-05-24 16:00:00,2026-05-24 18:00:00,-1 days +20:00:00,2026/2026-05-24_Canadian_Grand_Prix/2026-05-24_Race/
+Number,5,Inactive,,11291,Race,Race,2026-05-24 16:00:00,2026-05-24 18:00:00,-1 days +20:00:00,2026/2026-05-24_Canadian_Grand_Prix/2026-05-24_Race/
+Country,"{'Key': 46, 'Code': 'CAN', 'Name': 'Canada'}",Inactive,,11291,Race,Race,2026-05-24 16:00:00,2026-05-24 18:00:00,-1 days +20:00:00,2026/2026-05-24_Canadian_Grand_Prix/2026-05-24_Race/
+Circuit,"{'Key': 23, 'ShortName': 'Montreal'}",Inactive,,11291,Race,Race,2026-05-24 16:00:00,2026-05-24 18:00:00,-1 days +20:00:00,2026/2026-05-24_Canadian_Grand_Prix/2026-05-24_Race/
+Status,,Inactive,Generating,11291,Race,Race,2026-05-24 16:00:00,2026-05-24 18:00:00,-1 days +20:00:00,2026/2026-05-24_Canadian_Grand_Prix/2026-05-24_Race/

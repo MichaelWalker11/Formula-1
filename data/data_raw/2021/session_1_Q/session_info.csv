@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1064,,6213,Qualifying,Qualifying,2021-03-27 18:00:00,2021-03-27 19:00:00,0 days 03:00:00,2021/2021-03-28_Bahrain_Grand_Prix/2021-03-27_Qualifying/
+Name,Bahrain Grand Prix,,6213,Qualifying,Qualifying,2021-03-27 18:00:00,2021-03-27 19:00:00,0 days 03:00:00,2021/2021-03-28_Bahrain_Grand_Prix/2021-03-27_Qualifying/
+Location,Sakhir,,6213,Qualifying,Qualifying,2021-03-27 18:00:00,2021-03-27 19:00:00,0 days 03:00:00,2021/2021-03-28_Bahrain_Grand_Prix/2021-03-27_Qualifying/
+Country,"{'Key': 36, 'Code': 'BRN', 'Name': 'Bahrain'}",,6213,Qualifying,Qualifying,2021-03-27 18:00:00,2021-03-27 19:00:00,0 days 03:00:00,2021/2021-03-28_Bahrain_Grand_Prix/2021-03-27_Qualifying/
+Circuit,"{'Key': 63, 'ShortName': 'Sakhir'}",,6213,Qualifying,Qualifying,2021-03-27 18:00:00,2021-03-27 19:00:00,0 days 03:00:00,2021/2021-03-28_Bahrain_Grand_Prix/2021-03-27_Qualifying/
+Status,,Generating,6213,Qualifying,Qualifying,2021-03-27 18:00:00,2021-03-27 19:00:00,0 days 03:00:00,2021/2021-03-28_Bahrain_Grand_Prix/2021-03-27_Qualifying/

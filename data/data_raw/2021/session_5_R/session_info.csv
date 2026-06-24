@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1067,,6229,Race,Race,2021-05-23 15:00:00,2021-05-23 17:00:00,0 days 02:00:00,2021/2021-05-23_Monaco_Grand_Prix/2021-05-23_Race/
+Name,Monaco Grand Prix,,6229,Race,Race,2021-05-23 15:00:00,2021-05-23 17:00:00,0 days 02:00:00,2021/2021-05-23_Monaco_Grand_Prix/2021-05-23_Race/
+Location,Monte Carlo,,6229,Race,Race,2021-05-23 15:00:00,2021-05-23 17:00:00,0 days 02:00:00,2021/2021-05-23_Monaco_Grand_Prix/2021-05-23_Race/
+Country,"{'Key': 114, 'Code': 'MON', 'Name': 'Monaco'}",,6229,Race,Race,2021-05-23 15:00:00,2021-05-23 17:00:00,0 days 02:00:00,2021/2021-05-23_Monaco_Grand_Prix/2021-05-23_Race/
+Circuit,"{'Key': 22, 'ShortName': 'Monte Carlo'}",,6229,Race,Race,2021-05-23 15:00:00,2021-05-23 17:00:00,0 days 02:00:00,2021/2021-05-23_Monaco_Grand_Prix/2021-05-23_Race/
+Status,,Generating,6229,Race,Race,2021-05-23 15:00:00,2021-05-23 17:00:00,0 days 02:00:00,2021/2021-05-23_Monaco_Grand_Prix/2021-05-23_Race/

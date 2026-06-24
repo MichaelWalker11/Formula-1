@@ -1,0 +1,24 @@
+,13
+RoundNumber,13
+Country,Belgium
+Location,Spa-Francorchamps
+OfficialEventName,FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2025
+EventDate,2025-07-27 00:00:00
+EventName,Belgian Grand Prix
+EventFormat,sprint_qualifying
+Session1,Practice 1
+Session1Date,2025-07-25 12:30:00+02:00
+Session1DateUtc,2025-07-25 10:30:00
+Session2,Sprint Qualifying
+Session2Date,2025-07-25 16:30:00+02:00
+Session2DateUtc,2025-07-25 14:30:00
+Session3,Sprint
+Session3Date,2025-07-26 12:00:00+02:00
+Session3DateUtc,2025-07-26 10:00:00
+Session4,Qualifying
+Session4Date,2025-07-26 16:00:00+02:00
+Session4DateUtc,2025-07-26 14:00:00
+Session5,Race
+Session5Date,2025-07-27 15:00:00+02:00
+Session5DateUtc,2025-07-27 13:00:00
+F1ApiSupport,True

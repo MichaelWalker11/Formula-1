@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1107,,6601,Race,Race,2021-12-12 17:00:00,2021-12-12 19:00:00,0 days 04:00:00,2021/2021-12-12_Abu_Dhabi_Grand_Prix/2021-12-12_Race/
+Name,Abu Dhabi Grand Prix,,6601,Race,Race,2021-12-12 17:00:00,2021-12-12 19:00:00,0 days 04:00:00,2021/2021-12-12_Abu_Dhabi_Grand_Prix/2021-12-12_Race/
+Location,Yas Island,,6601,Race,Race,2021-12-12 17:00:00,2021-12-12 19:00:00,0 days 04:00:00,2021/2021-12-12_Abu_Dhabi_Grand_Prix/2021-12-12_Race/
+Country,"{'Key': 21, 'Code': 'UAE', 'Name': 'United Arab Emirates'}",,6601,Race,Race,2021-12-12 17:00:00,2021-12-12 19:00:00,0 days 04:00:00,2021/2021-12-12_Abu_Dhabi_Grand_Prix/2021-12-12_Race/
+Circuit,"{'Key': 70, 'ShortName': 'Yas Marina Circuit'}",,6601,Race,Race,2021-12-12 17:00:00,2021-12-12 19:00:00,0 days 04:00:00,2021/2021-12-12_Abu_Dhabi_Grand_Prix/2021-12-12_Race/
+Status,,Generating,6601,Race,Race,2021-12-12 17:00:00,2021-12-12 19:00:00,0 days 04:00:00,2021/2021-12-12_Abu_Dhabi_Grand_Prix/2021-12-12_Race/

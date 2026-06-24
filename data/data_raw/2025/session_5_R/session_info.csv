@@ -1,0 +1,9 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1258,,10022,Race,Race,2025-04-20 20:00:00,2025-04-20 22:00:00,0 days 03:00:00,2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-20_Race/
+Name,Saudi Arabian Grand Prix,,10022,Race,Race,2025-04-20 20:00:00,2025-04-20 22:00:00,0 days 03:00:00,2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-20_Race/
+OfficialName,FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025,,10022,Race,Race,2025-04-20 20:00:00,2025-04-20 22:00:00,0 days 03:00:00,2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-20_Race/
+Location,Jeddah,,10022,Race,Race,2025-04-20 20:00:00,2025-04-20 22:00:00,0 days 03:00:00,2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-20_Race/
+Number,5,,10022,Race,Race,2025-04-20 20:00:00,2025-04-20 22:00:00,0 days 03:00:00,2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-20_Race/
+Country,"{'Key': 153, 'Code': 'KSA', 'Name': 'Saudi Arabia'}",,10022,Race,Race,2025-04-20 20:00:00,2025-04-20 22:00:00,0 days 03:00:00,2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-20_Race/
+Circuit,"{'Key': 149, 'ShortName': 'Jeddah'}",,10022,Race,Race,2025-04-20 20:00:00,2025-04-20 22:00:00,0 days 03:00:00,2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-20_Race/
+Status,,Generating,10022,Race,Race,2025-04-20 20:00:00,2025-04-20 22:00:00,0 days 03:00:00,2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-20_Race/

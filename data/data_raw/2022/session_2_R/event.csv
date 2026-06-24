@@ -1,0 +1,24 @@
+,3
+RoundNumber,2
+Country,Saudi Arabia
+Location,Jeddah
+OfficialEventName,FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2022
+EventDate,2022-03-27 00:00:00
+EventName,Saudi Arabian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2022-03-25 17:00:00+03:00
+Session1DateUtc,2022-03-25 14:00:00
+Session2,Practice 2
+Session2Date,2022-03-25 20:00:00+03:00
+Session2DateUtc,2022-03-25 17:00:00
+Session3,Practice 3
+Session3Date,2022-03-26 17:00:00+03:00
+Session3DateUtc,2022-03-26 14:00:00
+Session4,Qualifying
+Session4Date,2022-03-26 20:00:00+03:00
+Session4DateUtc,2022-03-26 17:00:00
+Session5,Race
+Session5Date,2022-03-27 20:00:00+03:00
+Session5DateUtc,2022-03-27 17:00:00
+F1ApiSupport,True

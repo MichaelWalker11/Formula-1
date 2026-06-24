@@ -1,0 +1,24 @@
+,10
+RoundNumber,10
+Country,Great Britain
+Location,Silverstone
+OfficialEventName,FORMULA 1 PIRELLI BRITISH GRAND PRIX 2021
+EventDate,2021-07-18 00:00:00
+EventName,British Grand Prix
+EventFormat,sprint
+Session1,Practice 1
+Session1Date,2021-07-16 14:30:00+01:00
+Session1DateUtc,2021-07-16 13:30:00
+Session2,Qualifying
+Session2Date,2021-07-16 18:00:00+01:00
+Session2DateUtc,2021-07-16 17:00:00
+Session3,Practice 2
+Session3Date,2021-07-17 12:00:00+01:00
+Session3DateUtc,2021-07-17 11:00:00
+Session4,Sprint
+Session4Date,2021-07-17 16:30:00+01:00
+Session4DateUtc,2021-07-17 15:30:00
+Session5,Race
+Session5Date,2021-07-18 15:00:00+01:00
+Session5DateUtc,2021-07-18 14:00:00
+F1ApiSupport,True

@@ -1,0 +1,24 @@
+,24
+RoundNumber,24
+Country,United Arab Emirates
+Location,Yas Island
+OfficialEventName,FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024
+EventDate,2024-12-08 00:00:00
+EventName,Abu Dhabi Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2024-12-06 13:30:00+04:00
+Session1DateUtc,2024-12-06 09:30:00
+Session2,Practice 2
+Session2Date,2024-12-06 17:00:00+04:00
+Session2DateUtc,2024-12-06 13:00:00
+Session3,Practice 3
+Session3Date,2024-12-07 14:30:00+04:00
+Session3DateUtc,2024-12-07 10:30:00
+Session4,Qualifying
+Session4Date,2024-12-07 18:00:00+04:00
+Session4DateUtc,2024-12-07 14:00:00
+Session5,Race
+Session5Date,2024-12-08 17:00:00+04:00
+Session5DateUtc,2024-12-08 13:00:00
+F1ApiSupport,True

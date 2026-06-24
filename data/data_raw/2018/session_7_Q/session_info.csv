@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,985,,5118,Qualifying,Qualifying,2018-06-09 14:00:00,2018-06-09 15:00:00,-1 days +20:00:00,2018/2018-06-10_Canadian_Grand_Prix/2018-06-09_Qualifying/
+Name,Canadian Grand Prix,,5118,Qualifying,Qualifying,2018-06-09 14:00:00,2018-06-09 15:00:00,-1 days +20:00:00,2018/2018-06-10_Canadian_Grand_Prix/2018-06-09_Qualifying/
+Location,Montréal,,5118,Qualifying,Qualifying,2018-06-09 14:00:00,2018-06-09 15:00:00,-1 days +20:00:00,2018/2018-06-10_Canadian_Grand_Prix/2018-06-09_Qualifying/
+Country,"{'Key': 46, 'Code': 'CAN', 'Name': 'Canada'}",,5118,Qualifying,Qualifying,2018-06-09 14:00:00,2018-06-09 15:00:00,-1 days +20:00:00,2018/2018-06-10_Canadian_Grand_Prix/2018-06-09_Qualifying/
+Circuit,"{'Key': 23, 'ShortName': 'Montreal'}",,5118,Qualifying,Qualifying,2018-06-09 14:00:00,2018-06-09 15:00:00,-1 days +20:00:00,2018/2018-06-10_Canadian_Grand_Prix/2018-06-09_Qualifying/
+Status,,Generating,5118,Qualifying,Qualifying,2018-06-09 14:00:00,2018-06-09 15:00:00,-1 days +20:00:00,2018/2018-06-10_Canadian_Grand_Prix/2018-06-09_Qualifying/

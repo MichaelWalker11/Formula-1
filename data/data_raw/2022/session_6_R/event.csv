@@ -1,0 +1,24 @@
+,7
+RoundNumber,6
+Country,Spain
+Location,Barcelona
+OfficialEventName,FORMULA 1 PIRELLI GRAN PREMIO DE ESPAÑA 2022
+EventDate,2022-05-22 00:00:00
+EventName,Spanish Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2022-05-20 14:00:00+02:00
+Session1DateUtc,2022-05-20 12:00:00
+Session2,Practice 2
+Session2Date,2022-05-20 17:00:00+02:00
+Session2DateUtc,2022-05-20 15:00:00
+Session3,Practice 3
+Session3Date,2022-05-21 13:00:00+02:00
+Session3DateUtc,2022-05-21 11:00:00
+Session4,Qualifying
+Session4Date,2022-05-21 16:00:00+02:00
+Session4DateUtc,2022-05-21 14:00:00
+Session5,Race
+Session5Date,2022-05-22 15:00:00+02:00
+Session5DateUtc,2022-05-22 13:00:00
+F1ApiSupport,True

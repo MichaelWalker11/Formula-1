@@ -1,0 +1,24 @@
+,8
+RoundNumber,7
+Country,Belgium
+Location,Spa-Francorchamps
+OfficialEventName,FORMULA 1 ROLEX BELGIAN GRAND PRIX 2020
+EventDate,2020-08-30 00:00:00
+EventName,Belgian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2020-08-28 11:00:00+02:00
+Session1DateUtc,2020-08-28 09:00:00
+Session2,Practice 2
+Session2Date,2020-08-28 15:00:00+02:00
+Session2DateUtc,2020-08-28 13:00:00
+Session3,Practice 3
+Session3Date,2020-08-29 12:00:00+02:00
+Session3DateUtc,2020-08-29 10:00:00
+Session4,Qualifying
+Session4Date,2020-08-29 15:00:00+02:00
+Session4DateUtc,2020-08-29 13:00:00
+Session5,Race
+Session5Date,2020-08-30 15:10:00+02:00
+Session5DateUtc,2020-08-30 13:10:00
+F1ApiSupport,True

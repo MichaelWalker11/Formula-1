@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1076,,6274,Race,Race,2021-09-12 15:00:00,2021-09-12 17:00:00,0 days 02:00:00,2021/2021-09-12_Italian_Grand_Prix/2021-09-12_Race/
+Name,Italian Grand Prix,,6274,Race,Race,2021-09-12 15:00:00,2021-09-12 17:00:00,0 days 02:00:00,2021/2021-09-12_Italian_Grand_Prix/2021-09-12_Race/
+Location,Monza,,6274,Race,Race,2021-09-12 15:00:00,2021-09-12 17:00:00,0 days 02:00:00,2021/2021-09-12_Italian_Grand_Prix/2021-09-12_Race/
+Country,"{'Key': 13, 'Code': 'ITA', 'Name': 'Italy'}",,6274,Race,Race,2021-09-12 15:00:00,2021-09-12 17:00:00,0 days 02:00:00,2021/2021-09-12_Italian_Grand_Prix/2021-09-12_Race/
+Circuit,"{'Key': 39, 'ShortName': 'Monza'}",,6274,Race,Race,2021-09-12 15:00:00,2021-09-12 17:00:00,0 days 02:00:00,2021/2021-09-12_Italian_Grand_Prix/2021-09-12_Race/
+Status,,Generating,6274,Race,Race,2021-09-12 15:00:00,2021-09-12 17:00:00,0 days 02:00:00,2021/2021-09-12_Italian_Grand_Prix/2021-09-12_Race/

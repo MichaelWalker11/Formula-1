@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1067,,6228,Qualifying,Qualifying,2021-05-22 15:00:00,2021-05-22 16:00:00,0 days 02:00:00,2021/2021-05-23_Monaco_Grand_Prix/2021-05-22_Qualifying/
+Name,Monaco Grand Prix,,6228,Qualifying,Qualifying,2021-05-22 15:00:00,2021-05-22 16:00:00,0 days 02:00:00,2021/2021-05-23_Monaco_Grand_Prix/2021-05-22_Qualifying/
+Location,Monte Carlo,,6228,Qualifying,Qualifying,2021-05-22 15:00:00,2021-05-22 16:00:00,0 days 02:00:00,2021/2021-05-23_Monaco_Grand_Prix/2021-05-22_Qualifying/
+Country,"{'Key': 114, 'Code': 'MON', 'Name': 'Monaco'}",,6228,Qualifying,Qualifying,2021-05-22 15:00:00,2021-05-22 16:00:00,0 days 02:00:00,2021/2021-05-23_Monaco_Grand_Prix/2021-05-22_Qualifying/
+Circuit,"{'Key': 22, 'ShortName': 'Monte Carlo'}",,6228,Qualifying,Qualifying,2021-05-22 15:00:00,2021-05-22 16:00:00,0 days 02:00:00,2021/2021-05-23_Monaco_Grand_Prix/2021-05-22_Qualifying/
+Status,,Generating,6228,Qualifying,Qualifying,2021-05-22 15:00:00,2021-05-22 16:00:00,0 days 02:00:00,2021/2021-05-23_Monaco_Grand_Prix/2021-05-22_Qualifying/

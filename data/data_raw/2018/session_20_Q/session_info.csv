@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,998,,5222,Qualifying,Qualifying,2018-11-10 15:00:00,2018-11-10 16:00:00,-1 days +22:00:00,2018/2018-11-11_Brazilian_Grand_Prix/2018-11-10_Qualifying/
+Name,Brazilian Grand Prix,,5222,Qualifying,Qualifying,2018-11-10 15:00:00,2018-11-10 16:00:00,-1 days +22:00:00,2018/2018-11-11_Brazilian_Grand_Prix/2018-11-10_Qualifying/
+Location,São Paulo,,5222,Qualifying,Qualifying,2018-11-10 15:00:00,2018-11-10 16:00:00,-1 days +22:00:00,2018/2018-11-11_Brazilian_Grand_Prix/2018-11-10_Qualifying/
+Country,"{'Key': 10, 'Code': 'BRA', 'Name': 'Brazil'}",,5222,Qualifying,Qualifying,2018-11-10 15:00:00,2018-11-10 16:00:00,-1 days +22:00:00,2018/2018-11-11_Brazilian_Grand_Prix/2018-11-10_Qualifying/
+Circuit,"{'Key': 14, 'ShortName': 'Interlagos'}",,5222,Qualifying,Qualifying,2018-11-10 15:00:00,2018-11-10 16:00:00,-1 days +22:00:00,2018/2018-11-11_Brazilian_Grand_Prix/2018-11-10_Qualifying/
+Status,,Generating,5222,Qualifying,Qualifying,2018-11-10 15:00:00,2018-11-10 16:00:00,-1 days +22:00:00,2018/2018-11-11_Brazilian_Grand_Prix/2018-11-10_Qualifying/

@@ -1,0 +1,24 @@
+,0
+RoundNumber,1
+Country,Australia
+Location,Melbourne
+OfficialEventName,FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2019
+EventDate,2019-03-17 00:00:00
+EventName,Australian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2019-03-15 12:00:00+11:00
+Session1DateUtc,2019-03-15 01:00:00
+Session2,Practice 2
+Session2Date,2019-03-15 16:00:00+11:00
+Session2DateUtc,2019-03-15 05:00:00
+Session3,Practice 3
+Session3Date,2019-03-16 14:00:00+11:00
+Session3DateUtc,2019-03-16 03:00:00
+Session4,Qualifying
+Session4Date,2019-03-16 17:00:00+11:00
+Session4DateUtc,2019-03-16 06:00:00
+Session5,Race
+Session5Date,2019-03-17 16:10:00+11:00
+Session5DateUtc,2019-03-17 05:10:00
+F1ApiSupport,True

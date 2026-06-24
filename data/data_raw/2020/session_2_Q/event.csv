@@ -1,0 +1,24 @@
+,3
+RoundNumber,2
+Country,Austria
+Location,Spielberg
+OfficialEventName,FORMULA 1 PIRELLI GROSSER PREIS DER STEIERMARK 2020
+EventDate,2020-07-12 00:00:00
+EventName,Styrian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2020-07-10 11:00:00+02:00
+Session1DateUtc,2020-07-10 09:00:00
+Session2,Practice 2
+Session2Date,2020-07-10 15:00:00+02:00
+Session2DateUtc,2020-07-10 13:00:00
+Session3,Practice 3
+Session3Date,2020-07-11 12:00:00+02:00
+Session3DateUtc,2020-07-11 10:00:00
+Session4,Qualifying
+Session4Date,2020-07-11 15:00:00+02:00
+Session4DateUtc,2020-07-11 13:00:00
+Session5,Race
+Session5Date,2020-07-12 15:10:00+02:00
+Session5DateUtc,2020-07-12 13:10:00
+F1ApiSupport,True

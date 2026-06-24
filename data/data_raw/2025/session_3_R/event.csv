@@ -1,0 +1,24 @@
+,3
+RoundNumber,3
+Country,Japan
+Location,Suzuka
+OfficialEventName,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2025 
+EventDate,2025-04-06 00:00:00
+EventName,Japanese Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2025-04-04 11:30:00+09:00
+Session1DateUtc,2025-04-04 02:30:00
+Session2,Practice 2
+Session2Date,2025-04-04 15:00:00+09:00
+Session2DateUtc,2025-04-04 06:00:00
+Session3,Practice 3
+Session3Date,2025-04-05 11:30:00+09:00
+Session3DateUtc,2025-04-05 02:30:00
+Session4,Qualifying
+Session4Date,2025-04-05 15:00:00+09:00
+Session4DateUtc,2025-04-05 06:00:00
+Session5,Race
+Session5Date,2025-04-06 14:00:00+09:00
+Session5DateUtc,2025-04-06 05:00:00
+F1ApiSupport,True

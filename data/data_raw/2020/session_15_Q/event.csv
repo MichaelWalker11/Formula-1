@@ -1,0 +1,24 @@
+,16
+RoundNumber,15
+Country,Bahrain
+Location,Sakhir
+OfficialEventName,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2020
+EventDate,2020-11-29 00:00:00
+EventName,Bahrain Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2020-11-27 14:00:00+03:00
+Session1DateUtc,2020-11-27 11:00:00
+Session2,Practice 2
+Session2Date,2020-11-27 18:00:00+03:00
+Session2DateUtc,2020-11-27 15:00:00
+Session3,Practice 3
+Session3Date,2020-11-28 14:00:00+03:00
+Session3DateUtc,2020-11-28 11:00:00
+Session4,Qualifying
+Session4Date,2020-11-28 17:00:00+03:00
+Session4DateUtc,2020-11-28 14:00:00
+Session5,Race
+Session5Date,2020-11-29 17:10:00+03:00
+Session5DateUtc,2020-11-29 14:10:00
+F1ApiSupport,True

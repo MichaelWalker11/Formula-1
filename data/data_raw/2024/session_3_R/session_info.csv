@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1231,,9488,Race,Race,2024-03-24 15:00:00,2024-03-24 17:00:00,0 days 11:00:00,2024/2024-03-24_Australian_Grand_Prix/2024-03-24_Race/
+Name,Australian Grand Prix,,9488,Race,Race,2024-03-24 15:00:00,2024-03-24 17:00:00,0 days 11:00:00,2024/2024-03-24_Australian_Grand_Prix/2024-03-24_Race/
+OfficialName,FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2024,,9488,Race,Race,2024-03-24 15:00:00,2024-03-24 17:00:00,0 days 11:00:00,2024/2024-03-24_Australian_Grand_Prix/2024-03-24_Race/
+Location,Melbourne,,9488,Race,Race,2024-03-24 15:00:00,2024-03-24 17:00:00,0 days 11:00:00,2024/2024-03-24_Australian_Grand_Prix/2024-03-24_Race/
+Country,"{'Key': 5, 'Code': 'AUS', 'Name': 'Australia'}",,9488,Race,Race,2024-03-24 15:00:00,2024-03-24 17:00:00,0 days 11:00:00,2024/2024-03-24_Australian_Grand_Prix/2024-03-24_Race/
+Circuit,"{'Key': 10, 'ShortName': 'Melbourne'}",,9488,Race,Race,2024-03-24 15:00:00,2024-03-24 17:00:00,0 days 11:00:00,2024/2024-03-24_Australian_Grand_Prix/2024-03-24_Race/
+Status,,Generating,9488,Race,Race,2024-03-24 15:00:00,2024-03-24 17:00:00,0 days 11:00:00,2024/2024-03-24_Australian_Grand_Prix/2024-03-24_Race/

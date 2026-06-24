@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1118,,7159,Race,Race,2022-08-28 15:00:00,2022-08-28 17:00:00,0 days 02:00:00,2022/2022-08-28_Belgian_Grand_Prix/2022-08-28_Race/
+Name,Belgian Grand Prix,,7159,Race,Race,2022-08-28 15:00:00,2022-08-28 17:00:00,0 days 02:00:00,2022/2022-08-28_Belgian_Grand_Prix/2022-08-28_Race/
+OfficialName,FORMULA 1 ROLEX BELGIAN GRAND PRIX 2022,,7159,Race,Race,2022-08-28 15:00:00,2022-08-28 17:00:00,0 days 02:00:00,2022/2022-08-28_Belgian_Grand_Prix/2022-08-28_Race/
+Location,Spa-Francorchamps,,7159,Race,Race,2022-08-28 15:00:00,2022-08-28 17:00:00,0 days 02:00:00,2022/2022-08-28_Belgian_Grand_Prix/2022-08-28_Race/
+Country,"{'Key': 16, 'Code': 'BEL', 'Name': 'Belgium'}",,7159,Race,Race,2022-08-28 15:00:00,2022-08-28 17:00:00,0 days 02:00:00,2022/2022-08-28_Belgian_Grand_Prix/2022-08-28_Race/
+Circuit,"{'Key': 7, 'ShortName': 'Spa-Francorchamps'}",,7159,Race,Race,2022-08-28 15:00:00,2022-08-28 17:00:00,0 days 02:00:00,2022/2022-08-28_Belgian_Grand_Prix/2022-08-28_Race/
+Status,,Generating,7159,Race,Race,2022-08-28 15:00:00,2022-08-28 17:00:00,0 days 02:00:00,2022/2022-08-28_Belgian_Grand_Prix/2022-08-28_Race/

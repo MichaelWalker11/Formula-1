@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1211,,9102,Race,Race,2023-06-04 15:00:00,2023-06-04 17:00:00,0 days 02:00:00,2023/2023-06-04_Spanish_Grand_Prix/2023-06-04_Race/
+Name,Spanish Grand Prix,,9102,Race,Race,2023-06-04 15:00:00,2023-06-04 17:00:00,0 days 02:00:00,2023/2023-06-04_Spanish_Grand_Prix/2023-06-04_Race/
+OfficialName,FORMULA 1 AWS GRAN PREMIO DE ESPAÑA 2023,,9102,Race,Race,2023-06-04 15:00:00,2023-06-04 17:00:00,0 days 02:00:00,2023/2023-06-04_Spanish_Grand_Prix/2023-06-04_Race/
+Location,Barcelona,,9102,Race,Race,2023-06-04 15:00:00,2023-06-04 17:00:00,0 days 02:00:00,2023/2023-06-04_Spanish_Grand_Prix/2023-06-04_Race/
+Country,"{'Key': 1, 'Code': 'ESP', 'Name': 'Spain'}",,9102,Race,Race,2023-06-04 15:00:00,2023-06-04 17:00:00,0 days 02:00:00,2023/2023-06-04_Spanish_Grand_Prix/2023-06-04_Race/
+Circuit,"{'Key': 15, 'ShortName': 'Catalunya'}",,9102,Race,Race,2023-06-04 15:00:00,2023-06-04 17:00:00,0 days 02:00:00,2023/2023-06-04_Spanish_Grand_Prix/2023-06-04_Race/
+Status,,Generating,9102,Race,Race,2023-06-04 15:00:00,2023-06-04 17:00:00,0 days 02:00:00,2023/2023-06-04_Spanish_Grand_Prix/2023-06-04_Race/

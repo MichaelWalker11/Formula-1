@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1270,Inactive,,9896,Race,Race,2025-10-05 20:00:00,2025-10-05 22:00:00,0 days 08:00:00,2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/
+Name,Singapore Grand Prix,Inactive,,9896,Race,Race,2025-10-05 20:00:00,2025-10-05 22:00:00,0 days 08:00:00,2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/
+OfficialName,FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025,Inactive,,9896,Race,Race,2025-10-05 20:00:00,2025-10-05 22:00:00,0 days 08:00:00,2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/
+Location,Marina Bay,Inactive,,9896,Race,Race,2025-10-05 20:00:00,2025-10-05 22:00:00,0 days 08:00:00,2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/
+Number,18,Inactive,,9896,Race,Race,2025-10-05 20:00:00,2025-10-05 22:00:00,0 days 08:00:00,2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/
+Country,"{'Key': 157, 'Code': 'SGP', 'Name': 'Singapore'}",Inactive,,9896,Race,Race,2025-10-05 20:00:00,2025-10-05 22:00:00,0 days 08:00:00,2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/
+Circuit,"{'Key': 61, 'ShortName': 'Singapore'}",Inactive,,9896,Race,Race,2025-10-05 20:00:00,2025-10-05 22:00:00,0 days 08:00:00,2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/
+Status,,Inactive,Generating,9896,Race,Race,2025-10-05 20:00:00,2025-10-05 22:00:00,0 days 08:00:00,2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/

@@ -1,0 +1,24 @@
+,18
+RoundNumber,17
+Country,Abu Dhabi
+Location,Yas Island
+OfficialEventName,FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2020
+EventDate,2020-12-13 00:00:00
+EventName,Abu Dhabi Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2020-12-11 13:00:00+04:00
+Session1DateUtc,2020-12-11 09:00:00
+Session2,Practice 2
+Session2Date,2020-12-11 17:00:00+04:00
+Session2DateUtc,2020-12-11 13:00:00
+Session3,Practice 3
+Session3Date,2020-12-12 14:00:00+04:00
+Session3DateUtc,2020-12-12 10:00:00
+Session4,Qualifying
+Session4Date,2020-12-12 17:00:00+04:00
+Session4DateUtc,2020-12-12 13:00:00
+Session5,Race
+Session5Date,2020-12-13 17:10:00+04:00
+Session5DateUtc,2020-12-13 13:10:00
+F1ApiSupport,True

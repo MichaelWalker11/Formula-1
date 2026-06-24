@@ -1,0 +1,24 @@
+,12
+RoundNumber,12
+Country,United Kingdom
+Location,Silverstone
+OfficialEventName,FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2025
+EventDate,2025-07-06 00:00:00
+EventName,British Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2025-07-04 12:30:00+01:00
+Session1DateUtc,2025-07-04 11:30:00
+Session2,Practice 2
+Session2Date,2025-07-04 16:00:00+01:00
+Session2DateUtc,2025-07-04 15:00:00
+Session3,Practice 3
+Session3Date,2025-07-05 11:30:00+01:00
+Session3DateUtc,2025-07-05 10:30:00
+Session4,Qualifying
+Session4Date,2025-07-05 15:00:00+01:00
+Session4DateUtc,2025-07-05 14:00:00
+Session5,Race
+Session5Date,2025-07-06 15:00:00+01:00
+Session5DateUtc,2025-07-06 14:00:00
+F1ApiSupport,True

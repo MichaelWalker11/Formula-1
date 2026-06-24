@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1214,,9126,Race,Race,2023-07-09 15:00:00,2023-07-09 17:00:00,0 days 01:00:00,2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/
+Name,British Grand Prix,,9126,Race,Race,2023-07-09 15:00:00,2023-07-09 17:00:00,0 days 01:00:00,2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/
+OfficialName,FORMULA 1 ARAMCO BRITISH GRAND PRIX 2023,,9126,Race,Race,2023-07-09 15:00:00,2023-07-09 17:00:00,0 days 01:00:00,2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/
+Location,Silverstone,,9126,Race,Race,2023-07-09 15:00:00,2023-07-09 17:00:00,0 days 01:00:00,2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/
+Country,"{'Key': 2, 'Code': 'GBR', 'Name': 'Great Britain'}",,9126,Race,Race,2023-07-09 15:00:00,2023-07-09 17:00:00,0 days 01:00:00,2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/
+Circuit,"{'Key': 2, 'ShortName': 'Silverstone'}",,9126,Race,Race,2023-07-09 15:00:00,2023-07-09 17:00:00,0 days 01:00:00,2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/
+Status,,Generating,9126,Race,Race,2023-07-09 15:00:00,2023-07-09 17:00:00,0 days 01:00:00,2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/

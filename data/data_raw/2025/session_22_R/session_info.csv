@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1274,Inactive,,9858,Race,Race,2025-11-22 20:00:00,2025-11-22 22:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/
+Name,Las Vegas Grand Prix,Inactive,,9858,Race,Race,2025-11-22 20:00:00,2025-11-22 22:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/
+OfficialName,FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2025,Inactive,,9858,Race,Race,2025-11-22 20:00:00,2025-11-22 22:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/
+Location,Las Vegas,Inactive,,9858,Race,Race,2025-11-22 20:00:00,2025-11-22 22:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/
+Number,22,Inactive,,9858,Race,Race,2025-11-22 20:00:00,2025-11-22 22:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/
+Country,"{'Key': 19, 'Code': 'USA', 'Name': 'United States'}",Inactive,,9858,Race,Race,2025-11-22 20:00:00,2025-11-22 22:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/
+Circuit,"{'Key': 152, 'ShortName': 'Las Vegas'}",Inactive,,9858,Race,Race,2025-11-22 20:00:00,2025-11-22 22:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/
+Status,,Inactive,Generating,9858,Race,Race,2025-11-22 20:00:00,2025-11-22 22:00:00,-1 days +16:00:00,2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/

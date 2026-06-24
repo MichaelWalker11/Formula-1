@@ -1,0 +1,24 @@
+,20
+RoundNumber,20
+Country,Mexico
+Location,Mexico City
+OfficialEventName,FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2025
+EventDate,2025-10-26 00:00:00
+EventName,Mexico City Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2025-10-24 12:30:00-06:00
+Session1DateUtc,2025-10-24 18:30:00
+Session2,Practice 2
+Session2Date,2025-10-24 16:00:00-06:00
+Session2DateUtc,2025-10-24 22:00:00
+Session3,Practice 3
+Session3Date,2025-10-25 11:30:00-06:00
+Session3DateUtc,2025-10-25 17:30:00
+Session4,Qualifying
+Session4Date,2025-10-25 15:00:00-06:00
+Session4DateUtc,2025-10-25 21:00:00
+Session5,Race
+Session5Date,2025-10-26 14:00:00-06:00
+Session5DateUtc,2025-10-26 20:00:00
+F1ApiSupport,True

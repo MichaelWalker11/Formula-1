@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1019,,5550,Qualifying,Qualifying,2019-11-16 15:00:00,2019-11-16 16:00:00,-1 days +21:00:00,2019/2019-11-17_Brazilian_Grand_Prix/2019-11-16_Qualifying/
+Name,Brazilian Grand Prix,,5550,Qualifying,Qualifying,2019-11-16 15:00:00,2019-11-16 16:00:00,-1 days +21:00:00,2019/2019-11-17_Brazilian_Grand_Prix/2019-11-16_Qualifying/
+Location,São Paulo,,5550,Qualifying,Qualifying,2019-11-16 15:00:00,2019-11-16 16:00:00,-1 days +21:00:00,2019/2019-11-17_Brazilian_Grand_Prix/2019-11-16_Qualifying/
+Country,"{'Key': 10, 'Code': 'BRA', 'Name': 'Brazil'}",,5550,Qualifying,Qualifying,2019-11-16 15:00:00,2019-11-16 16:00:00,-1 days +21:00:00,2019/2019-11-17_Brazilian_Grand_Prix/2019-11-16_Qualifying/
+Circuit,"{'Key': 14, 'ShortName': 'Interlagos'}",,5550,Qualifying,Qualifying,2019-11-16 15:00:00,2019-11-16 16:00:00,-1 days +21:00:00,2019/2019-11-17_Brazilian_Grand_Prix/2019-11-16_Qualifying/
+Status,,Generating,5550,Qualifying,Qualifying,2019-11-16 15:00:00,2019-11-16 16:00:00,-1 days +21:00:00,2019/2019-11-17_Brazilian_Grand_Prix/2019-11-16_Qualifying/

@@ -1,0 +1,24 @@
+,11
+RoundNumber,10
+Country,Russia
+Location,Sochi
+OfficialEventName,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020
+EventDate,2020-09-27 00:00:00
+EventName,Russian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2020-09-25 11:00:00+03:00
+Session1DateUtc,2020-09-25 08:00:00
+Session2,Practice 2
+Session2Date,2020-09-25 15:00:00+03:00
+Session2DateUtc,2020-09-25 12:00:00
+Session3,Practice 3
+Session3Date,2020-09-26 12:00:00+03:00
+Session3DateUtc,2020-09-26 09:00:00
+Session4,Qualifying
+Session4Date,2020-09-26 15:00:00+03:00
+Session4DateUtc,2020-09-26 12:00:00
+Session5,Race
+Session5Date,2020-09-27 14:10:00+03:00
+Session5DateUtc,2020-09-27 11:10:00
+F1ApiSupport,True

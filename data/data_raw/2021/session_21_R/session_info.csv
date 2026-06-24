@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1106,,6821,Race,Race,2021-12-05 20:30:00,2021-12-05 22:30:00,0 days 03:00:00,2021/2021-12-05_Saudi_Arabian_Grand_Prix/2021-12-05_Race/
+Name,Saudi Arabian Grand Prix,,6821,Race,Race,2021-12-05 20:30:00,2021-12-05 22:30:00,0 days 03:00:00,2021/2021-12-05_Saudi_Arabian_Grand_Prix/2021-12-05_Race/
+Location,Jeddah,,6821,Race,Race,2021-12-05 20:30:00,2021-12-05 22:30:00,0 days 03:00:00,2021/2021-12-05_Saudi_Arabian_Grand_Prix/2021-12-05_Race/
+Country,"{'Key': 153, 'Code': 'KSA', 'Name': 'Saudi Arabia'}",,6821,Race,Race,2021-12-05 20:30:00,2021-12-05 22:30:00,0 days 03:00:00,2021/2021-12-05_Saudi_Arabian_Grand_Prix/2021-12-05_Race/
+Circuit,"{'Key': 149, 'ShortName': 'Jeddah'}",,6821,Race,Race,2021-12-05 20:30:00,2021-12-05 22:30:00,0 days 03:00:00,2021/2021-12-05_Saudi_Arabian_Grand_Prix/2021-12-05_Race/
+Status,,Generating,6821,Race,Race,2021-12-05 20:30:00,2021-12-05 22:30:00,0 days 03:00:00,2021/2021-12-05_Saudi_Arabian_Grand_Prix/2021-12-05_Race/

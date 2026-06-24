@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1073,,6259,Race,Race,2021-08-01 15:00:00,2021-08-01 17:00:00,0 days 02:00:00,2021/2021-08-01_Hungarian_Grand_Prix/2021-08-01_Race/
+Name,Hungarian Grand Prix,,6259,Race,Race,2021-08-01 15:00:00,2021-08-01 17:00:00,0 days 02:00:00,2021/2021-08-01_Hungarian_Grand_Prix/2021-08-01_Race/
+Location,Budapest,,6259,Race,Race,2021-08-01 15:00:00,2021-08-01 17:00:00,0 days 02:00:00,2021/2021-08-01_Hungarian_Grand_Prix/2021-08-01_Race/
+Country,"{'Key': 14, 'Code': 'HUN', 'Name': 'Hungary'}",,6259,Race,Race,2021-08-01 15:00:00,2021-08-01 17:00:00,0 days 02:00:00,2021/2021-08-01_Hungarian_Grand_Prix/2021-08-01_Race/
+Circuit,"{'Key': 4, 'ShortName': 'Hungaroring'}",,6259,Race,Race,2021-08-01 15:00:00,2021-08-01 17:00:00,0 days 02:00:00,2021/2021-08-01_Hungarian_Grand_Prix/2021-08-01_Race/
+Status,,Generating,6259,Race,Race,2021-08-01 15:00:00,2021-08-01 17:00:00,0 days 02:00:00,2021/2021-08-01_Hungarian_Grand_Prix/2021-08-01_Race/

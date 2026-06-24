@@ -1,0 +1,24 @@
+,3
+RoundNumber,3
+Country,Portugal
+Location,Portimão
+OfficialEventName,FORMULA 1 HEINEKEN GRANDE PRÉMIO DE PORTUGAL 2021
+EventDate,2021-05-02 00:00:00
+EventName,Portuguese Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2021-04-30 11:30:00+01:00
+Session1DateUtc,2021-04-30 10:30:00
+Session2,Practice 2
+Session2Date,2021-04-30 15:00:00+01:00
+Session2DateUtc,2021-04-30 14:00:00
+Session3,Practice 3
+Session3Date,2021-05-01 12:00:00+01:00
+Session3DateUtc,2021-05-01 11:00:00
+Session4,Qualifying
+Session4Date,2021-05-01 15:00:00+01:00
+Session4DateUtc,2021-05-01 14:00:00
+Session5,Race
+Session5Date,2021-05-02 15:00:00+01:00
+Session5DateUtc,2021-05-02 14:00:00
+F1ApiSupport,True

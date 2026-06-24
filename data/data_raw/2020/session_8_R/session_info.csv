@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1052,,5800,Race,Race,2020-09-06 15:10:00,2020-09-06 17:10:00,0 days 02:00:00,2020/2020-09-06_Italian_Grand_Prix/2020-09-06_Race/
+Name,Italian Grand Prix,,5800,Race,Race,2020-09-06 15:10:00,2020-09-06 17:10:00,0 days 02:00:00,2020/2020-09-06_Italian_Grand_Prix/2020-09-06_Race/
+Location,Monza,,5800,Race,Race,2020-09-06 15:10:00,2020-09-06 17:10:00,0 days 02:00:00,2020/2020-09-06_Italian_Grand_Prix/2020-09-06_Race/
+Country,"{'Key': 13, 'Code': 'ITA', 'Name': 'Italy'}",,5800,Race,Race,2020-09-06 15:10:00,2020-09-06 17:10:00,0 days 02:00:00,2020/2020-09-06_Italian_Grand_Prix/2020-09-06_Race/
+Circuit,"{'Key': 39, 'ShortName': 'Monza'}",,5800,Race,Race,2020-09-06 15:10:00,2020-09-06 17:10:00,0 days 02:00:00,2020/2020-09-06_Italian_Grand_Prix/2020-09-06_Race/
+Status,,Generating,5800,Race,Race,2020-09-06 15:10:00,2020-09-06 17:10:00,0 days 02:00:00,2020/2020-09-06_Italian_Grand_Prix/2020-09-06_Race/

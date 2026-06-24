@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1280,Inactive,,11241,Qualifying,Qualifying,2026-03-14 15:00:00,2026-03-14 16:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-14_Qualifying/
+Name,Chinese Grand Prix,Inactive,,11241,Qualifying,Qualifying,2026-03-14 15:00:00,2026-03-14 16:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-14_Qualifying/
+OfficialName,FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026,Inactive,,11241,Qualifying,Qualifying,2026-03-14 15:00:00,2026-03-14 16:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-14_Qualifying/
+Location,Shanghai,Inactive,,11241,Qualifying,Qualifying,2026-03-14 15:00:00,2026-03-14 16:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-14_Qualifying/
+Number,2,Inactive,,11241,Qualifying,Qualifying,2026-03-14 15:00:00,2026-03-14 16:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-14_Qualifying/
+Country,"{'Key': 53, 'Code': 'CHN', 'Name': 'China'}",Inactive,,11241,Qualifying,Qualifying,2026-03-14 15:00:00,2026-03-14 16:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-14_Qualifying/
+Circuit,"{'Key': 49, 'ShortName': 'Shanghai'}",Inactive,,11241,Qualifying,Qualifying,2026-03-14 15:00:00,2026-03-14 16:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-14_Qualifying/
+Status,,Inactive,Generating,11241,Qualifying,Qualifying,2026-03-14 15:00:00,2026-03-14 16:00:00,0 days 08:00:00,2026/2026-03-15_Chinese_Grand_Prix/2026-03-14_Qualifying/

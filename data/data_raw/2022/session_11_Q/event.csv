@@ -1,0 +1,24 @@
+,12
+RoundNumber,11
+Country,Austria
+Location,Spielberg
+OfficialEventName,FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2022
+EventDate,2022-07-10 00:00:00
+EventName,Austrian Grand Prix
+EventFormat,sprint
+Session1,Practice 1
+Session1Date,2022-07-08 13:30:00+02:00
+Session1DateUtc,2022-07-08 11:30:00
+Session2,Qualifying
+Session2Date,2022-07-08 17:00:00+02:00
+Session2DateUtc,2022-07-08 15:00:00
+Session3,Practice 2
+Session3Date,2022-07-09 12:30:00+02:00
+Session3DateUtc,2022-07-09 10:30:00
+Session4,Sprint
+Session4Date,2022-07-09 16:30:00+02:00
+Session4DateUtc,2022-07-09 14:30:00
+Session5,Race
+Session5Date,2022-07-10 15:00:00+02:00
+Session5DateUtc,2022-07-10 13:00:00
+F1ApiSupport,True

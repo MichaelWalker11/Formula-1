@@ -1,0 +1,24 @@
+,1
+RoundNumber,1
+Country,Bahrain
+Location,Sakhir
+OfficialEventName,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021
+EventDate,2021-03-28 00:00:00
+EventName,Bahrain Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2021-03-26 14:30:00+03:00
+Session1DateUtc,2021-03-26 11:30:00
+Session2,Practice 2
+Session2Date,2021-03-26 18:00:00+03:00
+Session2DateUtc,2021-03-26 15:00:00
+Session3,Practice 3
+Session3Date,2021-03-27 15:00:00+03:00
+Session3DateUtc,2021-03-27 12:00:00
+Session4,Qualifying
+Session4Date,2021-03-27 18:00:00+03:00
+Session4DateUtc,2021-03-27 15:00:00
+Session5,Race
+Session5Date,2021-03-28 18:00:00+03:00
+Session5DateUtc,2021-03-28 15:00:00
+F1ApiSupport,True

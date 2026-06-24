@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1263,Inactive,,9959,Qualifying,Qualifying,2025-06-14 16:00:00,2025-06-14 17:00:00,-1 days +20:00:00,2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Qualifying/
+Name,Canadian Grand Prix,Inactive,,9959,Qualifying,Qualifying,2025-06-14 16:00:00,2025-06-14 17:00:00,-1 days +20:00:00,2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Qualifying/
+OfficialName,FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2025,Inactive,,9959,Qualifying,Qualifying,2025-06-14 16:00:00,2025-06-14 17:00:00,-1 days +20:00:00,2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Qualifying/
+Location,Montréal,Inactive,,9959,Qualifying,Qualifying,2025-06-14 16:00:00,2025-06-14 17:00:00,-1 days +20:00:00,2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Qualifying/
+Number,10,Inactive,,9959,Qualifying,Qualifying,2025-06-14 16:00:00,2025-06-14 17:00:00,-1 days +20:00:00,2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Qualifying/
+Country,"{'Key': 46, 'Code': 'CAN', 'Name': 'Canada'}",Inactive,,9959,Qualifying,Qualifying,2025-06-14 16:00:00,2025-06-14 17:00:00,-1 days +20:00:00,2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Qualifying/
+Circuit,"{'Key': 23, 'ShortName': 'Montreal'}",Inactive,,9959,Qualifying,Qualifying,2025-06-14 16:00:00,2025-06-14 17:00:00,-1 days +20:00:00,2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Qualifying/
+Status,,Inactive,Generating,9959,Qualifying,Qualifying,2025-06-14 16:00:00,2025-06-14 17:00:00,-1 days +20:00:00,2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Qualifying/

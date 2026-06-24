@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1059,,5918,Race,Race,2020-11-29 17:10:00,2020-11-29 19:10:00,0 days 03:00:00,2020/2020-11-29_Bahrain_Grand_Prix/2020-11-29_Race/
+Name,Bahrain Grand Prix,,5918,Race,Race,2020-11-29 17:10:00,2020-11-29 19:10:00,0 days 03:00:00,2020/2020-11-29_Bahrain_Grand_Prix/2020-11-29_Race/
+Location,Sakhir,,5918,Race,Race,2020-11-29 17:10:00,2020-11-29 19:10:00,0 days 03:00:00,2020/2020-11-29_Bahrain_Grand_Prix/2020-11-29_Race/
+Country,"{'Key': 36, 'Code': 'BRN', 'Name': 'Bahrain'}",,5918,Race,Race,2020-11-29 17:10:00,2020-11-29 19:10:00,0 days 03:00:00,2020/2020-11-29_Bahrain_Grand_Prix/2020-11-29_Race/
+Circuit,"{'Key': 63, 'ShortName': 'Sakhir'}",,5918,Race,Race,2020-11-29 17:10:00,2020-11-29 19:10:00,0 days 03:00:00,2020/2020-11-29_Bahrain_Grand_Prix/2020-11-29_Race/
+Status,,Generating,5918,Race,Race,2020-11-29 17:10:00,2020-11-29 19:10:00,0 days 03:00:00,2020/2020-11-29_Bahrain_Grand_Prix/2020-11-29_Race/

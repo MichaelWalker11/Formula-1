@@ -1,0 +1,9 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1249,,9636,Race,Race,2024-11-03 12:30:00,2024-11-03 14:30:00,-1 days +21:00:00,2024/2024-11-03_São_Paulo_Grand_Prix/2024-11-03_Race/
+Name,São Paulo Grand Prix,,9636,Race,Race,2024-11-03 12:30:00,2024-11-03 14:30:00,-1 days +21:00:00,2024/2024-11-03_São_Paulo_Grand_Prix/2024-11-03_Race/
+OfficialName,FORMULA 1 LENOVO GRANDE PRÊMIO DE SÃO PAULO 2024,,9636,Race,Race,2024-11-03 12:30:00,2024-11-03 14:30:00,-1 days +21:00:00,2024/2024-11-03_São_Paulo_Grand_Prix/2024-11-03_Race/
+Location,São Paulo,,9636,Race,Race,2024-11-03 12:30:00,2024-11-03 14:30:00,-1 days +21:00:00,2024/2024-11-03_São_Paulo_Grand_Prix/2024-11-03_Race/
+Number,21,,9636,Race,Race,2024-11-03 12:30:00,2024-11-03 14:30:00,-1 days +21:00:00,2024/2024-11-03_São_Paulo_Grand_Prix/2024-11-03_Race/
+Country,"{'Key': 10, 'Code': 'BRA', 'Name': 'Brazil'}",,9636,Race,Race,2024-11-03 12:30:00,2024-11-03 14:30:00,-1 days +21:00:00,2024/2024-11-03_São_Paulo_Grand_Prix/2024-11-03_Race/
+Circuit,"{'Key': 14, 'ShortName': 'Interlagos'}",,9636,Race,Race,2024-11-03 12:30:00,2024-11-03 14:30:00,-1 days +21:00:00,2024/2024-11-03_São_Paulo_Grand_Prix/2024-11-03_Race/
+Status,,Generating,9636,Race,Race,2024-11-03 12:30:00,2024-11-03 14:30:00,-1 days +21:00:00,2024/2024-11-03_São_Paulo_Grand_Prix/2024-11-03_Race/

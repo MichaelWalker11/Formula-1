@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1237,,9531,Race,Race,2024-06-09 14:00:00,2024-06-09 16:00:00,-1 days +20:00:00,2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/
+Name,Canadian Grand Prix,,9531,Race,Race,2024-06-09 14:00:00,2024-06-09 16:00:00,-1 days +20:00:00,2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/
+OfficialName,FORMULA 1 AWS GRAND PRIX DU CANADA 2024,,9531,Race,Race,2024-06-09 14:00:00,2024-06-09 16:00:00,-1 days +20:00:00,2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/
+Location,Montréal,,9531,Race,Race,2024-06-09 14:00:00,2024-06-09 16:00:00,-1 days +20:00:00,2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/
+Country,"{'Key': 46, 'Code': 'CAN', 'Name': 'Canada'}",,9531,Race,Race,2024-06-09 14:00:00,2024-06-09 16:00:00,-1 days +20:00:00,2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/
+Circuit,"{'Key': 23, 'ShortName': 'Montreal'}",,9531,Race,Race,2024-06-09 14:00:00,2024-06-09 16:00:00,-1 days +20:00:00,2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/
+Status,,Generating,9531,Race,Race,2024-06-09 14:00:00,2024-06-09 16:00:00,-1 days +20:00:00,2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/

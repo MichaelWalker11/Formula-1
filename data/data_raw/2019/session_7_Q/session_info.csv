@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1006,,5446,Qualifying,Qualifying,2019-06-08 14:00:00,2019-06-08 15:00:00,-1 days +20:00:00,2019/2019-06-09_Canadian_Grand_Prix/2019-06-08_Qualifying/
+Name,Canadian Grand Prix,,5446,Qualifying,Qualifying,2019-06-08 14:00:00,2019-06-08 15:00:00,-1 days +20:00:00,2019/2019-06-09_Canadian_Grand_Prix/2019-06-08_Qualifying/
+Location,Montréal,,5446,Qualifying,Qualifying,2019-06-08 14:00:00,2019-06-08 15:00:00,-1 days +20:00:00,2019/2019-06-09_Canadian_Grand_Prix/2019-06-08_Qualifying/
+Country,"{'Key': 46, 'Code': 'CAN', 'Name': 'Canada'}",,5446,Qualifying,Qualifying,2019-06-08 14:00:00,2019-06-08 15:00:00,-1 days +20:00:00,2019/2019-06-09_Canadian_Grand_Prix/2019-06-08_Qualifying/
+Circuit,"{'Key': 23, 'ShortName': 'Montreal'}",,5446,Qualifying,Qualifying,2019-06-08 14:00:00,2019-06-08 15:00:00,-1 days +20:00:00,2019/2019-06-09_Canadian_Grand_Prix/2019-06-08_Qualifying/
+Status,,Generating,5446,Qualifying,Qualifying,2019-06-08 14:00:00,2019-06-08 15:00:00,-1 days +20:00:00,2019/2019-06-09_Canadian_Grand_Prix/2019-06-08_Qualifying/

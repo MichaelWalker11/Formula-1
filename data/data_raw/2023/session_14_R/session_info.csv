@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1218,,9157,Race,Race,2023-09-03 15:00:00,2023-09-03 17:00:00,0 days 02:00:00,2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/
+Name,Italian Grand Prix,,9157,Race,Race,2023-09-03 15:00:00,2023-09-03 17:00:00,0 days 02:00:00,2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/
+OfficialName,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023 ,,9157,Race,Race,2023-09-03 15:00:00,2023-09-03 17:00:00,0 days 02:00:00,2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/
+Location,Monza,,9157,Race,Race,2023-09-03 15:00:00,2023-09-03 17:00:00,0 days 02:00:00,2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/
+Country,"{'Key': 13, 'Code': 'ITA', 'Name': 'Italy'}",,9157,Race,Race,2023-09-03 15:00:00,2023-09-03 17:00:00,0 days 02:00:00,2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/
+Circuit,"{'Key': 39, 'ShortName': 'Monza'}",,9157,Race,Race,2023-09-03 15:00:00,2023-09-03 17:00:00,0 days 02:00:00,2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/
+Status,,Generating,9157,Race,Race,2023-09-03 15:00:00,2023-09-03 17:00:00,0 days 02:00:00,2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/

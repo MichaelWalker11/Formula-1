@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,989,,5150,Qualifying,Qualifying,2018-07-21 15:00:00,2018-07-21 16:00:00,0 days 02:00:00,2018/2018-07-22_German_Grand_Prix/2018-07-21_Qualifying/
+Name,German Grand Prix,,5150,Qualifying,Qualifying,2018-07-21 15:00:00,2018-07-21 16:00:00,0 days 02:00:00,2018/2018-07-22_German_Grand_Prix/2018-07-21_Qualifying/
+Location,Hockenheim,,5150,Qualifying,Qualifying,2018-07-21 15:00:00,2018-07-21 16:00:00,0 days 02:00:00,2018/2018-07-22_German_Grand_Prix/2018-07-21_Qualifying/
+Country,"{'Key': 3, 'Code': 'GER', 'Name': 'Germany'}",,5150,Qualifying,Qualifying,2018-07-21 15:00:00,2018-07-21 16:00:00,0 days 02:00:00,2018/2018-07-22_German_Grand_Prix/2018-07-21_Qualifying/
+Circuit,"{'Key': 34, 'ShortName': 'Hockenheim'}",,5150,Qualifying,Qualifying,2018-07-21 15:00:00,2018-07-21 16:00:00,0 days 02:00:00,2018/2018-07-22_German_Grand_Prix/2018-07-21_Qualifying/
+Status,,Generating,5150,Qualifying,Qualifying,2018-07-21 15:00:00,2018-07-21 16:00:00,0 days 02:00:00,2018/2018-07-22_German_Grand_Prix/2018-07-21_Qualifying/

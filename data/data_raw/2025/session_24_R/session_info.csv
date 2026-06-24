@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1276,Inactive,,9839,Race,Race,2025-12-07 17:00:00,2025-12-07 19:00:00,0 days 04:00:00,2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-07_Race/
+Name,Abu Dhabi Grand Prix,Inactive,,9839,Race,Race,2025-12-07 17:00:00,2025-12-07 19:00:00,0 days 04:00:00,2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-07_Race/
+OfficialName,FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025 ,Inactive,,9839,Race,Race,2025-12-07 17:00:00,2025-12-07 19:00:00,0 days 04:00:00,2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-07_Race/
+Location,Yas Island,Inactive,,9839,Race,Race,2025-12-07 17:00:00,2025-12-07 19:00:00,0 days 04:00:00,2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-07_Race/
+Number,24,Inactive,,9839,Race,Race,2025-12-07 17:00:00,2025-12-07 19:00:00,0 days 04:00:00,2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-07_Race/
+Country,"{'Key': 21, 'Code': 'UAE', 'Name': 'United Arab Emirates'}",Inactive,,9839,Race,Race,2025-12-07 17:00:00,2025-12-07 19:00:00,0 days 04:00:00,2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-07_Race/
+Circuit,"{'Key': 70, 'ShortName': 'Yas Marina Circuit'}",Inactive,,9839,Race,Race,2025-12-07 17:00:00,2025-12-07 19:00:00,0 days 04:00:00,2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-07_Race/
+Status,,Inactive,Generating,9839,Race,Race,2025-12-07 17:00:00,2025-12-07 19:00:00,0 days 04:00:00,2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-07_Race/

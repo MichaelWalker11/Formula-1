@@ -1,0 +1,24 @@
+,10
+RoundNumber,9
+Country,Italy
+Location,Mugello
+OfficialEventName,FORMULA 1 PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1000 2020
+EventDate,2020-09-13 00:00:00
+EventName,Tuscan Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2020-09-11 11:00:00+02:00
+Session1DateUtc,2020-09-11 09:00:00
+Session2,Practice 2
+Session2Date,2020-09-11 15:00:00+02:00
+Session2DateUtc,2020-09-11 13:00:00
+Session3,Practice 3
+Session3Date,2020-09-12 12:00:00+02:00
+Session3DateUtc,2020-09-12 10:00:00
+Session4,Qualifying
+Session4Date,2020-09-12 15:00:00+02:00
+Session4DateUtc,2020-09-12 13:00:00
+Session5,Race
+Session5Date,2020-09-13 15:10:00+02:00
+Session5DateUtc,2020-09-13 13:10:00
+F1ApiSupport,True

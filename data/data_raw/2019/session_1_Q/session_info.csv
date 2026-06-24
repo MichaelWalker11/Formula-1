@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1000,,5398,Qualifying,Qualifying,2019-03-16 17:00:00,2019-03-16 18:00:00,0 days 11:00:00,2019/2019-03-17_Australian_Grand_Prix/2019-03-16_Qualifying/
+Name,Australian Grand Prix,,5398,Qualifying,Qualifying,2019-03-16 17:00:00,2019-03-16 18:00:00,0 days 11:00:00,2019/2019-03-17_Australian_Grand_Prix/2019-03-16_Qualifying/
+Location,Melbourne,,5398,Qualifying,Qualifying,2019-03-16 17:00:00,2019-03-16 18:00:00,0 days 11:00:00,2019/2019-03-17_Australian_Grand_Prix/2019-03-16_Qualifying/
+Country,"{'Key': 5, 'Code': 'AUS', 'Name': 'Australia'}",,5398,Qualifying,Qualifying,2019-03-16 17:00:00,2019-03-16 18:00:00,0 days 11:00:00,2019/2019-03-17_Australian_Grand_Prix/2019-03-16_Qualifying/
+Circuit,"{'Key': 10, 'ShortName': 'Melbourne'}",,5398,Qualifying,Qualifying,2019-03-16 17:00:00,2019-03-16 18:00:00,0 days 11:00:00,2019/2019-03-17_Australian_Grand_Prix/2019-03-16_Qualifying/
+Status,,Generating,5398,Qualifying,Qualifying,2019-03-16 17:00:00,2019-03-16 18:00:00,0 days 11:00:00,2019/2019-03-17_Australian_Grand_Prix/2019-03-16_Qualifying/

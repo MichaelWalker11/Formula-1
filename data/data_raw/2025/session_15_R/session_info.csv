@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1267,Inactive,,9920,Race,Race,2025-08-31 15:00:00,2025-08-31 17:00:00,0 days 02:00:00,2025/2025-08-31_Dutch_Grand_Prix/2025-08-31_Race/
+Name,Dutch Grand Prix,Inactive,,9920,Race,Race,2025-08-31 15:00:00,2025-08-31 17:00:00,0 days 02:00:00,2025/2025-08-31_Dutch_Grand_Prix/2025-08-31_Race/
+OfficialName,FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2025,Inactive,,9920,Race,Race,2025-08-31 15:00:00,2025-08-31 17:00:00,0 days 02:00:00,2025/2025-08-31_Dutch_Grand_Prix/2025-08-31_Race/
+Location,Zandvoort,Inactive,,9920,Race,Race,2025-08-31 15:00:00,2025-08-31 17:00:00,0 days 02:00:00,2025/2025-08-31_Dutch_Grand_Prix/2025-08-31_Race/
+Number,15,Inactive,,9920,Race,Race,2025-08-31 15:00:00,2025-08-31 17:00:00,0 days 02:00:00,2025/2025-08-31_Dutch_Grand_Prix/2025-08-31_Race/
+Country,"{'Key': 133, 'Code': 'NED', 'Name': 'Netherlands'}",Inactive,,9920,Race,Race,2025-08-31 15:00:00,2025-08-31 17:00:00,0 days 02:00:00,2025/2025-08-31_Dutch_Grand_Prix/2025-08-31_Race/
+Circuit,"{'Key': 55, 'ShortName': 'Zandvoort'}",Inactive,,9920,Race,Race,2025-08-31 15:00:00,2025-08-31 17:00:00,0 days 02:00:00,2025/2025-08-31_Dutch_Grand_Prix/2025-08-31_Race/
+Status,,Inactive,Generating,9920,Race,Race,2025-08-31 15:00:00,2025-08-31 17:00:00,0 days 02:00:00,2025/2025-08-31_Dutch_Grand_Prix/2025-08-31_Race/

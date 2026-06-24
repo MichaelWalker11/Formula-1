@@ -1,0 +1,24 @@
+,0
+RoundNumber,1
+Country,Australia
+Location,Melbourne
+OfficialEventName,FORMULA 1 2018 ROLEX AUSTRALIAN GRAND PRIX
+EventDate,2018-03-25 00:00:00
+EventName,Australian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2018-03-23 12:00:00+11:00
+Session1DateUtc,2018-03-23 01:00:00
+Session2,Practice 2
+Session2Date,2018-03-23 16:00:00+11:00
+Session2DateUtc,2018-03-23 05:00:00
+Session3,Practice 3
+Session3Date,2018-03-24 14:00:00+11:00
+Session3DateUtc,2018-03-24 03:00:00
+Session4,Qualifying
+Session4Date,2018-03-24 17:00:00+11:00
+Session4DateUtc,2018-03-24 06:00:00
+Session5,Race
+Session5Date,2018-03-25 16:10:00+11:00
+Session5DateUtc,2018-03-25 05:10:00
+F1ApiSupport,True

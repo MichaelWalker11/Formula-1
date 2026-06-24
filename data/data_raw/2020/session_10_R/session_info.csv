@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1054,,5880,Race,Race,2020-09-27 14:10:00,2020-09-27 16:10:00,0 days 03:00:00,2020/2020-09-27_Russian_Grand_Prix/2020-09-27_Race/
+Name,Russian Grand Prix,,5880,Race,Race,2020-09-27 14:10:00,2020-09-27 16:10:00,0 days 03:00:00,2020/2020-09-27_Russian_Grand_Prix/2020-09-27_Race/
+Location,Sochi,,5880,Race,Race,2020-09-27 14:10:00,2020-09-27 16:10:00,0 days 03:00:00,2020/2020-09-27_Russian_Grand_Prix/2020-09-27_Race/
+Country,"{'Key': 12, 'Code': 'RUS', 'Name': 'Russia'}",,5880,Race,Race,2020-09-27 14:10:00,2020-09-27 16:10:00,0 days 03:00:00,2020/2020-09-27_Russian_Grand_Prix/2020-09-27_Race/
+Circuit,"{'Key': 79, 'ShortName': 'Sochi'}",,5880,Race,Race,2020-09-27 14:10:00,2020-09-27 16:10:00,0 days 03:00:00,2020/2020-09-27_Russian_Grand_Prix/2020-09-27_Race/
+Status,,Generating,5880,Race,Race,2020-09-27 14:10:00,2020-09-27 16:10:00,0 days 03:00:00,2020/2020-09-27_Russian_Grand_Prix/2020-09-27_Race/

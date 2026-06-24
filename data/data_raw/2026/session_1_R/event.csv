@@ -1,0 +1,24 @@
+,2
+RoundNumber,1
+Country,Australia
+Location,Melbourne
+OfficialEventName,FORMULA 1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026
+EventDate,2026-03-08 00:00:00
+EventName,Australian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2026-03-06 12:30:00+11:00
+Session1DateUtc,2026-03-06 01:30:00
+Session2,Practice 2
+Session2Date,2026-03-06 16:00:00+11:00
+Session2DateUtc,2026-03-06 05:00:00
+Session3,Practice 3
+Session3Date,2026-03-07 12:30:00+11:00
+Session3DateUtc,2026-03-07 01:30:00
+Session4,Qualifying
+Session4Date,2026-03-07 16:00:00+11:00
+Session4DateUtc,2026-03-07 05:00:00
+Session5,Race
+Session5Date,2026-03-08 15:00:00+11:00
+Session5DateUtc,2026-03-08 04:00:00
+F1ApiSupport,True

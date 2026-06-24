@@ -1,0 +1,24 @@
+,22
+RoundNumber,22
+Country,United States
+Location,Las Vegas
+OfficialEventName,FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024
+EventDate,2024-11-23 00:00:00
+EventName,Las Vegas Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2024-11-21 18:30:00-08:00
+Session1DateUtc,2024-11-22 02:30:00
+Session2,Practice 2
+Session2Date,2024-11-21 22:00:00-08:00
+Session2DateUtc,2024-11-22 06:00:00
+Session3,Practice 3
+Session3Date,2024-11-22 18:30:00-08:00
+Session3DateUtc,2024-11-23 02:30:00
+Session4,Qualifying
+Session4Date,2024-11-22 22:00:00-08:00
+Session4DateUtc,2024-11-23 06:00:00
+Session5,Race
+Session5Date,2024-11-23 22:00:00-08:00
+Session5DateUtc,2024-11-24 06:00:00
+F1ApiSupport,True

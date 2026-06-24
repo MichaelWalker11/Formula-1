@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1264,Inactive,,9955,Race,Race,2025-06-29 15:00:00,2025-06-29 17:00:00,0 days 02:00:00,2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/
+Name,Austrian Grand Prix,Inactive,,9955,Race,Race,2025-06-29 15:00:00,2025-06-29 17:00:00,0 days 02:00:00,2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/
+OfficialName,FORMULA 1 MSC CRUISES AUSTRIAN GRAND PRIX 2025,Inactive,,9955,Race,Race,2025-06-29 15:00:00,2025-06-29 17:00:00,0 days 02:00:00,2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/
+Location,Spielberg,Inactive,,9955,Race,Race,2025-06-29 15:00:00,2025-06-29 17:00:00,0 days 02:00:00,2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/
+Number,11,Inactive,,9955,Race,Race,2025-06-29 15:00:00,2025-06-29 17:00:00,0 days 02:00:00,2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/
+Country,"{'Key': 17, 'Code': 'AUT', 'Name': 'Austria'}",Inactive,,9955,Race,Race,2025-06-29 15:00:00,2025-06-29 17:00:00,0 days 02:00:00,2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/
+Circuit,"{'Key': 19, 'ShortName': 'Spielberg'}",Inactive,,9955,Race,Race,2025-06-29 15:00:00,2025-06-29 17:00:00,0 days 02:00:00,2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/
+Status,,Inactive,Generating,9955,Race,Race,2025-06-29 15:00:00,2025-06-29 17:00:00,0 days 02:00:00,2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/

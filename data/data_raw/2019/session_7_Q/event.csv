@@ -1,0 +1,24 @@
+,6
+RoundNumber,7
+Country,Canada
+Location,Montréal
+OfficialEventName,FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2019
+EventDate,2019-06-09 00:00:00
+EventName,Canadian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2019-06-07 10:00:00-04:00
+Session1DateUtc,2019-06-07 14:00:00
+Session2,Practice 2
+Session2Date,2019-06-07 14:00:00-04:00
+Session2DateUtc,2019-06-07 18:00:00
+Session3,Practice 3
+Session3Date,2019-06-08 11:00:00-04:00
+Session3DateUtc,2019-06-08 15:00:00
+Session4,Qualifying
+Session4Date,2019-06-08 14:00:00-04:00
+Session4DateUtc,2019-06-08 18:00:00
+Session5,Race
+Session5Date,2019-06-09 14:10:00-04:00
+Session5DateUtc,2019-06-09 18:10:00
+F1ApiSupport,True

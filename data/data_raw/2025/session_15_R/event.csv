@@ -1,0 +1,24 @@
+,15
+RoundNumber,15
+Country,Netherlands
+Location,Zandvoort
+OfficialEventName,FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2025
+EventDate,2025-08-31 00:00:00
+EventName,Dutch Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2025-08-29 12:30:00+02:00
+Session1DateUtc,2025-08-29 10:30:00
+Session2,Practice 2
+Session2Date,2025-08-29 16:00:00+02:00
+Session2DateUtc,2025-08-29 14:00:00
+Session3,Practice 3
+Session3Date,2025-08-30 11:30:00+02:00
+Session3DateUtc,2025-08-30 09:30:00
+Session4,Qualifying
+Session4Date,2025-08-30 15:00:00+02:00
+Session4DateUtc,2025-08-30 13:00:00
+Session5,Race
+Session5Date,2025-08-31 15:00:00+02:00
+Session5DateUtc,2025-08-31 13:00:00
+F1ApiSupport,True

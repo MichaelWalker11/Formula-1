@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1012,,5494,Qualifying,Qualifying,2019-08-31 15:00:00,2019-08-31 16:00:00,0 days 02:00:00,2019/2019-09-01_Belgian_Grand_Prix/2019-08-31_Qualifying/
+Name,Belgian Grand Prix,,5494,Qualifying,Qualifying,2019-08-31 15:00:00,2019-08-31 16:00:00,0 days 02:00:00,2019/2019-09-01_Belgian_Grand_Prix/2019-08-31_Qualifying/
+Location,Spa-Francorchamps,,5494,Qualifying,Qualifying,2019-08-31 15:00:00,2019-08-31 16:00:00,0 days 02:00:00,2019/2019-09-01_Belgian_Grand_Prix/2019-08-31_Qualifying/
+Country,"{'Key': 16, 'Code': 'BEL', 'Name': 'Belgium'}",,5494,Qualifying,Qualifying,2019-08-31 15:00:00,2019-08-31 16:00:00,0 days 02:00:00,2019/2019-09-01_Belgian_Grand_Prix/2019-08-31_Qualifying/
+Circuit,"{'Key': 7, 'ShortName': 'Spa-Francorchamps'}",,5494,Qualifying,Qualifying,2019-08-31 15:00:00,2019-08-31 16:00:00,0 days 02:00:00,2019/2019-09-01_Belgian_Grand_Prix/2019-08-31_Qualifying/
+Status,,Generating,5494,Qualifying,Qualifying,2019-08-31 15:00:00,2019-08-31 16:00:00,0 days 02:00:00,2019/2019-09-01_Belgian_Grand_Prix/2019-08-31_Qualifying/

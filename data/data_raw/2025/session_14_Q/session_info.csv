@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1266,Inactive,,9924,Qualifying,Qualifying,2025-08-02 16:00:00,2025-08-02 17:00:00,0 days 02:00:00,2025/2025-08-03_Hungarian_Grand_Prix/2025-08-02_Qualifying/
+Name,Hungarian Grand Prix,Inactive,,9924,Qualifying,Qualifying,2025-08-02 16:00:00,2025-08-02 17:00:00,0 days 02:00:00,2025/2025-08-03_Hungarian_Grand_Prix/2025-08-02_Qualifying/
+OfficialName,FORMULA 1 LENOVO HUNGARIAN GRAND PRIX 2025,Inactive,,9924,Qualifying,Qualifying,2025-08-02 16:00:00,2025-08-02 17:00:00,0 days 02:00:00,2025/2025-08-03_Hungarian_Grand_Prix/2025-08-02_Qualifying/
+Location,Budapest,Inactive,,9924,Qualifying,Qualifying,2025-08-02 16:00:00,2025-08-02 17:00:00,0 days 02:00:00,2025/2025-08-03_Hungarian_Grand_Prix/2025-08-02_Qualifying/
+Number,14,Inactive,,9924,Qualifying,Qualifying,2025-08-02 16:00:00,2025-08-02 17:00:00,0 days 02:00:00,2025/2025-08-03_Hungarian_Grand_Prix/2025-08-02_Qualifying/
+Country,"{'Key': 14, 'Code': 'HUN', 'Name': 'Hungary'}",Inactive,,9924,Qualifying,Qualifying,2025-08-02 16:00:00,2025-08-02 17:00:00,0 days 02:00:00,2025/2025-08-03_Hungarian_Grand_Prix/2025-08-02_Qualifying/
+Circuit,"{'Key': 4, 'ShortName': 'Hungaroring'}",Inactive,,9924,Qualifying,Qualifying,2025-08-02 16:00:00,2025-08-02 17:00:00,0 days 02:00:00,2025/2025-08-03_Hungarian_Grand_Prix/2025-08-02_Qualifying/
+Status,,Inactive,Generating,9924,Qualifying,Qualifying,2025-08-02 16:00:00,2025-08-02 17:00:00,0 days 02:00:00,2025/2025-08-03_Hungarian_Grand_Prix/2025-08-02_Qualifying/

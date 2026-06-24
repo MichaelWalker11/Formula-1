@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1058,,5910,Race,Race,2020-11-15 13:10:00,2020-11-15 15:10:00,0 days 03:00:00,2020/2020-11-15_Turkish_Grand_Prix/2020-11-15_Race/
+Name,Turkish Grand Prix,,5910,Race,Race,2020-11-15 13:10:00,2020-11-15 15:10:00,0 days 03:00:00,2020/2020-11-15_Turkish_Grand_Prix/2020-11-15_Race/
+Location,Istanbul,,5910,Race,Race,2020-11-15 13:10:00,2020-11-15 15:10:00,0 days 03:00:00,2020/2020-11-15_Turkish_Grand_Prix/2020-11-15_Race/
+Country,"{'Key': 175, 'Code': 'TUR', 'Name': 'Turkey'}",,5910,Race,Race,2020-11-15 13:10:00,2020-11-15 15:10:00,0 days 03:00:00,2020/2020-11-15_Turkish_Grand_Prix/2020-11-15_Race/
+Circuit,"{'Key': 59, 'ShortName': 'Istanbul'}",,5910,Race,Race,2020-11-15 13:10:00,2020-11-15 15:10:00,0 days 03:00:00,2020/2020-11-15_Turkish_Grand_Prix/2020-11-15_Race/
+Status,,Generating,5910,Race,Race,2020-11-15 13:10:00,2020-11-15 15:10:00,0 days 03:00:00,2020/2020-11-15_Turkish_Grand_Prix/2020-11-15_Race/

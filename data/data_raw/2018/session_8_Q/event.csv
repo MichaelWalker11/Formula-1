@@ -1,0 +1,24 @@
+,7
+RoundNumber,8
+Country,France
+Location,Le Castellet
+OfficialEventName,FORMULA 1 PIRELLI GRAND PRIX DE FRANCE 2018
+EventDate,2018-06-24 00:00:00
+EventName,French Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2018-06-22 12:00:00+02:00
+Session1DateUtc,2018-06-22 10:00:00
+Session2,Practice 2
+Session2Date,2018-06-22 16:00:00+02:00
+Session2DateUtc,2018-06-22 14:00:00
+Session3,Practice 3
+Session3Date,2018-06-23 13:00:00+02:00
+Session3DateUtc,2018-06-23 11:00:00
+Session4,Qualifying
+Session4Date,2018-06-23 16:00:00+02:00
+Session4DateUtc,2018-06-23 14:00:00
+Session5,Race
+Session5Date,2018-06-24 16:10:00+02:00
+Session5DateUtc,2018-06-24 14:10:00
+F1ApiSupport,True

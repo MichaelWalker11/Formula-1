@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1114,,7105,Race,Race,2022-07-03 15:00:00,2022-07-03 17:00:00,0 days 01:00:00,2022/2022-07-03_British_Grand_Prix/2022-07-03_Race/
+Name,British Grand Prix,,7105,Race,Race,2022-07-03 15:00:00,2022-07-03 17:00:00,0 days 01:00:00,2022/2022-07-03_British_Grand_Prix/2022-07-03_Race/
+OfficialName,FORMULA 1 LENOVO BRITISH GRAND PRIX 2022,,7105,Race,Race,2022-07-03 15:00:00,2022-07-03 17:00:00,0 days 01:00:00,2022/2022-07-03_British_Grand_Prix/2022-07-03_Race/
+Location,Silverstone,,7105,Race,Race,2022-07-03 15:00:00,2022-07-03 17:00:00,0 days 01:00:00,2022/2022-07-03_British_Grand_Prix/2022-07-03_Race/
+Country,"{'Key': 2, 'Code': 'GBR', 'Name': 'Great Britain'}",,7105,Race,Race,2022-07-03 15:00:00,2022-07-03 17:00:00,0 days 01:00:00,2022/2022-07-03_British_Grand_Prix/2022-07-03_Race/
+Circuit,"{'Key': 2, 'ShortName': 'Silverstone'}",,7105,Race,Race,2022-07-03 15:00:00,2022-07-03 17:00:00,0 days 01:00:00,2022/2022-07-03_British_Grand_Prix/2022-07-03_Race/
+Status,,Generating,7105,Race,Race,2022-07-03 15:00:00,2022-07-03 17:00:00,0 days 01:00:00,2022/2022-07-03_British_Grand_Prix/2022-07-03_Race/

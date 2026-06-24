@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1017,,5542,Qualifying,Qualifying,2019-10-26 13:00:00,2019-10-26 14:00:00,-1 days +19:00:00,2019/2019-10-27_Mexican_Grand_Prix/2019-10-26_Qualifying/
+Name,Mexican Grand Prix,,5542,Qualifying,Qualifying,2019-10-26 13:00:00,2019-10-26 14:00:00,-1 days +19:00:00,2019/2019-10-27_Mexican_Grand_Prix/2019-10-26_Qualifying/
+Location,Mexico City,,5542,Qualifying,Qualifying,2019-10-26 13:00:00,2019-10-26 14:00:00,-1 days +19:00:00,2019/2019-10-27_Mexican_Grand_Prix/2019-10-26_Qualifying/
+Country,"{'Key': 8, 'Code': 'MEX', 'Name': 'Mexico'}",,5542,Qualifying,Qualifying,2019-10-26 13:00:00,2019-10-26 14:00:00,-1 days +19:00:00,2019/2019-10-27_Mexican_Grand_Prix/2019-10-26_Qualifying/
+Circuit,"{'Key': 65, 'ShortName': 'Mexico City'}",,5542,Qualifying,Qualifying,2019-10-26 13:00:00,2019-10-26 14:00:00,-1 days +19:00:00,2019/2019-10-27_Mexican_Grand_Prix/2019-10-26_Qualifying/
+Status,,Generating,5542,Qualifying,Qualifying,2019-10-26 13:00:00,2019-10-26 14:00:00,-1 days +19:00:00,2019/2019-10-27_Mexican_Grand_Prix/2019-10-26_Qualifying/

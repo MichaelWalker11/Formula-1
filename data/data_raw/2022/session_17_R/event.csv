@@ -1,0 +1,24 @@
+,18
+RoundNumber,17
+Country,Singapore
+Location,Marina Bay
+OfficialEventName,FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2022
+EventDate,2022-10-02 00:00:00
+EventName,Singapore Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2022-09-30 18:00:00+08:00
+Session1DateUtc,2022-09-30 10:00:00
+Session2,Practice 2
+Session2Date,2022-09-30 21:00:00+08:00
+Session2DateUtc,2022-09-30 13:00:00
+Session3,Practice 3
+Session3Date,2022-10-01 18:00:00+08:00
+Session3DateUtc,2022-10-01 10:00:00
+Session4,Qualifying
+Session4Date,2022-10-01 21:00:00+08:00
+Session4DateUtc,2022-10-01 13:00:00
+Session5,Race
+Session5Date,2022-10-02 20:00:00+08:00
+Session5DateUtc,2022-10-02 12:00:00
+F1ApiSupport,True

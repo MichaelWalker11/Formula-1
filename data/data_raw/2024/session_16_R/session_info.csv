@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1244,,9590,Race,Race,2024-09-01 15:00:00,2024-09-01 17:00:00,0 days 02:00:00,2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/
+Name,Italian Grand Prix,,9590,Race,Race,2024-09-01 15:00:00,2024-09-01 17:00:00,0 days 02:00:00,2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/
+OfficialName,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,,9590,Race,Race,2024-09-01 15:00:00,2024-09-01 17:00:00,0 days 02:00:00,2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/
+Location,Monza,,9590,Race,Race,2024-09-01 15:00:00,2024-09-01 17:00:00,0 days 02:00:00,2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/
+Country,"{'Key': 13, 'Code': 'ITA', 'Name': 'Italy'}",,9590,Race,Race,2024-09-01 15:00:00,2024-09-01 17:00:00,0 days 02:00:00,2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/
+Circuit,"{'Key': 39, 'ShortName': 'Monza'}",,9590,Race,Race,2024-09-01 15:00:00,2024-09-01 17:00:00,0 days 02:00:00,2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/
+Status,,Generating,9590,Race,Race,2024-09-01 15:00:00,2024-09-01 17:00:00,0 days 02:00:00,2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/

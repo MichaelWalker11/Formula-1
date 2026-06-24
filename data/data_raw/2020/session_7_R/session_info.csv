@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1051,,5792,Race,Race,2020-08-30 15:10:00,2020-08-30 17:10:00,0 days 02:00:00,2020/2020-08-30_Belgian_Grand_Prix/2020-08-30_Race/
+Name,Belgian Grand Prix,,5792,Race,Race,2020-08-30 15:10:00,2020-08-30 17:10:00,0 days 02:00:00,2020/2020-08-30_Belgian_Grand_Prix/2020-08-30_Race/
+Location,Spa-Francorchamps,,5792,Race,Race,2020-08-30 15:10:00,2020-08-30 17:10:00,0 days 02:00:00,2020/2020-08-30_Belgian_Grand_Prix/2020-08-30_Race/
+Country,"{'Key': 16, 'Code': 'BEL', 'Name': 'Belgium'}",,5792,Race,Race,2020-08-30 15:10:00,2020-08-30 17:10:00,0 days 02:00:00,2020/2020-08-30_Belgian_Grand_Prix/2020-08-30_Race/
+Circuit,"{'Key': 7, 'ShortName': 'Spa-Francorchamps'}",,5792,Race,Race,2020-08-30 15:10:00,2020-08-30 17:10:00,0 days 02:00:00,2020/2020-08-30_Belgian_Grand_Prix/2020-08-30_Race/
+Status,,Generating,5792,Race,Race,2020-08-30 15:10:00,2020-08-30 17:10:00,0 days 02:00:00,2020/2020-08-30_Belgian_Grand_Prix/2020-08-30_Race/

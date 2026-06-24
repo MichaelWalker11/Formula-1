@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1115,,7115,Race,Race,2022-07-10 15:00:00,2022-07-10 17:00:00,0 days 02:00:00,2022/2022-07-10_Austrian_Grand_Prix/2022-07-10_Race/
+Name,Austrian Grand Prix,,7115,Race,Race,2022-07-10 15:00:00,2022-07-10 17:00:00,0 days 02:00:00,2022/2022-07-10_Austrian_Grand_Prix/2022-07-10_Race/
+OfficialName,FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2022,,7115,Race,Race,2022-07-10 15:00:00,2022-07-10 17:00:00,0 days 02:00:00,2022/2022-07-10_Austrian_Grand_Prix/2022-07-10_Race/
+Location,Spielberg,,7115,Race,Race,2022-07-10 15:00:00,2022-07-10 17:00:00,0 days 02:00:00,2022/2022-07-10_Austrian_Grand_Prix/2022-07-10_Race/
+Country,"{'Key': 17, 'Code': 'AUT', 'Name': 'Austria'}",,7115,Race,Race,2022-07-10 15:00:00,2022-07-10 17:00:00,0 days 02:00:00,2022/2022-07-10_Austrian_Grand_Prix/2022-07-10_Race/
+Circuit,"{'Key': 19, 'ShortName': 'Spielberg'}",,7115,Race,Race,2022-07-10 15:00:00,2022-07-10 17:00:00,0 days 02:00:00,2022/2022-07-10_Austrian_Grand_Prix/2022-07-10_Race/
+Status,,Generating,7115,Race,Race,2022-07-10 15:00:00,2022-07-10 17:00:00,0 days 02:00:00,2022/2022-07-10_Austrian_Grand_Prix/2022-07-10_Race/

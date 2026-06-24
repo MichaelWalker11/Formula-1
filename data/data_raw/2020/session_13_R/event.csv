@@ -1,0 +1,24 @@
+,14
+RoundNumber,13
+Country,Italy
+Location,Imola
+OfficialEventName,FORMULA 1 EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA 2020
+EventDate,2020-11-01 00:00:00
+EventName,Emilia Romagna Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2020-10-31 10:00:00+01:00
+Session1DateUtc,2020-10-31 09:00:00
+Session2,
+Session2Date,
+Session2DateUtc,
+Session3,
+Session3Date,
+Session3DateUtc,
+Session4,Qualifying
+Session4Date,2020-10-31 14:00:00+01:00
+Session4DateUtc,2020-10-31 13:00:00
+Session5,Race
+Session5Date,2020-11-01 13:10:00+01:00
+Session5DateUtc,2020-11-01 12:10:00
+F1ApiSupport,True

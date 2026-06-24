@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1072,,6254,Race,Race,2021-07-18 15:00:00,2021-07-18 17:00:00,0 days 01:00:00,2021/2021-07-18_British_Grand_Prix/2021-07-18_Race/
+Name,British Grand Prix,,6254,Race,Race,2021-07-18 15:00:00,2021-07-18 17:00:00,0 days 01:00:00,2021/2021-07-18_British_Grand_Prix/2021-07-18_Race/
+Location,Silverstone,,6254,Race,Race,2021-07-18 15:00:00,2021-07-18 17:00:00,0 days 01:00:00,2021/2021-07-18_British_Grand_Prix/2021-07-18_Race/
+Country,"{'Key': 2, 'Code': 'GBR', 'Name': 'Great Britain'}",,6254,Race,Race,2021-07-18 15:00:00,2021-07-18 17:00:00,0 days 01:00:00,2021/2021-07-18_British_Grand_Prix/2021-07-18_Race/
+Circuit,"{'Key': 2, 'ShortName': 'Silverstone'}",,6254,Race,Race,2021-07-18 15:00:00,2021-07-18 17:00:00,0 days 01:00:00,2021/2021-07-18_British_Grand_Prix/2021-07-18_Race/
+Status,,Generating,6254,Race,Race,2021-07-18 15:00:00,2021-07-18 17:00:00,0 days 01:00:00,2021/2021-07-18_British_Grand_Prix/2021-07-18_Race/

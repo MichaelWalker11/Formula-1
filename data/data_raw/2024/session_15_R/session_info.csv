@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1243,,9582,Race,Race,2024-08-25 15:00:00,2024-08-25 17:00:00,0 days 02:00:00,2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/
+Name,Dutch Grand Prix,,9582,Race,Race,2024-08-25 15:00:00,2024-08-25 17:00:00,0 days 02:00:00,2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/
+OfficialName,FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024,,9582,Race,Race,2024-08-25 15:00:00,2024-08-25 17:00:00,0 days 02:00:00,2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/
+Location,Zandvoort,,9582,Race,Race,2024-08-25 15:00:00,2024-08-25 17:00:00,0 days 02:00:00,2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/
+Country,"{'Key': 133, 'Code': 'NED', 'Name': 'Netherlands'}",,9582,Race,Race,2024-08-25 15:00:00,2024-08-25 17:00:00,0 days 02:00:00,2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/
+Circuit,"{'Key': 55, 'ShortName': 'Zandvoort'}",,9582,Race,Race,2024-08-25 15:00:00,2024-08-25 17:00:00,0 days 02:00:00,2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/
+Status,,Generating,9582,Race,Race,2024-08-25 15:00:00,2024-08-25 17:00:00,0 days 02:00:00,2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/

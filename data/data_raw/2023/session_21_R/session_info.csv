@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1225,,9189,Race,Race,2023-11-18 22:00:00,2023-11-19,-1 days +16:00:00,2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Race/
+Name,Las Vegas Grand Prix,,9189,Race,Race,2023-11-18 22:00:00,2023-11-19,-1 days +16:00:00,2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Race/
+OfficialName,FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2023,,9189,Race,Race,2023-11-18 22:00:00,2023-11-19,-1 days +16:00:00,2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Race/
+Location,Las Vegas,,9189,Race,Race,2023-11-18 22:00:00,2023-11-19,-1 days +16:00:00,2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Race/
+Country,"{'Key': 19, 'Code': 'USA', 'Name': 'United States'}",,9189,Race,Race,2023-11-18 22:00:00,2023-11-19,-1 days +16:00:00,2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Race/
+Circuit,"{'Key': 152, 'ShortName': 'Las Vegas'}",,9189,Race,Race,2023-11-18 22:00:00,2023-11-19,-1 days +16:00:00,2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Race/
+Status,,Generating,9189,Race,Race,2023-11-18 22:00:00,2023-11-19,-1 days +16:00:00,2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Race/

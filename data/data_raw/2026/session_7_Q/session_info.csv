@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1287,Inactive,,11303,Qualifying,Qualifying,2026-06-13 16:00:00,2026-06-13 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-13_Qualifying/
+Name,Barcelona Grand Prix,Inactive,,11303,Qualifying,Qualifying,2026-06-13 16:00:00,2026-06-13 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-13_Qualifying/
+OfficialName,FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026,Inactive,,11303,Qualifying,Qualifying,2026-06-13 16:00:00,2026-06-13 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-13_Qualifying/
+Location,Barcelona,Inactive,,11303,Qualifying,Qualifying,2026-06-13 16:00:00,2026-06-13 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-13_Qualifying/
+Number,7,Inactive,,11303,Qualifying,Qualifying,2026-06-13 16:00:00,2026-06-13 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-13_Qualifying/
+Country,"{'Key': 1, 'Code': 'ESP', 'Name': 'Spain'}",Inactive,,11303,Qualifying,Qualifying,2026-06-13 16:00:00,2026-06-13 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-13_Qualifying/
+Circuit,"{'Key': 15, 'ShortName': 'Catalunya'}",Inactive,,11303,Qualifying,Qualifying,2026-06-13 16:00:00,2026-06-13 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-13_Qualifying/
+Status,,Inactive,Generating,11303,Qualifying,Qualifying,2026-06-13 16:00:00,2026-06-13 17:00:00,0 days 02:00:00,2026/2026-06-14_Barcelona_Grand_Prix/2026-06-13_Qualifying/

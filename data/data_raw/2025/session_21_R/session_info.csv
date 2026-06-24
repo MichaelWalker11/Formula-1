@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1273,Inactive,,9869,Race,Race,2025-11-09 14:00:00,2025-11-09 16:00:00,-1 days +21:00:00,2025/2025-11-09_São_Paulo_Grand_Prix/2025-11-09_Race/
+Name,São Paulo Grand Prix,Inactive,,9869,Race,Race,2025-11-09 14:00:00,2025-11-09 16:00:00,-1 days +21:00:00,2025/2025-11-09_São_Paulo_Grand_Prix/2025-11-09_Race/
+OfficialName,FORMULA 1 MSC CRUISES GRANDE PRÊMIO DE SÃO PAULO 2025,Inactive,,9869,Race,Race,2025-11-09 14:00:00,2025-11-09 16:00:00,-1 days +21:00:00,2025/2025-11-09_São_Paulo_Grand_Prix/2025-11-09_Race/
+Location,São Paulo,Inactive,,9869,Race,Race,2025-11-09 14:00:00,2025-11-09 16:00:00,-1 days +21:00:00,2025/2025-11-09_São_Paulo_Grand_Prix/2025-11-09_Race/
+Number,21,Inactive,,9869,Race,Race,2025-11-09 14:00:00,2025-11-09 16:00:00,-1 days +21:00:00,2025/2025-11-09_São_Paulo_Grand_Prix/2025-11-09_Race/
+Country,"{'Key': 10, 'Code': 'BRA', 'Name': 'Brazil'}",Inactive,,9869,Race,Race,2025-11-09 14:00:00,2025-11-09 16:00:00,-1 days +21:00:00,2025/2025-11-09_São_Paulo_Grand_Prix/2025-11-09_Race/
+Circuit,"{'Key': 14, 'ShortName': 'Interlagos'}",Inactive,,9869,Race,Race,2025-11-09 14:00:00,2025-11-09 16:00:00,-1 days +21:00:00,2025/2025-11-09_São_Paulo_Grand_Prix/2025-11-09_Race/
+Status,,Inactive,Generating,9869,Race,Race,2025-11-09 14:00:00,2025-11-09 16:00:00,-1 days +21:00:00,2025/2025-11-09_São_Paulo_Grand_Prix/2025-11-09_Race/

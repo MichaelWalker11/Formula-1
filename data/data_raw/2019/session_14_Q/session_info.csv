@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1013,,5502,Qualifying,Qualifying,2019-09-07 15:00:00,2019-09-07 16:00:00,0 days 02:00:00,2019/2019-09-08_Italian_Grand_Prix/2019-09-07_Qualifying/
+Name,Italian Grand Prix,,5502,Qualifying,Qualifying,2019-09-07 15:00:00,2019-09-07 16:00:00,0 days 02:00:00,2019/2019-09-08_Italian_Grand_Prix/2019-09-07_Qualifying/
+Location,Monza,,5502,Qualifying,Qualifying,2019-09-07 15:00:00,2019-09-07 16:00:00,0 days 02:00:00,2019/2019-09-08_Italian_Grand_Prix/2019-09-07_Qualifying/
+Country,"{'Key': 13, 'Code': 'ITA', 'Name': 'Italy'}",,5502,Qualifying,Qualifying,2019-09-07 15:00:00,2019-09-07 16:00:00,0 days 02:00:00,2019/2019-09-08_Italian_Grand_Prix/2019-09-07_Qualifying/
+Circuit,"{'Key': 39, 'ShortName': 'Monza'}",,5502,Qualifying,Qualifying,2019-09-07 15:00:00,2019-09-07 16:00:00,0 days 02:00:00,2019/2019-09-08_Italian_Grand_Prix/2019-09-07_Qualifying/
+Status,,Generating,5502,Qualifying,Qualifying,2019-09-07 15:00:00,2019-09-07 16:00:00,0 days 02:00:00,2019/2019-09-08_Italian_Grand_Prix/2019-09-07_Qualifying/

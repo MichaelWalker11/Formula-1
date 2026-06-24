@@ -1,0 +1,24 @@
+,20
+RoundNumber,19
+Country,United States
+Location,Austin
+OfficialEventName,FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2022
+EventDate,2022-10-23 00:00:00
+EventName,United States Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2022-10-21 14:00:00-05:00
+Session1DateUtc,2022-10-21 19:00:00
+Session2,Practice 2
+Session2Date,2022-10-21 17:00:00-05:00
+Session2DateUtc,2022-10-21 22:00:00
+Session3,Practice 3
+Session3Date,2022-10-22 14:00:00-05:00
+Session3DateUtc,2022-10-22 19:00:00
+Session4,Qualifying
+Session4Date,2022-10-22 17:00:00-05:00
+Session4DateUtc,2022-10-22 22:00:00
+Session5,Race
+Session5Date,2022-10-23 14:00:00-05:00
+Session5DateUtc,2022-10-23 19:00:00
+F1ApiSupport,True

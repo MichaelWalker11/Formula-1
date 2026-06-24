@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1236,,9523,Race,Race,2024-05-26 15:00:00,2024-05-26 17:00:00,0 days 02:00:00,2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/
+Name,Monaco Grand Prix,,9523,Race,Race,2024-05-26 15:00:00,2024-05-26 17:00:00,0 days 02:00:00,2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/
+OfficialName,FORMULA 1 GRAND PRIX DE MONACO 2024,,9523,Race,Race,2024-05-26 15:00:00,2024-05-26 17:00:00,0 days 02:00:00,2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/
+Location,Monaco,,9523,Race,Race,2024-05-26 15:00:00,2024-05-26 17:00:00,0 days 02:00:00,2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/
+Country,"{'Key': 114, 'Code': 'MON', 'Name': 'Monaco'}",,9523,Race,Race,2024-05-26 15:00:00,2024-05-26 17:00:00,0 days 02:00:00,2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/
+Circuit,"{'Key': 22, 'ShortName': 'Monte Carlo'}",,9523,Race,Race,2024-05-26 15:00:00,2024-05-26 17:00:00,0 days 02:00:00,2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/
+Status,,Generating,9523,Race,Race,2024-05-26 15:00:00,2024-05-26 17:00:00,0 days 02:00:00,2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/

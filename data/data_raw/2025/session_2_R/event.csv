@@ -1,0 +1,24 @@
+,2
+RoundNumber,2
+Country,China
+Location,Shanghai
+OfficialEventName,FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2025
+EventDate,2025-03-23 00:00:00
+EventName,Chinese Grand Prix
+EventFormat,sprint_qualifying
+Session1,Practice 1
+Session1Date,2025-03-21 11:30:00+08:00
+Session1DateUtc,2025-03-21 03:30:00
+Session2,Sprint Qualifying
+Session2Date,2025-03-21 15:30:00+08:00
+Session2DateUtc,2025-03-21 07:30:00
+Session3,Sprint
+Session3Date,2025-03-22 11:00:00+08:00
+Session3DateUtc,2025-03-22 03:00:00
+Session4,Qualifying
+Session4Date,2025-03-22 15:00:00+08:00
+Session4DateUtc,2025-03-22 07:00:00
+Session5,Race
+Session5Date,2025-03-23 15:00:00+08:00
+Session5DateUtc,2025-03-23 07:00:00
+F1ApiSupport,True

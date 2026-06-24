@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1075,,6269,Race,Race,2021-09-05 15:00:00,2021-09-05 17:00:00,0 days 02:00:00,2021/2021-09-05_Dutch_Grand_Prix/2021-09-05_Race/
+Name,Dutch Grand Prix,,6269,Race,Race,2021-09-05 15:00:00,2021-09-05 17:00:00,0 days 02:00:00,2021/2021-09-05_Dutch_Grand_Prix/2021-09-05_Race/
+Location,Zandvoort,,6269,Race,Race,2021-09-05 15:00:00,2021-09-05 17:00:00,0 days 02:00:00,2021/2021-09-05_Dutch_Grand_Prix/2021-09-05_Race/
+Country,"{'Key': 133, 'Code': 'NED', 'Name': 'Netherlands'}",,6269,Race,Race,2021-09-05 15:00:00,2021-09-05 17:00:00,0 days 02:00:00,2021/2021-09-05_Dutch_Grand_Prix/2021-09-05_Race/
+Circuit,"{'Key': 55, 'ShortName': 'Zandvoort'}",,6269,Race,Race,2021-09-05 15:00:00,2021-09-05 17:00:00,0 days 02:00:00,2021/2021-09-05_Dutch_Grand_Prix/2021-09-05_Race/
+Status,,Generating,6269,Race,Race,2021-09-05 15:00:00,2021-09-05 17:00:00,0 days 02:00:00,2021/2021-09-05_Dutch_Grand_Prix/2021-09-05_Race/

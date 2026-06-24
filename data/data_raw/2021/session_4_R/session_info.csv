@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1086,,6324,Race,Race,2021-05-09 15:00:00,2021-05-09 17:00:00,0 days 02:00:00,2021/2021-05-09_Spanish_Grand_Prix/2021-05-09_Race/
+Name,Spanish Grand Prix,,6324,Race,Race,2021-05-09 15:00:00,2021-05-09 17:00:00,0 days 02:00:00,2021/2021-05-09_Spanish_Grand_Prix/2021-05-09_Race/
+Location,Barcelona,,6324,Race,Race,2021-05-09 15:00:00,2021-05-09 17:00:00,0 days 02:00:00,2021/2021-05-09_Spanish_Grand_Prix/2021-05-09_Race/
+Country,"{'Key': 1, 'Code': 'ESP', 'Name': 'Spain'}",,6324,Race,Race,2021-05-09 15:00:00,2021-05-09 17:00:00,0 days 02:00:00,2021/2021-05-09_Spanish_Grand_Prix/2021-05-09_Race/
+Circuit,"{'Key': 15, 'ShortName': 'Catalunya'}",,6324,Race,Race,2021-05-09 15:00:00,2021-05-09 17:00:00,0 days 02:00:00,2021/2021-05-09_Spanish_Grand_Prix/2021-05-09_Race/
+Status,,Generating,6324,Race,Race,2021-05-09 15:00:00,2021-05-09 17:00:00,0 days 02:00:00,2021/2021-05-09_Spanish_Grand_Prix/2021-05-09_Race/

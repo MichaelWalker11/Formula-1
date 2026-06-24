@@ -1,0 +1,24 @@
+,14
+RoundNumber,15
+Country,Singapore
+Location,Singapore
+OfficialEventName,FORMULA 1 2018 SINGAPORE AIRLINES SINGAPORE GRAND PRIX
+EventDate,2018-09-16 00:00:00
+EventName,Singapore Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2018-09-14 16:30:00+08:00
+Session1DateUtc,2018-09-14 08:30:00
+Session2,Practice 2
+Session2Date,2018-09-14 20:30:00+08:00
+Session2DateUtc,2018-09-14 12:30:00
+Session3,Practice 3
+Session3Date,2018-09-15 18:00:00+08:00
+Session3DateUtc,2018-09-15 10:00:00
+Session4,Qualifying
+Session4Date,2018-09-15 21:00:00+08:00
+Session4DateUtc,2018-09-15 13:00:00
+Session5,Race
+Session5Date,2018-09-16 20:10:00+08:00
+Session5DateUtc,2018-09-16 12:10:00
+F1ApiSupport,True

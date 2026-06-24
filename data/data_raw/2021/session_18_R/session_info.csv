@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1103,,6569,Race,Race,2021-11-07 13:00:00,2021-11-07 15:00:00,-1 days +18:00:00,2021/2021-11-07_Mexico_City_Grand_Prix/2021-11-07_Race/
+Name,Mexico City Grand Prix,,6569,Race,Race,2021-11-07 13:00:00,2021-11-07 15:00:00,-1 days +18:00:00,2021/2021-11-07_Mexico_City_Grand_Prix/2021-11-07_Race/
+Location,Mexico City,,6569,Race,Race,2021-11-07 13:00:00,2021-11-07 15:00:00,-1 days +18:00:00,2021/2021-11-07_Mexico_City_Grand_Prix/2021-11-07_Race/
+Country,"{'Key': 8, 'Code': 'MEX', 'Name': 'Mexico'}",,6569,Race,Race,2021-11-07 13:00:00,2021-11-07 15:00:00,-1 days +18:00:00,2021/2021-11-07_Mexico_City_Grand_Prix/2021-11-07_Race/
+Circuit,"{'Key': 65, 'ShortName': 'Mexico City'}",,6569,Race,Race,2021-11-07 13:00:00,2021-11-07 15:00:00,-1 days +18:00:00,2021/2021-11-07_Mexico_City_Grand_Prix/2021-11-07_Race/
+Status,,Generating,6569,Race,Race,2021-11-07 13:00:00,2021-11-07 15:00:00,-1 days +18:00:00,2021/2021-11-07_Mexico_City_Grand_Prix/2021-11-07_Race/

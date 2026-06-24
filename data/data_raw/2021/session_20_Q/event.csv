@@ -1,0 +1,24 @@
+,20
+RoundNumber,20
+Country,Qatar
+Location,Lusail
+OfficialEventName,FORMULA 1 OOREDOO QATAR GRAND PRIX 2021
+EventDate,2021-11-21 00:00:00
+EventName,Qatar Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2021-11-19 13:30:00+03:00
+Session1DateUtc,2021-11-19 10:30:00
+Session2,Practice 2
+Session2Date,2021-11-19 17:00:00+03:00
+Session2DateUtc,2021-11-19 14:00:00
+Session3,Practice 3
+Session3Date,2021-11-20 14:00:00+03:00
+Session3DateUtc,2021-11-20 11:00:00
+Session4,Qualifying
+Session4Date,2021-11-20 17:00:00+03:00
+Session4DateUtc,2021-11-20 14:00:00
+Session5,Race
+Session5Date,2021-11-21 17:00:00+03:00
+Session5DateUtc,2021-11-21 14:00:00
+F1ApiSupport,True

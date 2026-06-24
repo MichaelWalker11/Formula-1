@@ -1,0 +1,24 @@
+,8
+RoundNumber,8
+Country,Monaco
+Location,Monaco
+OfficialEventName,FORMULA 1 GRAND PRIX DE MONACO 2024
+EventDate,2024-05-26 00:00:00
+EventName,Monaco Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2024-05-24 13:30:00+02:00
+Session1DateUtc,2024-05-24 11:30:00
+Session2,Practice 2
+Session2Date,2024-05-24 17:00:00+02:00
+Session2DateUtc,2024-05-24 15:00:00
+Session3,Practice 3
+Session3Date,2024-05-25 12:30:00+02:00
+Session3DateUtc,2024-05-25 10:30:00
+Session4,Qualifying
+Session4Date,2024-05-25 16:00:00+02:00
+Session4DateUtc,2024-05-25 14:00:00
+Session5,Race
+Session5Date,2024-05-26 15:00:00+02:00
+Session5DateUtc,2024-05-26 13:00:00
+F1ApiSupport,True

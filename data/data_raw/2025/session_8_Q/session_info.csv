@@ -1,0 +1,9 @@
+,Meeting,SessionStatus,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1261,Inactive,,9975,Qualifying,Qualifying,2025-05-24 16:00:00,2025-05-24 17:00:00,0 days 02:00:00,2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/
+Name,Monaco Grand Prix,Inactive,,9975,Qualifying,Qualifying,2025-05-24 16:00:00,2025-05-24 17:00:00,0 days 02:00:00,2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/
+OfficialName,FORMULA 1 TAG HEUER GRAND PRIX DE MONACO 2025,Inactive,,9975,Qualifying,Qualifying,2025-05-24 16:00:00,2025-05-24 17:00:00,0 days 02:00:00,2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/
+Location,Monaco,Inactive,,9975,Qualifying,Qualifying,2025-05-24 16:00:00,2025-05-24 17:00:00,0 days 02:00:00,2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/
+Number,8,Inactive,,9975,Qualifying,Qualifying,2025-05-24 16:00:00,2025-05-24 17:00:00,0 days 02:00:00,2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/
+Country,"{'Key': 114, 'Code': 'MON', 'Name': 'Monaco'}",Inactive,,9975,Qualifying,Qualifying,2025-05-24 16:00:00,2025-05-24 17:00:00,0 days 02:00:00,2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/
+Circuit,"{'Key': 22, 'ShortName': 'Monte Carlo'}",Inactive,,9975,Qualifying,Qualifying,2025-05-24 16:00:00,2025-05-24 17:00:00,0 days 02:00:00,2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/
+Status,,Inactive,Generating,9975,Qualifying,Qualifying,2025-05-24 16:00:00,2025-05-24 17:00:00,0 days 02:00:00,2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/

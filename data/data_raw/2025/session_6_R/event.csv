@@ -1,0 +1,24 @@
+,6
+RoundNumber,6
+Country,United States
+Location,Miami Gardens
+OfficialEventName,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2025
+EventDate,2025-05-04 00:00:00
+EventName,Miami Grand Prix
+EventFormat,sprint_qualifying
+Session1,Practice 1
+Session1Date,2025-05-02 12:30:00-04:00
+Session1DateUtc,2025-05-02 16:30:00
+Session2,Sprint Qualifying
+Session2Date,2025-05-02 16:30:00-04:00
+Session2DateUtc,2025-05-02 20:30:00
+Session3,Sprint
+Session3Date,2025-05-03 12:00:00-04:00
+Session3DateUtc,2025-05-03 16:00:00
+Session4,Qualifying
+Session4Date,2025-05-03 16:00:00-04:00
+Session4DateUtc,2025-05-03 20:00:00
+Session5,Race
+Session5Date,2025-05-04 16:00:00-04:00
+Session5DateUtc,2025-05-04 20:00:00
+F1ApiSupport,True

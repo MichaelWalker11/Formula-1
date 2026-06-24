@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1212,,9110,Race,Race,2023-06-18 14:00:00,2023-06-18 16:00:00,-1 days +20:00:00,2023/2023-06-18_Canadian_Grand_Prix/2023-06-18_Race/
+Name,Canadian Grand Prix,,9110,Race,Race,2023-06-18 14:00:00,2023-06-18 16:00:00,-1 days +20:00:00,2023/2023-06-18_Canadian_Grand_Prix/2023-06-18_Race/
+OfficialName,FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2023,,9110,Race,Race,2023-06-18 14:00:00,2023-06-18 16:00:00,-1 days +20:00:00,2023/2023-06-18_Canadian_Grand_Prix/2023-06-18_Race/
+Location,Montréal,,9110,Race,Race,2023-06-18 14:00:00,2023-06-18 16:00:00,-1 days +20:00:00,2023/2023-06-18_Canadian_Grand_Prix/2023-06-18_Race/
+Country,"{'Key': 46, 'Code': 'CAN', 'Name': 'Canada'}",,9110,Race,Race,2023-06-18 14:00:00,2023-06-18 16:00:00,-1 days +20:00:00,2023/2023-06-18_Canadian_Grand_Prix/2023-06-18_Race/
+Circuit,"{'Key': 23, 'ShortName': 'Montreal'}",,9110,Race,Race,2023-06-18 14:00:00,2023-06-18 16:00:00,-1 days +20:00:00,2023/2023-06-18_Canadian_Grand_Prix/2023-06-18_Race/
+Status,,Generating,9110,Race,Race,2023-06-18 14:00:00,2023-06-18 16:00:00,-1 days +20:00:00,2023/2023-06-18_Canadian_Grand_Prix/2023-06-18_Race/

@@ -1,0 +1,24 @@
+,9
+RoundNumber,8
+Country,Austria
+Location,Spielberg
+OfficialEventName,FORMULA 1 LENOVO AUSTRIAN GRAND PRIX 2026
+EventDate,2026-06-28 00:00:00
+EventName,Austrian Grand Prix
+EventFormat,conventional
+Session1,Practice 1
+Session1Date,2026-06-26 13:30:00+02:00
+Session1DateUtc,2026-06-26 11:30:00
+Session2,Practice 2
+Session2Date,2026-06-26 17:00:00+02:00
+Session2DateUtc,2026-06-26 15:00:00
+Session3,Practice 3
+Session3Date,2026-06-27 12:30:00+02:00
+Session3DateUtc,2026-06-27 10:30:00
+Session4,Qualifying
+Session4Date,2026-06-27 16:00:00+02:00
+Session4DateUtc,2026-06-27 14:00:00
+Session5,Race
+Session5Date,2026-06-28 15:00:00+02:00
+Session5DateUtc,2026-06-28 13:00:00
+F1ApiSupport,True

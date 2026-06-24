@@ -1,0 +1,8 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1213,,9118,Race,Race,2023-07-02 15:00:00,2023-07-02 17:00:00,0 days 02:00:00,2023/2023-07-02_Austrian_Grand_Prix/2023-07-02_Race/
+Name,Austrian Grand Prix,,9118,Race,Race,2023-07-02 15:00:00,2023-07-02 17:00:00,0 days 02:00:00,2023/2023-07-02_Austrian_Grand_Prix/2023-07-02_Race/
+OfficialName,FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2023,,9118,Race,Race,2023-07-02 15:00:00,2023-07-02 17:00:00,0 days 02:00:00,2023/2023-07-02_Austrian_Grand_Prix/2023-07-02_Race/
+Location,Spielberg,,9118,Race,Race,2023-07-02 15:00:00,2023-07-02 17:00:00,0 days 02:00:00,2023/2023-07-02_Austrian_Grand_Prix/2023-07-02_Race/
+Country,"{'Key': 17, 'Code': 'AUT', 'Name': 'Austria'}",,9118,Race,Race,2023-07-02 15:00:00,2023-07-02 17:00:00,0 days 02:00:00,2023/2023-07-02_Austrian_Grand_Prix/2023-07-02_Race/
+Circuit,"{'Key': 19, 'ShortName': 'Spielberg'}",,9118,Race,Race,2023-07-02 15:00:00,2023-07-02 17:00:00,0 days 02:00:00,2023/2023-07-02_Austrian_Grand_Prix/2023-07-02_Race/
+Status,,Generating,9118,Race,Race,2023-07-02 15:00:00,2023-07-02 17:00:00,0 days 02:00:00,2023/2023-07-02_Austrian_Grand_Prix/2023-07-02_Race/

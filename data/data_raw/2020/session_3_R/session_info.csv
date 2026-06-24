@@ -1,0 +1,7 @@
+,Meeting,ArchiveStatus,Key,Type,Name,StartDate,EndDate,GmtOffset,Path
+Key,1047,,5760,Race,Race,2020-07-19 15:10:00,2020-07-19 17:10:00,0 days 02:00:00,2020/2020-07-19_Hungarian_Grand_Prix/2020-07-19_Race/
+Name,Hungarian Grand Prix,,5760,Race,Race,2020-07-19 15:10:00,2020-07-19 17:10:00,0 days 02:00:00,2020/2020-07-19_Hungarian_Grand_Prix/2020-07-19_Race/
+Location,Budapest,,5760,Race,Race,2020-07-19 15:10:00,2020-07-19 17:10:00,0 days 02:00:00,2020/2020-07-19_Hungarian_Grand_Prix/2020-07-19_Race/
+Country,"{'Key': 14, 'Code': 'HUN', 'Name': 'Hungary'}",,5760,Race,Race,2020-07-19 15:10:00,2020-07-19 17:10:00,0 days 02:00:00,2020/2020-07-19_Hungarian_Grand_Prix/2020-07-19_Race/
+Circuit,"{'Key': 4, 'ShortName': 'Hungaroring'}",,5760,Race,Race,2020-07-19 15:10:00,2020-07-19 17:10:00,0 days 02:00:00,2020/2020-07-19_Hungarian_Grand_Prix/2020-07-19_Race/
+Status,,Generating,5760,Race,Race,2020-07-19 15:10:00,2020-07-19 17:10:00,0 days 02:00:00,2020/2020-07-19_Hungarian_Grand_Prix/2020-07-19_Race/
