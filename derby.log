@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jul 10 23:50:40 EDT 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-019f-4f4c-7d85-0000033c1eb8 
+on database directory /sfs/gpfs/tardis/home/azd9vv/Formula-1/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/sfs/gpfs/tardis/home/azd9vv/.local/lib/python3.11/site-packages/pyspark/jars/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.11+10-LTS
+user.dir=/sfs/gpfs/tardis/home/azd9vv/Formula-1
+os.name=Linux
+os.arch=amd64
+os.version=4.18.0-553.124.1.el8_10.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
